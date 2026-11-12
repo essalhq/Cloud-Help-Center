@@ -6,9 +6,9 @@ title: "Using BrandFetch to Import Your Logo and Brand Colors"
 {/* category: Badge Design & Templates */}
 {/* audience: Admins */}
 
-BrandFetch lets you automatically import your company's logo and brand colors by entering your website URL — no manual uploading or color picking required. This article explains how to use it.
+BrandFetch lets you automatically import your company's logo and brand colors by entering your website URL ,  no manual uploading or color picking required. This article explains how to use it.
 
-BrandFetch is located in **Settings** — navigate to **Settings** in the sidebar, then click the **Branding** tab.
+BrandFetch is located in **Settings** ,  navigate to **Settings** in the sidebar, then click the **Branding** tab.
 
 ![Settings Branding tab showing the BrandFetch import section with URL input and Fetch Brand button](../screenshots/settings-branding.png)
 
@@ -39,7 +39,7 @@ On success:
 
 - Your company name, logo, primary color, and accent color are populated automatically
 - A success notice appears confirming the import
-- The input clears — the data has been applied
+- The input clears ,  the data has been applied
 
 ---
 
@@ -79,7 +79,7 @@ Use this to quickly test different badge styles before applying your real brand.
 
 ## Applying Brand Data to the Badge Designer
 
-After importing via BrandFetch, your logo and colors are stored in Settings. They are automatically loaded into the Badge Designer's right panel when you open it. No additional steps are needed — the badge preview updates to show your brand immediately.
+After importing via BrandFetch, your logo and colors are stored in Settings. They are automatically loaded into the Badge Designer's right panel when you open it. No additional steps are needed ,  the badge preview updates to show your brand immediately.
 
 To manually access the same settings in the Badge Designer:
 

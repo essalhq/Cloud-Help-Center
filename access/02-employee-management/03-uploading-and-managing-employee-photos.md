@@ -14,10 +14,10 @@ Navigate to **Employees**, open the employee's record, and make sure you are on 
 
 ---
 
-## Method 1 — Upload from File
+## Method 1 ,  Upload from File
 
 1. Click the **Upload Photo** button below the photo circle, or click directly on the photo circle itself
-2. A file picker opens — select any image file (JPG, PNG, WEBP, GIF, etc.)
+2. A file picker opens ,  select any image file (JPG, PNG, WEBP, GIF, etc.)
 3. The photo is uploaded and the circle updates immediately
 
 **File size limit**: 2 MB. If the selected file is larger, an error message appears and the upload is rejected.
@@ -25,31 +25,31 @@ Navigate to **Employees**, open the employee's record, and make sure you are on 
 **Recommended specs**:
 
 - Minimum 400×400 px for a clear badge print
-- Square crop works best — the badge displays the photo in a circle
+- Square crop works best ,  the badge displays the photo in a circle
 - PNG or JPG for web; avoid animated GIFs
 
-> **AI background removal**: If your tenant has the Claid photo enhancement API configured, the background is automatically removed from uploaded photos before they are stored. This gives badges a clean, professional appearance. The enhancement happens silently — you do not need to take any extra steps.
+> **AI background removal**: If your tenant has the Claid photo enhancement API configured, the background is automatically removed from uploaded photos before they are stored. This gives badges a clean, professional appearance. The enhancement happens silently ,  you do not need to take any extra steps.
 
 ---
 
-## Method 2 — Capture from Webcam
+## Method 2 ,  Capture from Webcam
 
 1. Click **Take Photo** below the photo circle
 2. A full-screen camera view opens with an oval face guide
 3. Position the employee's face within the oval
-4. Click **Capture** (the large blue circle button) — the video pauses and shows a preview
+4. Click **Capture** (the large blue circle button) ,  the video pauses and shows a preview
 5. Click **Use Photo** to accept it, or **Retake** to try again
 6. The photo is uploaded and saved
 
-> **Tip**: Use the webcam method when employees are present in the office — it is faster than asking people to send photos and ensures consistent framing.
+> **Tip**: Use the webcam method when employees are present in the office ,  it is faster than asking people to send photos and ensures consistent framing.
 
 ---
 
-## Method 3 — No Photo (Placeholder)
+## Method 3 ,  No Photo (Placeholder)
 
 If no photo is uploaded, the badge and profile display a generic avatar placeholder. The employee's initials or a silhouette icon are shown instead.
 
-You can add a photo at any time by editing the employee record — the badge updates immediately when the record is saved.
+You can add a photo at any time by editing the employee record ,  the badge updates immediately when the record is saved.
 
 ---
 

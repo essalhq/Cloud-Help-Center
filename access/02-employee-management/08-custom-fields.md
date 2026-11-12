@@ -32,9 +32,9 @@ Custom field values are stored per employee and can be shown on badges and publi
 ## Creating a Custom Field
 
 1. In the **Custom Fields** tab, find the **New Custom Field** form
-2. Set the **Field Name** — this is the label shown on the employee form (e.g. _Desk Number_, _Security Level_)
+2. Set the **Field Name** ,  this is the label shown on the employee form (e.g. _Desk Number_, _Security Level_)
 3. Choose a **Field Type** (see options below)
-4. Configure the **Options** (for select fields — see below)
+4. Configure the **Options** (for select fields ,  see below)
 5. Set any additional toggles (Required, Show on Badge, Show on Public Profile, Allow Employee Self-Edit)
 6. Click **Add Field** to save
 
@@ -62,7 +62,7 @@ For **Select** type fields, a list of allowed values must be defined:
 
 1. Type each option in the **Options** text area, one per line
 2. The employee form will show a dropdown with exactly these options
-3. CSV imports must use one of the listed values exactly — other values cause a validation error
+3. CSV imports must use one of the listed values exactly ,  other values cause a validation error
 
 ---
 

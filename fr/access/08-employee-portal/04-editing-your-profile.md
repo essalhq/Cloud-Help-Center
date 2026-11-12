@@ -48,8 +48,8 @@ Si votre organisation utilise des attributs de profil personnalisés, une sectio
 
 Selon les paramètres de votre organisation, les modifications de profil peuvent fonctionner de deux manières :
 
-- **Mise à jour directe** — vos modifications sont appliquées immédiatement à votre dossier d'employé et sont visibles partout (badge, annuaire, etc.).
-- **Surcharge de carte de visite** — vos modifications sont stockées séparément et n'apparaissent que sur votre carte de visite numérique et votre profil public, sans modifier le dossier employé principal.
+- **Mise à jour directe** ,  vos modifications sont appliquées immédiatement à votre dossier d'employé et sont visibles partout (badge, annuaire, etc.).
+- **Surcharge de carte de visite** ,  vos modifications sont stockées séparément et n'apparaissent que sur votre carte de visite numérique et votre profil public, sans modifier le dossier employé principal.
 
 Votre administrateur contrôle quel mode est actif. Si vous n'êtes pas sûr de celui qui vous concerne, demandez à votre équipe RH ou informatique.
 

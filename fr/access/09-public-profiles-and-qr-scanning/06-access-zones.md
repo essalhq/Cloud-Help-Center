@@ -4,7 +4,7 @@ title: "Zones d'Accès"
 {/* category: Public Profiles & QR Scanning */}
 
 
-Les zones d'accès sont des espaces nommés au sein de votre établissement — tels que "Hall d'entrée", "Salle des serveurs" ou "Étage 2". Vous pouvez attribuer des zones aux employés et aux badges visiteurs pour indiquer les zones où ils sont autorisés à pénétrer. Les zones sont visibles sur le profil public lorsque le champ **Niveau d'accès** est activé.
+Les zones d'accès sont des espaces nommés au sein de votre établissement ,  tels que "Hall d'entrée", "Salle des serveurs" ou "Étage 2". Vous pouvez attribuer des zones aux employés et aux badges visiteurs pour indiquer les zones où ils sont autorisés à pénétrer. Les zones sont visibles sur le profil public lorsque le champ **Niveau d'accès** est activé.
 
 ---
 
@@ -14,9 +14,9 @@ Les zones sont définies au niveau de l'organisation dans **Paramètres → Zone
 
 Pour chaque zone, vous pouvez définir :
 
-- **Nom** — le libellé utilisé dans tout le système (ex : "Laboratoire Restreint")
-- **Description** — notes facultatives sur la zone
-- **Couleur** — couleur utilisée pour afficher la zone sous forme de badge/puce dans l'interface
+- **Nom** ,  le libellé utilisé dans tout le système (ex : "Laboratoire Restreint")
+- **Description** ,  notes facultatives sur la zone
+- **Couleur** ,  couleur utilisée pour afficher la zone sous forme de badge/puce dans l'interface
 
 ---
 
@@ -45,4 +45,4 @@ Lors de la création d'un badge visiteur, vous pouvez spécifier les zones d'acc
 
 ## Relation entre les Zones et les terminaux d'enregistrement
 
-Les terminaux d'enregistrement sont associés à un **emplacement** physique (configuré lors de l'enregistrement de l'appareil). Les zones et les emplacements d'appareils sont des concepts distincts — les zones définissent ce pour quoi un employé est autorisé, tandis que l'emplacement de l'appareil enregistre l'endroit où un scan a eu lieu. Combinés, ils offrent une vue d'ensemble complète dans les journaux de scan pour savoir qui a été scanné à quel endroit et s'il était autorisé.
+Les terminaux d'enregistrement sont associés à un **emplacement** physique (configuré lors de l'enregistrement de l'appareil). Les zones et les emplacements d'appareils sont des concepts distincts ,  les zones définissent ce pour quoi un employé est autorisé, tandis que l'emplacement de l'appareil enregistre l'endroit où un scan a eu lieu. Combinés, ils offrent une vue d'ensemble complète dans les journaux de scan pour savoir qui a été scanné à quel endroit et s'il était autorisé.

@@ -16,9 +16,9 @@ Bulk actions let you perform operations on multiple employees at once, saving ti
 
 Each employee row has a **checkbox** on the far left. Click the checkbox to select that employee. Selected rows are highlighted with a blue tint.
 
-- **Select one** — click a single checkbox
-- **Select all on current page** — click the checkbox in the column header
-- **Deselect all** — click the header checkbox again, or press `Escape` when no modal is open
+- **Select one** ,  click a single checkbox
+- **Select all on current page** ,  click the checkbox in the column header
+- **Deselect all** ,  click the header checkbox again, or press `Escape` when no modal is open
 
 The filter bar is replaced by a **"X employees selected"** counter once any checkboxes are checked. Use the search and filter tools first to narrow down the list, then select all visible results.
 
@@ -64,7 +64,7 @@ Sets all selected `pending` employees to `active` in a single operation. Useful 
 
 Sets all selected employees to `suspended` status. Skips any employees who are already terminated.
 
-Use this when multiple employees need their access temporarily paused — for example, during a site shutdown or a scheduled audit.
+Use this when multiple employees need their access temporarily paused ,  for example, during a site shutdown or a scheduled audit.
 
 > Suspended employees can be individually reactivated later from their row action menu.
 
@@ -74,7 +74,7 @@ Use this when multiple employees need their access temporarily paused — for ex
 
 Marks the active badge of each selected employee as `lost` and updates their status accordingly.
 
-Use this in a security incident where multiple badges are believed to be compromised — for example, if a bag with multiple badge cards was stolen.
+Use this in a security incident where multiple badges are believed to be compromised ,  for example, if a bag with multiple badge cards was stolen.
 
 Each affected employee will need a badge reissued individually (use **Reissue Badge** from the row action menu).
 
@@ -86,7 +86,7 @@ Each affected employee will need a badge reissued individually (use **Reissue Ba
 
 Permanently deletes all selected employee records. A confirmation dialog appears before the deletion proceeds.
 
-> **This action cannot be undone.** All data for the deleted employees — badges, tickets, scan history references, and health records — is permanently removed. Use termination (not deletion) if you want to preserve historical records.
+> **This action cannot be undone.** All data for the deleted employees ,  badges, tickets, scan history references, and health records ,  is permanently removed. Use termination (not deletion) if you want to preserve historical records.
 
 ---
 

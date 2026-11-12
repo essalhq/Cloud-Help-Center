@@ -8,7 +8,7 @@ title: "Personnaliser les couleurs et polices du badge"
 
 L'onglet Marque du panneau droit du Badge Designer vous permet de définir les couleurs, la police, le logo et l'image de fond qui s'appliquent à l'ensemble du modèle de badge.
 
-![Badge Designer — panneau Marque](../screenshots/badge-designer.png)
+![Badge Designer ,  panneau Marque](../screenshots/badge-designer.png)
 
 ---
 
@@ -51,7 +51,7 @@ Téléchargez le logo de votre organisation. Le logo apparaît sur le **recto et
 Téléchargez une image pour la rendre en arrière-plan de tous les éléments du badge sur le recto.
 
 - Taille maximale : 2 Mo
-- L'image est rendue derrière tout le contenu — veillez à ce qu'elle n'affecte pas la lisibilité du texte
+- L'image est rendue derrière tout le contenu ,  veillez à ce qu'elle n'affecte pas la lisibilité du texte
 
 ---
 
@@ -65,7 +65,7 @@ Change la police utilisée pour **l'ensemble du texte du badge**.
 | **Serif** | Classique et traditionnel (ex. : Times New Roman) |
 | **Monospace** | Style technique (ex. : Courier) |
 
-> La police est l'un des rares éléments que vous ne pouvez changer qu'ici ou via les suggestions de thème IA — il n'existe pas d'autre moyen de la modifier.
+> La police est l'un des rares éléments que vous ne pouvez changer qu'ici ou via les suggestions de thème IA ,  il n'existe pas d'autre moyen de la modifier.
 
 ---
 

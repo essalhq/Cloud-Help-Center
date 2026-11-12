@@ -4,7 +4,7 @@ title: "Présentation des Cartes de Visite"
 {/* category: Business Cards */}
 
 
-Chaque employé dans Essal Access dispose d'une carte de visite numérique — une page claire et partageable affichant ses détails professionnels et ses coordonnées. La carte de visite est conçue pour être partagée comme une carte physique : via un lien, un code QR ou un fichier vCard qui peut être enregistré directement dans les contacts d'un téléphone.
+Chaque employé dans Essal Access dispose d'une carte de visite numérique ,  une page claire et partageable affichant ses détails professionnels et ses coordonnées. La carte de visite est conçue pour être partagée comme une carte physique : via un lien, un code QR ou un fichier vCard qui peut être enregistré directement dans les contacts d'un téléphone.
 
 ![Éditeur de Carte de Visite](../screenshots/business-card-editor.png)
 
@@ -19,7 +19,7 @@ Essal Access propose deux vues publiques différentes :
 | **Objectif**      | Réseautage professionnel, partage de contact           | Vérification de badge et contrôle d'accès                                  |
 | **Visible quand** | Toujours (quand le mode carte de visite est actif)     | Uniquement quand la vérification publique est d'activée                    |
 | **Contient**      | Nom, rôle, département, contact, bio, liens            | Tout ce qui précède + tickets, zones d'accès, données de santé et sécurité |
-| **Alternative**   | Affichée quand la vérification complète est désactivée | —                                                                          |
+| **Alternative** | Affichée quand la vérification complète est désactivée | , |
 
 La carte de visite est la vue légère et respectueuse de la vie privée. Le profil public complet est la vue orientée vers le contrôle d'accès.
 
@@ -29,15 +29,15 @@ La carte de visite est la vue légère et respectueuse de la vie privée. Le pro
 
 Une carte de visite affiche :
 
-- **Bande de couverture** — la couleur primaire de votre organisation, avec une photo de couverture facultative et le logo de l'entreprise.
-- **Photo de profil** — la photo de l'employé, ou ses initiales si aucune photo n'est définie.
+- **Bande de couverture** ,  la couleur primaire de votre organisation, avec une photo de couverture facultative et le logo de l'entreprise.
+- **Photo de profil** ,  la photo de l'employé, ou ses initiales si aucune photo n'est définie.
 - **Nom, rôle et département**.
-- **Icônes de réseaux sociaux** — LinkedIn, Twitter/X, Instagram, Facebook (liés).
-- **Bouton Enregistrer le Contact** — télécharge un fichier vCard (.vcf) pour enregistrement dans les contacts du téléphone.
-- **Boutons E-mail et Appeler** — liens d'action rapide (si les coordonnées sont partagées).
-- **Site web et liens personnalisés** — tout lien supplémentaire configuré par l'administrateur ou l'employé.
-- **Bio** — le texte de biographie de l'employé.
-- **Section Contact** — e-mail et téléphone avec icônes.
+- **Icônes de réseaux sociaux** ,  LinkedIn, Twitter/X, Instagram, Facebook (liés).
+- **Bouton Enregistrer le Contact** ,  télécharge un fichier vCard (.vcf) pour enregistrement dans les contacts du téléphone.
+- **Boutons E-mail et Appeler** ,  liens d'action rapide (si les coordonnées sont partagées).
+- **Site web et liens personnalisés** ,  tout lien supplémentaire configuré par l'administrateur ou l'employé.
+- **Bio** ,  le texte de biographie de l'employé.
+- **Section Contact** ,  e-mail et téléphone avec icônes.
 
 ---
 

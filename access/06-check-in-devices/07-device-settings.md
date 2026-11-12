@@ -37,7 +37,7 @@ These fields are editable and stored locally. They are displayed to admins in th
 | Setting | Notes |
 |---|---|
 | **Device name** | A label for this device (e.g. "Main Entrance Tablet") |
-| **Guard name** | The name of the operator (e.g. "Ahmed — Night Shift") |
+| **Guard name** | The name of the operator (e.g. "Ahmed ,  Night Shift") |
 | **Location** | A description of where the device is placed |
 
 Click **Save** after making changes. These updates are stored locally and reflected in the device's identity within the check-in log.
@@ -66,9 +66,9 @@ The data cache section shows how much data is stored locally for offline scannin
 | Log entries | Total scan events stored locally |
 | Unsynced | Events not yet pushed to the server |
 
-**Force Sync** — immediately triggers a full data refresh from the server. Use this after making bulk employee changes in the admin panel, or after extended offline use.
+**Force Sync** ,  immediately triggers a full data refresh from the server. Use this after making bulk employee changes in the admin panel, or after extended offline use.
 
-**Clear Cache** — removes all locally cached employee and guest records. The device will re-download data on the next sync. Use this to free up storage or troubleshoot stale data.
+**Clear Cache** ,  removes all locally cached employee and guest records. The device will re-download data on the next sync. Use this to free up storage or troubleshoot stale data.
 
 ---
 

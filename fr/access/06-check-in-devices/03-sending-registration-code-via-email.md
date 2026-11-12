@@ -20,7 +20,7 @@ Les invitations par e-mail sont utiles lorsque :
 - Vous souhaitez planifier la configuration de l'appareil sans être présent.
 - Vous envoyez des instructions à un opérateur non technique qui a besoin d'un lien de configuration clair.
 
-Contrairement aux codes générés par le bouton **Générer Code** (qui expirent après 15 minutes), les codes d'invitation par e-mail **n'expirent pas** — ils restent valides jusqu'à leur utilisation.
+Contrairement aux codes générés par le bouton **Générer Code** (qui expirent après 15 minutes), les codes d'invitation par e-mail **n'expirent pas** ,  ils restent valides jusqu'à leur utilisation.
 
 ---
 
@@ -29,8 +29,8 @@ Contrairement aux codes générés par le bouton **Générer Code** (qui expiren
 1. Naviguez vers **Terminaux d'Enregistrement** dans le panneau d'administration.
 2. Cliquez sur **Envoyer E-mail de Configuration**.
 3. Remplissez le formulaire d'invitation :
-   - **Adresse e-mail** (requis) — le destinataire recevra le lien de configuration ici.
-   - **Nom du destinataire** (optionnel) — personnalise la salutation de l'e-mail.
+   - **Adresse e-mail** (requis) ,  le destinataire recevra le lien de configuration ici.
+   - **Nom du destinataire** (optionnel) ,  personnalise la salutation de l'e-mail.
 4. Cliquez sur **Envoyer**.
 
 Le système génère un code d'enregistrement unique et envoie un e-mail contenant :

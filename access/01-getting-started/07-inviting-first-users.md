@@ -21,13 +21,13 @@ Navigate to **System Users** in the sidebar (or **Settings → Users**).
 
    | Field         | Notes                                                                       |
    | ------------- | --------------------------------------------------------------------------- |
-   | **Full Name** | The person's name — displayed in the admin panel and in email notifications |
-   | **Email**     | Their work email address — this is their login username                     |
+   | **Full Name** | The person's name ,  displayed in the admin panel and in email notifications |
+   | **Email** | Their work email address ,  this is their login username |
    | **Role**      | Choose Admin, Manager, or Security (see below)                              |
 
 3. Click **Create User**
 
-Essal Access creates the account and sends a **magic link email** to the address you entered. The new user clicks the link to sign in for the first time — no password setup is required unless they choose to set one later.
+Essal Access creates the account and sends a **magic link email** to the address you entered. The new user clicks the link to sign in for the first time ,  no password setup is required unless they choose to set one later.
 
 > **Employee role not available here**: The Employee role is assigned automatically when you link a system user to an employee record. You cannot select it in the Add User form. To give an employee portal access, create their employee record first and link a portal account to it.
 
@@ -37,9 +37,9 @@ Essal Access creates the account and sends a **magic link email** to the address
 
 | Role         | Who to assign it to                                                              |
 | ------------ | -------------------------------------------------------------------------------- |
-| **Admin**    | IT managers, system owners — full access including user management               |
-| **Manager**  | HR staff, office managers — can manage employees and badges, cannot manage users |
-| **Security** | Guards, receptionists — can view employees, guest badges, and scan logs only     |
+| **Admin** | IT managers, system owners ,  full access including user management |
+| **Manager** | HR staff, office managers ,  can manage employees and badges, cannot manage users |
+| **Security** | Guards, receptionists ,  can view employees, guest badges, and scan logs only |
 
 For a detailed breakdown of what each role can and cannot do, see Understanding User Roles.
 
@@ -55,7 +55,7 @@ When you create a user account, Essal Access automatically sends an invitation e
 - A sign-in link (magic link) to access the admin panel
 - The URL for the admin panel (`access.essal.cloud`)
 
-Magic links expire after **10 minutes**. If the new user misses the link, they can request a new one from the login page by entering their email and clicking **Continue** — a new magic link will be sent immediately.
+Magic links expire after **10 minutes**. If the new user misses the link, they can request a new one from the login page by entering their email and clicking **Continue** ,  a new magic link will be sent immediately.
 
 ---
 
@@ -97,7 +97,7 @@ Deleting permanently removes the user's account and their login access. This can
 2. Click the **trash icon** in their row
 3. Confirm the deletion in the prompt
 
-Use deletion for former employees or accounts created in error. For temporary removal, prefer **suspension** — it keeps the account history intact and is reversible.
+Use deletion for former employees or accounts created in error. For temporary removal, prefer **suspension** ,  it keeps the account history intact and is reversible.
 
 > Only Admins can delete users. You cannot delete your own account.
 

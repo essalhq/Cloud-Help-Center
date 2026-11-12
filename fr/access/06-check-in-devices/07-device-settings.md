@@ -37,7 +37,7 @@ Ces champs sont modifiables et stockés localement. Ils sont affichés aux admin
 | Paramètre             | Notes                                                            |
 | --------------------- | ---------------------------------------------------------------- |
 | **Nom de l'appareil** | Un libellé pour cet appareil (ex : "Tablette Entrée Principale") |
-| **Nom de l'agent**    | Le nom de l'opérateur (ex : "Ahmed — Équipe de Nuit")            |
+| **Nom de l'agent** | Le nom de l'opérateur (ex : "Ahmed ,  Équipe de Nuit") |
 | **Emplacement**       | Une description du lieu où l'appareil est placé                  |
 
 Cliquez sur **Enregistrer** après avoir effectué des modifications. Ces mises à jour sont stockées localement et reflétées dans l'identité de l'appareil au sein des logs d'enregistrement.
@@ -66,9 +66,9 @@ La section cache de données indique la quantité de données stockées localeme
 | Entrées de log   | Total des événements de scan stockés localement           |
 | Non synchronisés | Événements pas encore envoyés au serveur                  |
 
-**Synchronisation forcée (Force Sync)** — déclenche immédiatement un rafraîchissement complet des données depuis le serveur. Utilisez cette option après avoir effectué des modifications massives d'employés dans le panneau d'administration, ou après une utilisation prolongée hors-ligne.
+**Synchronisation forcée (Force Sync)** ,  déclenche immédiatement un rafraîchissement complet des données depuis le serveur. Utilisez cette option après avoir effectué des modifications massives d'employés dans le panneau d'administration, ou après une utilisation prolongée hors-ligne.
 
-**Vider le cache (Clear Cache)** — supprime tous les enregistrements d'employés et de visiteurs mis en cache localement. L'appareil téléchargera à nouveau les données lors de la prochaine synchronisation. Utilisez cette option pour libérer de l'espace de stockage ou résoudre des problèmes de données obsolètes.
+**Vider le cache (Clear Cache)** ,  supprime tous les enregistrements d'employés et de visiteurs mis en cache localement. L'appareil téléchargera à nouveau les données lors de la prochaine synchronisation. Utilisez cette option pour libérer de l'espace de stockage ou résoudre des problèmes de données obsolètes.
 
 ---
 

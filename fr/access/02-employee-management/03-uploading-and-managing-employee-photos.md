@@ -14,10 +14,10 @@ Accédez aux **Employés**, ouvrez l'enregistrement de l'employé et assurez-vou
 
 ---
 
-## Méthode 1 — Télécharger depuis un fichier
+## Méthode 1 ,  Télécharger depuis un fichier
 
 1. Cliquez sur le bouton **Télécharger une photo** sous le cercle de photo, ou cliquez directement sur le cercle de photo
-2. Un sélecteur de fichiers s'ouvre — sélectionnez n'importe quel fichier image (JPG, PNG, WEBP, GIF, etc.)
+2. Un sélecteur de fichiers s'ouvre ,  sélectionnez n'importe quel fichier image (JPG, PNG, WEBP, GIF, etc.)
 3. La photo est téléchargée et le cercle se met à jour immédiatement
 
 **Limite de taille de fichier** : 2 Mo. Si le fichier sélectionné est plus grand, un message d'erreur apparaît et le téléchargement est rejeté.
@@ -25,31 +25,31 @@ Accédez aux **Employés**, ouvrez l'enregistrement de l'employé et assurez-vou
 **Spécifications recommandées** :
 
 - Minimum 400 × 400 px pour une impression de badge nette
-- Un recadrage carré convient le mieux — le badge affiche la photo en cercle
+- Un recadrage carré convient le mieux ,  le badge affiche la photo en cercle
 - PNG ou JPG pour le web ; évitez les GIF animés
 
-> **Suppression de fond par IA** : Si votre locataire a l'API d'amélioration photo Claid configurée, l'arrière-plan est automatiquement supprimé des photos téléchargées avant leur stockage. Cela donne aux badges une apparence propre et professionnelle. L'amélioration se fait silencieusement — vous n'avez pas besoin d'effectuer d'étapes supplémentaires.
+> **Suppression de fond par IA** : Si votre locataire a l'API d'amélioration photo Claid configurée, l'arrière-plan est automatiquement supprimé des photos téléchargées avant leur stockage. Cela donne aux badges une apparence propre et professionnelle. L'amélioration se fait silencieusement ,  vous n'avez pas besoin d'effectuer d'étapes supplémentaires.
 
 ---
 
-## Méthode 2 — Capturer depuis la webcam
+## Méthode 2 ,  Capturer depuis la webcam
 
 1. Cliquez sur **Prendre une photo** sous le cercle de photo
 2. Une vue de caméra plein écran s'ouvre avec un guide ovale pour le visage
 3. Positionnez le visage de l'employé dans l'ovale
-4. Cliquez sur **Capturer** (le grand bouton cercle bleu) — la vidéo se met en pause et affiche un aperçu
+4. Cliquez sur **Capturer** (le grand bouton cercle bleu) ,  la vidéo se met en pause et affiche un aperçu
 5. Cliquez sur **Utiliser la photo** pour l'accepter, ou **Reprendre** pour réessayer
 6. La photo est téléchargée et sauvegardée
 
-> **Conseil** : Utilisez la méthode webcam lorsque les employés sont présents au bureau — c'est plus rapide que de demander aux gens d'envoyer des photos et assure un cadrage cohérent.
+> **Conseil** : Utilisez la méthode webcam lorsque les employés sont présents au bureau ,  c'est plus rapide que de demander aux gens d'envoyer des photos et assure un cadrage cohérent.
 
 ---
 
-## Méthode 3 — Aucune photo (espace réservé)
+## Méthode 3 ,  Aucune photo (espace réservé)
 
 Si aucune photo n'est téléchargée, le badge et le profil affichent un avatar de remplacement générique. Les initiales de l'employé ou une icône de silhouette sont affichées à la place.
 
-Vous pouvez ajouter une photo à tout moment en modifiant l'enregistrement de l'employé — le badge se met à jour immédiatement lorsque l'enregistrement est sauvegardé.
+Vous pouvez ajouter une photo à tout moment en modifiant l'enregistrement de l'employé ,  le badge se met à jour immédiatement lorsque l'enregistrement est sauvegardé.
 
 ---
 

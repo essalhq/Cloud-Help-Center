@@ -19,7 +19,7 @@ Navigate to **Settings** in the sidebar, then click the **Departments** tab.
 1. In the **Departments** tab, find the **New Department** form.
 2. Enter the **Department Name** (e.g. _Engineering_, _Human Resources_, _Operations_).
 3. Optionally set a **Parent Department** to create a nested structure.
-4. Optionally choose a **Color** — used as a visual accent in the employee list and on badges.
+4. Optionally choose a **Color** ,  used as a visual accent in the employee list and on badges.
 5. Click **Add** (or press Enter) to save.
 
 The new department appears immediately in the list and becomes available in the **Department** dropdown on all employee profile forms.
@@ -30,7 +30,7 @@ The new department appears immediately in the list and becomes available in the 
 
 ## Nested Departments (Parent / Child Hierarchy)
 
-You can create sub-departments by setting a **Parent Department**. This lets you model complex org charts. The full path is shown wherever departments appear — e.g., `Operations > Warehouse > Shipping`.
+You can create sub-departments by setting a **Parent Department**. This lets you model complex org charts. The full path is shown wherever departments appear ,  e.g., `Operations > Warehouse > Shipping`.
 
 Example hierarchy:
 
@@ -57,7 +57,7 @@ Each department can have a color code. The color is used:
 - On employee badges (if enabled in the template).
 - In department filter chips.
 
-Colors have no effect on access control — they are purely visual.
+Colors have no effect on access control ,  they are purely visual.
 
 ---
 
@@ -73,8 +73,8 @@ Click the **Delete** (trash) icon next to a department.
 
 **You cannot delete a department if:**
 
-- It has sub-departments — remove or re-parent the sub-departments first.
-- Employees are currently assigned to it — reassign those employees to another department first.
+- It has sub-departments ,  remove or re-parent the sub-departments first.
+- Employees are currently assigned to it ,  reassign those employees to another department first.
 
 > Renaming a department updates all employee records with the new name automatically.
 
@@ -84,7 +84,7 @@ Click the **Delete** (trash) icon next to a department.
 
 Departments are assigned per employee on the **Profile** tab of the employee modal. Open an employee record, go to the **Profile** tab, and select the department from the **Department** dropdown.
 
-For bulk assignment, use the CSV import wizard — include a `Department` column in your spreadsheet. See Importing Employees from CSV.
+For bulk assignment, use the CSV import wizard ,  include a `Department` column in your spreadsheet. See Importing Employees from CSV.
 
 ---
 

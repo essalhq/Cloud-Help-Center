@@ -15,7 +15,7 @@ When a badge with a PIN requirement is scanned:
 3. If the code is correct, the system records a verified scan event and the profile is displayed.
 4. If the code is wrong, the attempt is logged. After 5 incorrect attempts, the PIN is locked and further attempts are blocked.
 
-All verification attempts — successful and failed — are recorded in the audit log with device information and timestamp.
+All verification attempts ,  successful and failed ,  are recorded in the audit log with device information and timestamp.
 
 ## Enabling a PIN for an Employee
 
@@ -30,10 +30,10 @@ From the next scan onwards, the PIN screen will appear before the profile is sho
 
 The visitor entering the PIN sees four individual digit boxes. The screen supports:
 
-- **Auto-advance** — focus moves to the next box as each digit is typed
-- **Backspace navigation** — deleting a digit returns focus to the previous box
-- **Paste** — pasting a 4-digit code fills all boxes automatically and submits immediately
-- **Enter key** — pressing Enter after the last digit submits
+- **Auto-advance** ,  focus moves to the next box as each digit is typed
+- **Backspace navigation** ,  deleting a digit returns focus to the previous box
+- **Paste** ,  pasting a 4-digit code fills all boxes automatically and submits immediately
+- **Enter key** ,  pressing Enter after the last digit submits
 
 The screen uses the organization's primary brand color.
 

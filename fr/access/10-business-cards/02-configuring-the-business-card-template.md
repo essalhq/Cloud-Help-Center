@@ -4,7 +4,7 @@ title: "Configurer le Modèle de Carte de Visite"
 {/* category: Business Cards */}
 
 
-L'Éditeur de Carte de Visite permet aux administrateurs de définir le style visuel et le contenu des cartes de visite pour tous les employés de l'organisation. Les modifications s'appliquent globalement — la carte de chaque employé est mise à jour.
+L'Éditeur de Carte de Visite permet aux administrateurs de définir le style visuel et le contenu des cartes de visite pour tous les employés de l'organisation. Les modifications s'appliquent globalement ,  la carte de chaque employé est mise à jour.
 
 ![Éditeur de Carte de Visite](../screenshots/business-card-editor.png)
 
@@ -18,9 +18,9 @@ Allez dans **Paramètres → Éditeur de Carte de Visite** dans la navigation d'
 
 ## Identité Visuelle (Branding)
 
-**Couleur primaire** — définit la couleur de la bande de couverture en haut de la carte et du bouton **Enregistrer le Contact**. Cliquez sur l'échantillon de couleur pour ouvrir un sélecteur de couleurs.
+**Couleur primaire** ,  définit la couleur de la bande de couverture en haut de la carte et du bouton **Enregistrer le Contact**. Cliquez sur l'échantillon de couleur pour ouvrir un sélecteur de couleurs.
 
-**Photo de couverture** — téléchargez facultativement une image de fond pour la bande de couverture. Dimensions recommandées : 1200 × 400 px ou plus large. La photo est compressée automatiquement lors du téléchargement (largeur max 1200 px). Cliquez sur **Supprimer** pour revenir à un arrière-plan de couleur unie.
+**Photo de couverture** ,  téléchargez facultativement une image de fond pour la bande de couverture. Dimensions recommandées : 1200 × 400 px ou plus large. La photo est compressée automatiquement lors du téléchargement (largeur max 1200 px). Cliquez sur **Supprimer** pour revenir à un arrière-plan de couleur unie.
 
 ---
 
@@ -44,17 +44,17 @@ Contrôlez quelles sections apparaissent sur la carte de chaque employé :
 
 ## Liens Personnalisés à l'Échelle de l'Organisation
 
-Vous pouvez ajouter des liens qui apparaîtront sur la carte de visite de **chaque** employé — par exemple, le site web de l'entreprise, la page LinkedIn de l'entreprise ou un lien de réservation.
+Vous pouvez ajouter des liens qui apparaîtront sur la carte de visite de **chaque** employé ,  par exemple, le site web de l'entreprise, la page LinkedIn de l'entreprise ou un lien de réservation.
 
 ### Ajouter un lien
 
 1. Dans la section **Liens Personnalisés**, sélectionnez un **Type** :
-   - **Site Web** — s'affiche comme un bouton pilule avec une icône de globe
-   - **LinkedIn** — s'affiche comme un cercle d'icône sociale (couleur de marque LinkedIn)
-   - **Twitter / X** — s'affiche comme un cercle d'icône sociale
-   - **Instagram** — s'affiche comme un cercle d'icône sociale
-   - **Facebook** — s'affiche comme un cercle d'icône sociale
-   - **Personnalisé** — s'affiche comme un bouton pilule ; vous pouvez définir un libellé personnalisé
+   - **Site Web** ,  s'affiche comme un bouton pilule avec une icône de globe
+   - **LinkedIn** ,  s'affiche comme un cercle d'icône sociale (couleur de marque LinkedIn)
+   - **Twitter / X** ,  s'affiche comme un cercle d'icône sociale
+   - **Instagram** ,  s'affiche comme un cercle d'icône sociale
+   - **Facebook** ,  s'affiche comme un cercle d'icône sociale
+   - **Personnalisé** ,  s'affiche comme un bouton pilule ; vous pouvez définir un libellé personnalisé
 2. Saisissez l'URL.
 3. Pour le type **Personnalisé**, saisissez un libellé (ex : "Prendre RDV").
 4. Cliquez sur **Ajouter**.

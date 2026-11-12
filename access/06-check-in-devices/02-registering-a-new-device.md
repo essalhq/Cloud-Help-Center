@@ -20,20 +20,20 @@ Registering a device links it to your organization and allows it to access your 
 
 ---
 
-## Step 1 — Generate a Registration Code
+## Step 1 ,  Generate a Registration Code
 
 1. Log in to the Essal Access admin panel
 2. Navigate to **Check-In Devices** in the sidebar
 3. Click **Generate Code**
 4. A 6-character code appears (e.g. `A3F7B2`) with a countdown timer
-5. The code is valid for **15 minutes** — the timer turns red when less than 60 seconds remain
+5. The code is valid for **15 minutes** ,  the timer turns red when less than 60 seconds remain
 6. Click the copy icon to copy the code, or read it aloud to the person setting up the device
 
 > If the code expires before it is used, click **Generate Again** to get a new one immediately.
 
 ---
 
-## Step 2 — Open the Check-In App on the Device
+## Step 2 ,  Open the Check-In App on the Device
 
 1. On the device, open a browser and go to **`https://scan.idpage.link`**
 2. If prompted to install the app, follow the **Add to Home Screen** instructions (optional but recommended)
@@ -41,22 +41,22 @@ Registering a device links it to your organization and allows it to access your 
 
 ---
 
-## Step 3 — Complete the Setup Wizard
+## Step 3 ,  Complete the Setup Wizard
 
 The wizard walks through the following steps:
 
-**1. Choose language** — select English, French (Français), or Arabic (العربية). The app interface and results will be shown in this language.
+**1. Choose language** ,  select English, French (Français), or Arabic (العربية). The app interface and results will be shown in this language.
 
-**2. Install app (optional)** — if the browser shows an install prompt, click **Install** to add the app to the home screen for easier access. Tap **Continue in browser** to skip.
+**2. Install app (optional)** ,  if the browser shows an install prompt, click **Install** to add the app to the home screen for easier access. Tap **Continue in browser** to skip.
 
-**3. Enter registration code** — type the 6-character code from the admin panel. The code is automatically converted to uppercase as you type. Tap **Confirm** — Essal verifies the code with the server and links the device to your organization.
+**3. Enter registration code** ,  type the 6-character code from the admin panel. The code is automatically converted to uppercase as you type. Tap **Confirm** ,  Essal verifies the code with the server and links the device to your organization.
 
 **4. Enter device details:**
-- **Guard name** (required) — the name of the operator using this device (e.g. "Main Gate Security")
-- **Device name** (required) — a label for this device (e.g. "Main Entrance Tablet")
-- **Location** (optional) — a description of where the device is placed
+- **Guard name** (required) ,  the name of the operator using this device (e.g. "Main Gate Security")
+- **Device name** (required) ,  a label for this device (e.g. "Main Entrance Tablet")
+- **Location** (optional) ,  a description of where the device is placed
 
-**5. Confirm** — the app saves the configuration locally and opens the scan screen.
+**5. Confirm** ,  the app saves the configuration locally and opens the scan screen.
 
 ---
 

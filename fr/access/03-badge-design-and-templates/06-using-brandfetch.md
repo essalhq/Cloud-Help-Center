@@ -8,7 +8,7 @@ title: "Utiliser BrandFetch pour importer votre logo et vos couleurs"
 
 BrandFetch est un outil intégré qui récupère automatiquement le logo et les couleurs de marque de votre organisation à partir de son site Web. En quelques secondes, votre badge reflète l'identité visuelle officielle de votre entreprise.
 
-![Paramètres — onglet Marque avec BrandFetch](../screenshots/settings-branding.png)
+![Paramètres ,  onglet Marque avec BrandFetch](../screenshots/settings-branding.png)
 
 ---
 
@@ -52,6 +52,6 @@ Si BrandFetch ne trouve pas votre marque :
 
 ## Après l'importation
 
-Toutes les valeurs importées peuvent être modifiées manuellement dans le Badge Designer. L'importation BrandFetch est un point de départ — elle ne verrouille aucun paramètre.
+Toutes les valeurs importées peuvent être modifiées manuellement dans le Badge Designer. L'importation BrandFetch est un point de départ ,  elle ne verrouille aucun paramètre.
 
 Pour affiner les couleurs ou remplacer le logo après l'importation, consultez Personnaliser les couleurs et polices du badge.

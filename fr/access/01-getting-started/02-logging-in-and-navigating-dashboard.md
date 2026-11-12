@@ -18,15 +18,15 @@ Accédez à [https://access.essal.cloud](https://access.essal.cloud) dans n'impo
 
 Essal Access propose deux façons de se connecter :
 
-### Option 1 — Lien magique (par défaut)
+### Option 1 ,  Lien magique (par défaut)
 
 1. Saisissez votre adresse e-mail et cliquez sur **Continuer**
 2. Consultez votre boîte de réception pour un e-mail de connexion envoyé par Essal Access
-3. Cliquez sur le lien dans l'e-mail — vous êtes connecté immédiatement, sans mot de passe
+3. Cliquez sur le lien dans l'e-mail ,  vous êtes connecté immédiatement, sans mot de passe
 
 Les liens magiques expirent après 10 minutes. Si le lien a expiré, retournez sur la page de connexion et demandez-en un nouveau.
 
-### Option 2 — Connexion par mot de passe
+### Option 2 ,  Connexion par mot de passe
 
 1. Saisissez votre adresse e-mail
 2. Cliquez sur **Se connecter avec un mot de passe (Admins)** sous le champ e-mail pour afficher le champ de mot de passe
@@ -38,7 +38,7 @@ Les liens magiques expirent après 10 minutes. Si le lien a expiré, retournez s
 
 ## Le tableau de bord d'administration
 
-Après la connexion, vous arrivez sur le **Tableau de bord** — l'écran d'accueil du panneau d'administration.
+Après la connexion, vous arrivez sur le **Tableau de bord** ,  l'écran d'accueil du panneau d'administration.
 
 ![Tableau de bord d'administration affichant les cartes de métriques, les actions rapides et le fil d'activité récente](../screenshots/dashboard.png)
 
@@ -51,7 +51,7 @@ La barre en haut de la page affiche :
 | Élément                                   | Ce qu'elle indique                                                  |
 | ----------------------------------------- | ------------------------------------------------------------------- |
 | **Message de bienvenue**                  | Votre nom et la date du jour                                        |
-| **Badge Tous les systèmes opérationnels** | Lien vers `status.essal.cloud` — vert signifie aucun incident actif |
+| **Badge Tous les systèmes opérationnels** | Lien vers `status.essal.cloud` ,  vert signifie aucun incident actif |
 
 ### 2. Cartes de métriques
 

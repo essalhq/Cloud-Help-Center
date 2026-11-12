@@ -64,19 +64,18 @@ Both actions show a confirmation dialog before proceeding. Press **Escape** to c
 
 Use the status filter (above the table) to narrow the list to a specific status:
 
-- **All** — shows every badge
-- **Active** — currently valid badges
-- **Expired** — past their validity window
-- **Revoked** — manually cancelled badges
+- **All** ,  shows every badge
+- **Active** ,  currently valid badges
+- **Expired** ,  past their validity window
+- **Revoked** ,  manually cancelled badges
 
 Filtering is useful when you want to:
-- **Bulk-delete old expired badges** — filter by Expired, select all, delete
-- **Find and revoke a specific active badge** — filter by Active, search by name
-- **Audit who was on site** — filter by date range or status
+- **Bulk-delete old expired badges** ,  filter by Expired, select all, delete
+- **Find and revoke a specific active badge** ,  filter by Active, search by name
+- **Audit who was on site** ,  filter by date range or status
 
 ---
 
 ## Pagination
 
 The list shows **10 rows per page** by default. Use the rows-per-page selector (10 / 25 / 50 / 100) to show more badges at once, or navigate between pages using the page controls.
-

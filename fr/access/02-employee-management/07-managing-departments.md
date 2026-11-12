@@ -6,9 +6,9 @@ title: "Gérer les départements"
 {/* category: Employee Management */}
 {/* audience: Admins */}
 
-Les départements vous permettent d'organiser les employés en groupes, de filtrer les listes et — selon la configuration — d'afficher l'appartenance à un département sur le badge de l'employé.
+Les départements vous permettent d'organiser les employés en groupes, de filtrer les listes et ,  selon la configuration ,  d'afficher l'appartenance à un département sur le badge de l'employé.
 
-![Paramètres — onglet Départements](../screenshots/settings-departments.png)
+![Paramètres ,  onglet Départements](../screenshots/settings-departments.png)
 
 ---
 
@@ -47,7 +47,7 @@ Il n'y a pas de limite au nombre de niveaux d'imbrication. Les départements enf
 
 ## Couleurs des départements
 
-Les couleurs sont **uniquement visuelles** — elles n'affectent pas le contrôle d'accès ni les règles de badge. Utilisez-les pour distinguer rapidement les départements dans la liste des employés et les rapports.
+Les couleurs sont **uniquement visuelles** ,  elles n'affectent pas le contrôle d'accès ni les règles de badge. Utilisez-les pour distinguer rapidement les départements dans la liste des employés et les rapports.
 
 ---
 

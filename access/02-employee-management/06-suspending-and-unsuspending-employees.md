@@ -21,10 +21,10 @@ Use suspension when access needs to be paused temporarily:
 
 Suspension is different from termination:
 
-- **Suspended** — reversible, employee record and badge history are intact, easy to reactivate
-- **Terminated** — signals the employment has ended; use for off-boarding
+- **Suspended** ,  reversible, employee record and badge history are intact, easy to reactivate
+- **Terminated** ,  signals the employment has ended; use for off-boarding
 
-If the employee's physical badge card has been lost or stolen, use **Mark Lost** instead — this issues a "badge lost" status rather than a general suspension and prompts a badge reissue.
+If the employee's physical badge card has been lost or stolen, use **Mark Lost** instead ,  this issues a "badge lost" status rather than a general suspension and prompts a badge reissue.
 
 ---
 
@@ -35,7 +35,7 @@ If the employee's physical badge card has been lost or stolen, use **Mark Lost**
 3. Click the **⋯** actions menu on their row
 4. Select **Deactivate**
 
-The employee's status changes to **Suspended** (orange badge) immediately. Their badge QR code will now return a **Denied — Suspended** result at any check-in device.
+The employee's status changes to **Suspended** (orange badge) immediately. Their badge QR code will now return a **Denied ,  Suspended** result at any check-in device.
 
 ![Employee list showing an employee with Suspended status badge](../screenshots/employees-list.png)
 
@@ -45,9 +45,9 @@ The employee's status changes to **Suspended** (orange badge) immediately. Their
 
 ## What Happens When Suspended
 
-- All badge scans are denied immediately — no grace period
+- All badge scans are denied immediately ,  no grace period
 - The public profile page shows an **Access Suspended** message to anyone scanning the QR code
-- The employee can still log into the Employee Portal (their system user account is separate — suspend that separately if needed from System Users)
+- The employee can still log into the Employee Portal (their system user account is separate ,  suspend that separately if needed from System Users)
 - The employee remains visible on the **Active** tab in the employee list alongside active employees
 - All historical data (scan logs, badge history, tickets) is preserved
 

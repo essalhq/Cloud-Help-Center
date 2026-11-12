@@ -25,7 +25,7 @@ Nine fields can be toggled on or off. Each is a pill-shaped switch that turns bl
 | **Department**  | The employee's department name                                                     |
 | **Employee ID** | The unique employee identifier (e.g. `EMP-A3F7K2`)                                 |
 | **Badge ID**    | The physical badge card identifier (e.g. `BDG-X7K2M9`)                             |
-| **Blood Type**  | The employee's blood type (e.g. `A+`, `O-`) — useful for first-responder scenarios |
+| **Blood Type** | The employee's blood type (e.g. `A+`, `O-`) ,  useful for first-responder scenarios |
 | **QR Code**     | The scannable QR code that links to the employee's public profile                  |
 | **Slogan**      | Your company tagline as set in Settings → Branding                                 |
 | **Logo**        | Your company logo (or company name text if no logo is uploaded)                    |
@@ -50,13 +50,13 @@ Labels improve clarity when multiple IDs appear on the same badge, or when the b
 
 ## Field Rendering by Layout
 
-Not every layout renders every field in the same position or the same way. The layout determines placement — toggling a field on means it will be shown wherever that layout places it.
+Not every layout renders every field in the same position or the same way. The layout determines placement ,  toggling a field on means it will be shown wherever that layout places it.
 
-- **Photo** — displayed as a circle in all layouts; size varies (large in Modern and Conference, medium in Corporate and Minimal)
-- **QR Code** — positioned in a corner or beside the photo; always has a white background for reliable scanning
-- **Logo** — shown in the header, corner, or top area depending on the layout
-- **Role pill** — some layouts render the role inside a colored pill (Modern, Conference, Corporate); others render it as plain text
-- **Blood Type** — rendered as smaller text, typically below department or role
+- **Photo** ,  displayed as a circle in all layouts; size varies (large in Modern and Conference, medium in Corporate and Minimal)
+- **QR Code** ,  positioned in a corner or beside the photo; always has a white background for reliable scanning
+- **Logo** ,  shown in the header, corner, or top area depending on the layout
+- **Role pill** ,  some layouts render the role inside a colored pill (Modern, Conference, Corporate); others render it as plain text
+- **Blood Type** ,  rendered as smaller text, typically below department or role
 
 Use the live preview and switch between layouts to see how your field selection looks in each one.
 
@@ -87,7 +87,7 @@ Use the live preview and switch between layouts to see how your field selection 
 
 ## Name Fields
 
-The employee's **First Name** and **Last Name** are always displayed on the badge — there is no toggle to hide the name. The name is the primary identifier and is part of every layout's core structure.
+The employee's **First Name** and **Last Name** are always displayed on the badge ,  there is no toggle to hide the name. The name is the primary identifier and is part of every layout's core structure.
 
 ---
 
@@ -97,6 +97,6 @@ The QR code on the badge links to the employee's public verification profile at 
 
 - Uses the employee's most recently issued active badge ID
 - Updates automatically when a new badge is issued to that employee
-- The page it links to can be configured in **Public Page Editor** — see Configuring the Public Profile Page
+- The page it links to can be configured in **Public Page Editor** ,  see Configuring the Public Profile Page
 
 If **Public Profile Enabled** is turned off for an employee (Security tab), their QR code is still on the badge but scanning it shows a blocked/restricted message.

@@ -24,7 +24,7 @@ When enabled:
 - The Back Elements section appears in the left panel
 - The back side is included when printing (Print Center renders both sides)
 
-When disabled, the back of the badge is blank — nothing prints on the reverse.
+When disabled, the back of the badge is blank ,  nothing prints on the reverse.
 
 ---
 
@@ -37,7 +37,7 @@ Five content elements can be toggled on or off for the back face:
 | **Accent Lines** | A thin color bar at the top edge and another at the bottom edge, in your primary color. Adds a polished frame to the back. |
 | **Logo**         | Your company logo (or company name text if no logo image is uploaded), centered on the back.                               |
 | **Tagline**      | Your company tagline (as configured in Settings → Branding), centered below the logo.                                      |
-| **QR Code**      | The employee's QR code, centered on the back — useful when the front QR is too small or partially covered.                 |
+| **QR Code** | The employee's QR code, centered on the back ,  useful when the front QR is too small or partially covered. |
 | **Contact Info** | A line of free-text contact information (see below).                                                                       |
 
 ---
@@ -46,11 +46,11 @@ Five content elements can be toggled on or off for the back face:
 
 When **Contact Info** is enabled, a text input appears:
 
-- Enter any contact information you want printed on the back — typically an email address, phone number, or helpdesk URL
+- Enter any contact information you want printed on the back ,  typically an email address, phone number, or helpdesk URL
 - Example: `contact@company.com | +1 555 0000`
 - The text is rendered in a small font near the bottom of the back face
 
-This field is free-text — you can include any combination of contact details.
+This field is free-text ,  you can include any combination of contact details.
 
 ---
 
@@ -74,7 +74,7 @@ The back side has its own **Background Color** setting:
 1. Click the color swatch next to **Background Color**
 2. Pick a color or enter a hex code
 
-The default background color is your **Accent Color**. Changing it here only affects the back — the front background is not changed.
+The default background color is your **Accent Color**. Changing it here only affects the back ,  the front background is not changed.
 
 > **Tip**: A light background with your primary color elements works well for formal organizations. A full-color back (using your primary color as the background) creates a bold two-sided look.
 

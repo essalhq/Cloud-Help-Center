@@ -9,7 +9,7 @@
              },
     "favicon":  "/favicon.png",
     "colors":  {
-                   "primary":  "#0066FF",
+                   "primary":  "#0756C9",
                    "light":  "#3D8BFF",
                    "dark":  "#0050B4"
                },
@@ -83,30 +83,38 @@
                                  {
                                      "title":  "Apps \u0026 Solutions",
                                      "items":  [
-                                                   {
-                                                       "label":  "Office",
-                                                       "href":  "https://essal.cloud/products/office"
-                                                   },
-                                                   {
+                                                  {
                                                        "label":  "Access",
-                                                       "href":  "https://essal.cloud/products/access"
-                                                   },
-                                                   {
-                                                       "label":  "Sales",
-                                                       "href":  "https://essal.cloud/products/sales"
-                                                   },
-                                                   {
-                                                       "label":  "Careers",
-                                                       "href":  "https://essal.cloud/products/careers"
-                                                   },
-                                                   {
+                                                       "href":  "https://essal.it.com/en/products/access"
+                                                  },
+                                                  {
+                                                    "label": "Reach",
+                                                    "href": "https://essal.it.com/en/products/reach"
+                                                  },
+                                                  {
+                                                    "label": "Talent",
+                                                    "href": "https://essal.it.com/en/products/talent"
+                                                  },
+                                                  {
+                                                    "label": "Asset",
+                                                    "href": "https://essal.it.com/en/products/asset"
+                                                  },
+                                                  {
                                                        "label":  "Project",
-                                                       "href":  "https://essal.cloud/products/project"
+                                                       "href":  "https://essal.it.com/en/products/project"
                                                    },
                                                    {
                                                        "label":  "Guard",
-                                                       "href":  "https://essal.cloud/products/guard"
-                                                   }
+                                                       "href":  "https://essal.it.com/en/products/guard"
+                                                  },
+                                                  {
+                                                    "label": "Forms",
+                                                    "href": "https://essal.it.com/en/products/forms"
+                                                  },
+                                                  {
+                                                    "label": "Processes",
+                                                    "href": "https://essal.it.com/en/products/processes"
+                                                  }
                                                ]
                                  },
                                  {
@@ -118,18 +126,18 @@
                                                    },
                                                    {
                                                        "label":  "Training",
-                                                       "href":  "https://essal.cloud/training"
+                                                       "href":  "https://essal.it.com/dz/en/training"
                                                    },
                                                    {
                                                        "label":  "Security Center",
-                                                       "href":  "https://essal.cloud/security"
+                                                       "href":  "https://essal.it.com/en/security"
                                                    },
                                                    {
                                                        "label":  "Legal Center",
                                                        "href":  "https://legal.essal.cloud/"
                                                    },
                                                    {
-                                                       "label":  "Certifications",
+                                                       "label":  "Verify credentials",
                                                        "href":  "https://credentials.essal.cloud/"
                                                    }
                                                ]
@@ -139,11 +147,11 @@
                                      "items":  [
                                                    {
                                                        "label":  "About Us",
-                                                       "href":  "https://essal.cloud/about"
+                                                       "href":  "https://essal.it.com/en/about"
                                                    },
                                                    {
                                                        "label":  "Careers",
-                                                       "href":  "https://careers.essal.cloud/"
+                                                       "href":  "https://careers.essal.it.com/"
                                                    },
                                                    {
                                                        "label":  "Newsroom",
@@ -151,7 +159,7 @@
                                                    },
                                                    {
                                                        "label":  "Become a Partner",
-                                                       "href":  "https://essal.cloud/partners"
+                                                       "href":  "https://essal.it.com/en/partners"
                                                    },
                                                    {
                                                        "label":  "Brand Assets",
@@ -159,7 +167,7 @@
                                                    },
                                                    {
                                                        "label":  "Contact",
-                                                       "href":  "https://essal.cloud/contact"
+                                                       "href":  "https://essal.it.com/en/contact"
                                                    }
                                                ]
                                  },

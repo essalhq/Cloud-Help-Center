@@ -12,7 +12,7 @@ Après chaque scan, l'application d'enregistrement affiche une carte de résulta
 
 ## Types de Résultats
 
-### Accès Accordé — Vert
+### Accès Accordé ,  Vert
 
 Le badge de la personne est valide et elle est autorisée à passer.
 
@@ -25,7 +25,7 @@ Ce résultat apparaît lorsque :
 
 ---
 
-### Accès Refusé — Rouge
+### Accès Refusé ,  Rouge
 
 La personne ne doit pas être autorisée à passer.
 
@@ -42,20 +42,20 @@ La carte de résultat affiche le **motif du refus** afin que l'opérateur compre
 
 ---
 
-### Badge Expiré — Ambre
+### Badge Expiré ,  Ambre
 
 Le badge était valide mais n'est plus à jour.
 
 Ce résultat apparaît lorsque :
 
 - L'heure "valide jusqu'au" d'un badge visiteur est passée.
-- Les données des employés mises en cache localement sur l'appareil datent de plus de **24 heures** et l'appareil ne peut pas joindre le serveur pour les actualiser — dans ce cas, le motif du refus affiche "Cache expiré" et l'opérateur doit vérifier la connexion Internet.
+- Les données des employés mises en cache localement sur l'appareil datent de plus de **24 heures** et l'appareil ne peut pas joindre le serveur pour les actualiser ,  dans ce cas, le motif du refus affiche "Cache expiré" et l'opérateur doit vérifier la connexion Internet.
 
 **Retour :** Un son de refus et une triple vibration.
 
 ---
 
-### Badge Révoqué — Orange
+### Badge Révoqué ,  Orange
 
 Le badge a été annulé manuellement par un administrateur.
 
@@ -65,7 +65,7 @@ Ce résultat apparaît lorsqu'un badge visiteur a été explicitement révoqué 
 
 ---
 
-### Non Trouvé — Gris
+### Non Trouvé ,  Gris
 
 Le code scanné ne correspond à aucun employé ou visiteur dans le système.
 

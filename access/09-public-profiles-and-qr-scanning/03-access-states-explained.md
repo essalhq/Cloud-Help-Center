@@ -7,7 +7,7 @@ When a badge is scanned, the result shown to the visitor depends on the current 
 
 ## Employee Badge States
 
-### ✅ Active — Profile Shown
+### ✅ Active ,  Profile Shown
 
 All checks pass. The visitor sees the employee's public profile with the information configured in the Public Page Editor.
 
@@ -28,7 +28,7 @@ The visitor sees a **Badge Reported Lost** message with an amber warning icon. T
 
 The employee or their badge has been temporarily suspended by an administrator.
 
-The visitor sees a **Badge Suspended** message. This is a temporary state — the badge can be reactivated.
+The visitor sees a **Badge Suspended** message. This is a temporary state ,  the badge can be reactivated.
 
 ### ✗ Badge Deactivated
 
@@ -62,7 +62,7 @@ The system is under maintenance. All public scans are temporarily blocked and vi
 
 ### 🛡 Restricted Access (Authenticated Scanners Only)
 
-This employee's badge is configured to require an authenticated scanner — meaning the scanner must be signed in to an account within the same organization.
+This employee's badge is configured to require an authenticated scanner ,  meaning the scanner must be signed in to an account within the same organization.
 
 An unauthenticated visitor (such as someone pointing a phone camera) sees a **Restricted Access** message and is prompted to log in.
 
@@ -72,7 +72,7 @@ This employee has an access schedule configured, and the scan is happening outsi
 
 ### ❓ Invalid Badge
 
-No employee, guest badge, or ticket matches the scanned identifier — the badge ID does not exist in the system. The visitor sees an **Invalid Badge** page on a dark background with a red X icon.
+No employee, guest badge, or ticket matches the scanned identifier ,  the badge ID does not exist in the system. The visitor sees an **Invalid Badge** page on a dark background with a red X icon.
 
 ---
 
@@ -80,16 +80,16 @@ No employee, guest badge, or ticket matches the scanned identifier — the badge
 
 | State | What the visitor sees |
 |---|---|
-| **Active** | Green checkmark — "Valid Badge" |
-| **Expired** | Amber clock — "Expired Badge" |
-| **Revoked** | Red X — "Revoked Badge" |
-| **Not found** | Red X — invalid badge error |
+| **Active** | Green checkmark ,  "Valid Badge" |
+| **Expired** | Amber clock ,  "Expired Badge" |
+| **Revoked** | Red X ,  "Revoked Badge" |
+| **Not found** | Red X ,  invalid badge error |
 
 ## Ticket States
 
 | State | What the visitor sees |
 |---|---|
 | **Active** | Green checkmark |
-| **Expiring soon** | Amber clock — expires within 3 days |
+| **Expiring soon** | Amber clock ,  expires within 3 days |
 | **Expired** | Amber clock |
 | **Used / Revoked** | Red X |

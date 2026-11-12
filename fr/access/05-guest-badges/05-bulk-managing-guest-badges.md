@@ -64,16 +64,16 @@ Ces deux actions affichent une boîte de dialogue de confirmation avant de conti
 
 Utilisez le filtre de statut (au-dessus du tableau) pour restreindre la liste à un statut spécifique :
 
-- **Tous** — affiche tous les badges.
-- **Actifs** — badges actuellement valides.
-- **Expirés** — badges dont la fenêtre de validité est passée.
-- **Révoqués** — badges annulés manuellement.
+- **Tous** ,  affiche tous les badges.
+- **Actifs** ,  badges actuellement valides.
+- **Expirés** ,  badges dont la fenêtre de validité est passée.
+- **Révoqués** ,  badges annulés manuellement.
 
 Le filtrage est utile pour :
 
-- **Supprimer en masse les anciens badges expirés** — filtrez par Expiré, tout sélectionner, supprimer.
-- **Trouver et révoquer un badge actif spécifique** — filtrez par Actif, recherchez par nom.
-- **Auditer qui était sur site** — filtrez par plage de dates ou par statut.
+- **Supprimer en masse les anciens badges expirés** ,  filtrez par Expiré, tout sélectionner, supprimer.
+- **Trouver et révoquer un badge actif spécifique** ,  filtrez par Actif, recherchez par nom.
+- **Auditer qui était sur site** ,  filtrez par plage de dates ou par statut.
 
 ---
 

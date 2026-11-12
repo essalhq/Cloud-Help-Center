@@ -6,7 +6,7 @@ title: "Editing an Employee Record"
 {/* category: Employee Management */}
 {/* audience: Admins, Managers */}
 
-This article explains how to open an employee's record and navigate the four tabs available in the employee modal — Profile, Security, Badges, and Health & Safety.
+This article explains how to open an employee's record and navigate the four tabs available in the employee modal ,  Profile, Security, Badges, and Health & Safety.
 
 ---
 
@@ -16,7 +16,7 @@ Navigate to **Employees** in the sidebar to open the employee list.
 
 ![Employee list with Edit button visible in each row](../screenshots/employees-list.png)
 
-Click the **Edit** button (blue, labelled "Edit") on any row to open the employee modal. You can also click the employee's **name** — it opens the same modal on the Profile tab.
+Click the **Edit** button (blue, labelled "Edit") on any row to open the employee modal. You can also click the employee's **name** ,  it opens the same modal on the Profile tab.
 
 The modal header shows:
 
@@ -38,7 +38,7 @@ The modal has four tabs along the top. Click a tab to switch, or use the keyboar
 | ------------------- | -------- | ----------------------------------------------------------------------- |
 | **Profile**         | `Ctrl+1` | Personal info, organizational details, photo, custom fields             |
 | **Security**        | `Ctrl+2` | Badge status, access zones, 2FA PIN, access schedule, advanced controls |
-| **Badges**          | `Ctrl+3` | Full badge history — issue, revoke, or reactivate badges                |
+| **Badges** | `Ctrl+3` | Full badge history ,  issue, revoke, or reactivate badges |
 | **Health & Safety** | `Ctrl+4` | Emergency contact, allergies, medical conditions, safety certifications |
 
 ---
@@ -49,7 +49,7 @@ The Profile tab contains all the core employee information. See Adding a New Emp
 
 Key points when editing:
 
-- **Employee ID** is read-only after the record is first saved — it cannot be changed
+- **Employee ID** is read-only after the record is first saved ,  it cannot be changed
 - **Department** must already exist in Settings → Departments before it can be selected
 - **Custom fields** appear at the bottom of the form if your admin has defined them in Settings → Custom Fields
 
@@ -77,7 +77,7 @@ The **Status** dropdown has three options you can set directly:
 
 Access zones define which physical areas this employee can enter. When a check-in device is assigned to a zone, it will only grant entry to employees assigned to that zone.
 
-- The **current zones** appear as removable tags — click × to remove one
+- The **current zones** appear as removable tags ,  click × to remove one
 - Use the **zone dropdown** to add additional zones from the list defined in Settings → Access Zones
 - If no zones are assigned, the employee can be scanned at any device (zone restriction is not enforced)
 - Click **Manage Access Zones** to open the zone settings page
@@ -88,7 +88,7 @@ Access zones define which physical areas this employee can enter. When a check-i
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Require PIN After Scan**             | Employees must enter a 4-digit PIN at the scanner after their QR code is scanned. If enabled with no PIN set, a random PIN is auto-generated. |
 | **Public Profile Enabled**             | When on, scanning the badge QR opens the employee's public profile. When off, scans are blocked with an "access disabled" message.            |
-| **Allow Badge Use for Access Control** | Enables physical access control integration — the badge can be used to open doors or barriers.                                                |
+| **Allow Badge Use for Access Control** | Enables physical access control integration ,  the badge can be used to open doors or barriers. |
 
 ### 2FA PIN Details
 
@@ -96,7 +96,7 @@ When **Require PIN After Scan** is enabled:
 
 - A 4-digit numeric field appears
 - Click **Generate** to create a random PIN automatically
-- The PIN is shown in plain text until the record is saved — after saving, only `••••` is displayed with a **Reset** button
+- The PIN is shown in plain text until the record is saved ,  after saving, only `••••` is displayed with a **Reset** button
 - The PIN is stored encrypted; share it with the employee separately
 
 ### Time Restricted Access
@@ -115,14 +115,14 @@ Three additional security settings are grouped in an expandable section:
 | Setting                                         | When to use                                                                                                                                  |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Require approval to issue badge**             | When enabled, the employee moves to `Pending` status and must be manually approved by an Admin or Manager before their badge becomes active. |
-| **Show profile only to authenticated scanners** | Restricts profile visibility to registered check-in devices only — useful for executive or sensitive roles.                                  |
+| **Show profile only to authenticated scanners** | Restricts profile visibility to registered check-in devices only ,  useful for executive or sensitive roles. |
 | **Require ID with Badge**                       | The check-in app shows a prompt instructing the security guard to verify the employee's physical ID document alongside the badge scan.       |
 
 ---
 
 ## Badges Tab
 
-The Badges tab shows the complete badge history for this employee — every badge ever issued, its current status, and its issue/deactivation dates.
+The Badges tab shows the complete badge history for this employee ,  every badge ever issued, its current status, and its issue/deactivation dates.
 
 ![Employee modal Badges tab showing badge history and Issue New Badge button](../screenshots/employee-modal-badges.png)
 
@@ -140,15 +140,15 @@ Click **Issue New Badge** to generate a new badge with a unique Badge ID. This:
 
 Each badge in the history shows:
 
-- **Badge ID** — the unique identifier (e.g. `BDG-X7K2M9`)
-- **Issued date** — when the badge was created
-- **Status** — Active (green), Lost, or Inactive
-- **Deactivated date** — shown for inactive/lost badges
+- **Badge ID** ,  the unique identifier (e.g. `BDG-X7K2M9`)
+- **Issued date** ,  when the badge was created
+- **Status** ,  Active (green), Lost, or Inactive
+- **Deactivated date** ,  shown for inactive/lost badges
 
 ### Revoking and Reactivating
 
-- **Revoke** (shown on active badges) — marks the badge as `Lost` and deactivates it. A confirmation prompt appears before the action is applied.
-- **Reactivate** (shown on inactive/lost badges) — restores the badge to `Active`. Disabled if another badge is already active or if the employee's name fields are empty.
+- **Revoke** (shown on active badges) ,  marks the badge as `Lost` and deactivates it. A confirmation prompt appears before the action is applied.
+- **Reactivate** (shown on inactive/lost badges) ,  restores the badge to `Active`. Disabled if another badge is already active or if the employee's name fields are empty.
 
 ---
 
@@ -161,8 +161,8 @@ The Health & Safety tab stores sensitive employee data for emergency and safety 
 | Section                             | Fields                                                                      |
 | ----------------------------------- | --------------------------------------------------------------------------- |
 | **Emergency Contact**               | Name, Phone, Relationship                                                   |
-| **Allergies**                       | Tag list — type and press Enter or click Add                                |
-| **Medical Conditions**              | Tag list — same interaction                                                 |
+| **Allergies** | Tag list ,  type and press Enter or click Add |
+| **Medical Conditions** | Tag list ,  same interaction |
 | **Disabilities / Additional Notes** | Free-text field                                                             |
 | **PPE Requirements**                | Tag list for required personal protective equipment                         |
 | **Safety Certifications**           | List of certifications with name, cert number, issued date, and expiry date |
@@ -175,8 +175,8 @@ The Health & Safety tab stores sensitive employee data for emergency and safety 
 
 Certifications with an expiry date are automatically flagged:
 
-- **Expiring Soon** (within 30 days) — amber pill
-- **Expired** — red pill
+- **Expiring Soon** (within 30 days) ,  amber pill
+- **Expired** ,  red pill
 
 ---
 

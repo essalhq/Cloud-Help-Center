@@ -20,20 +20,20 @@ L'enregistrement d'un appareil le relie à votre organisation et lui permet d'ac
 
 ---
 
-## Étape 1 — Générer un Code d'Enregistrement
+## Étape 1 ,  Générer un Code d'Enregistrement
 
 1. Connectez-vous au panneau d'administration Essal Access.
 2. Naviguez vers **Terminaux d'Enregistrement** dans la barre latérale.
 3. Cliquez sur **Générer Code**.
 4. Un code de 6 caractères apparaît (ex: `A3F7B2`) avec un compte à rebours.
-5. Le code est valide pendant **15 minutes** — le minuteur devient rouge lorsqu'il reste moins de 60 secondes.
+5. Le code est valide pendant **15 minutes** ,  le minuteur devient rouge lorsqu'il reste moins de 60 secondes.
 6. Cliquez sur l'icône de copie pour copier le code, ou lisez-le à haute voix à la personne qui configure l'appareil.
 
 > Si le code expire avant d'être utilisé, cliquez sur **Générer à Nouveau** pour en obtenir un nouveau immédiatement.
 
 ---
 
-## Étape 2 — Ouvrir l'App d'Enregistrement sur l'Appareil
+## Étape 2 ,  Ouvrir l'App d'Enregistrement sur l'Appareil
 
 1. Sur l'appareil, ouvrez un navigateur et allez sur **`https://scan.idpage.link`**.
 2. Si vous êtes invité à installer l'application, suivez les instructions **Ajouter à l'écran d'accueil** (optionnel mais recommandé).
@@ -41,23 +41,23 @@ L'enregistrement d'un appareil le relie à votre organisation et lui permet d'ac
 
 ---
 
-## Étape 3 — Terminer l'Assistant de Configuration
+## Étape 3 ,  Terminer l'Assistant de Configuration
 
 L'assistant vous guide à travers les étapes suivantes :
 
-**1. Choisir la langue** — sélectionnez English, Français ou Arabic (العربية). L'interface de l'application et les résultats seront affichés dans cette langue.
+**1. Choisir la langue** ,  sélectionnez English, Français ou Arabic (العربية). L'interface de l'application et les résultats seront affichés dans cette langue.
 
-**2. Installer l'application (optionnel)** — si le navigateur affiche une invite d'installation, cliquez sur **Installer** pour ajouter l'application à l'écran d'accueil pour un accès plus facile. Appuyez sur **Continuer dans le navigateur** pour ignorer.
+**2. Installer l'application (optionnel)** ,  si le navigateur affiche une invite d'installation, cliquez sur **Installer** pour ajouter l'application à l'écran d'accueil pour un accès plus facile. Appuyez sur **Continuer dans le navigateur** pour ignorer.
 
-**3. Saisir le code d'enregistrement** — tapez le code à 6 caractères généré dans le panneau d'administration. Le code est automatiquement converti en majuscules au fur et à mesure que vous tapez. Appuyez sur **Confirmer** — Essal vérifie le code avec le serveur et relie l'appareil à votre organisation.
+**3. Saisir le code d'enregistrement** ,  tapez le code à 6 caractères généré dans le panneau d'administration. Le code est automatiquement converti en majuscules au fur et à mesure que vous tapez. Appuyez sur **Confirmer** ,  Essal vérifie le code avec le serveur et relie l'appareil à votre organisation.
 
 **4. Saisir les détails de l'appareil :**
 
-- **Nom de l'agent** (requis) — le nom de l'opérateur utilisant cet appareil (ex: "Sécurité Porte Principale").
-- **Nom de l'appareil** (requis) — un libellé pour cet appareil (ex: "Tablette Entrée Principale").
-- **Emplacement** (optionnel) — une description de l'endroit où l'appareil est placé.
+- **Nom de l'agent** (requis) ,  le nom de l'opérateur utilisant cet appareil (ex: "Sécurité Porte Principale").
+- **Nom de l'appareil** (requis) ,  un libellé pour cet appareil (ex: "Tablette Entrée Principale").
+- **Emplacement** (optionnel) ,  une description de l'endroit où l'appareil est placé.
 
-**5. Confirmer** — l'application enregistre la configuration localement et ouvre l'écran de scan.
+**5. Confirmer** ,  l'application enregistre la configuration localement et ouvre l'écran de scan.
 
 ---
 

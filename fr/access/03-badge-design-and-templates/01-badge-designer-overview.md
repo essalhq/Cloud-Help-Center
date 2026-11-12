@@ -22,7 +22,7 @@ Cliquez sur **Badge Designer** dans la barre latérale gauche.
 
 ## Un seul modèle partagé
 
-Votre organisation dispose d'un **seul modèle de badge** partagé. Toutes les modifications que vous effectuez s'appliquent aux badges de tous les employés — il n'est pas possible de créer des modèles différents par département ou par rôle.
+Votre organisation dispose d'un **seul modèle de badge** partagé. Toutes les modifications que vous effectuez s'appliquent aux badges de tous les employés ,  il n'est pas possible de créer des modèles différents par département ou par rôle.
 
 ---
 
@@ -30,18 +30,18 @@ Votre organisation dispose d'un **seul modèle de badge** partagé. Toutes les m
 
 Le Badge Designer est divisé en trois panneaux :
 
-### Panneau gauche — Structure et éléments
+### Panneau gauche ,  Structure et éléments
 
 - **Section Modèles** : Sélectionnez l'une des 7 mises en page intégrées (Moderne, Corporate, Tech, etc.)
 - **Section Éléments** : Activez ou désactivez les champs affichés sur le recto et le verso du badge (Photo, Rôle, Département, ID Employé, etc.)
 
-### Panneau central — Aperçu en direct
+### Panneau central ,  Aperçu en direct
 
 - Affiche un rendu en temps réel du badge en utilisant les données de l'employé sélectionné
 - **Sélecteur Recto/Verso** : Basculez pour prévisualiser et configurer chaque face
 - **Sélecteur APERÇU COMME** : Choisissez un employé réel pour voir son badge avec ses vraies données
 
-### Panneau droit — Options de marque
+### Panneau droit ,  Options de marque
 
 - **Onglet Marque** : Couleur principale, couleur d'accentuation, logo, police, image de fond, et section de suggestions de thème IA
 - **Onglet Photo** : Paramètres liés à la photo sur le badge
@@ -50,4 +50,4 @@ Le Badge Designer est divisé en trois panneaux :
 
 ## Enregistrer les modifications
 
-Cliquez sur le bouton **Enregistrer** en haut à droite du panneau droit. Les modifications prennent effet immédiatement pour tous les employés — aucune republication n'est nécessaire.
+Cliquez sur le bouton **Enregistrer** en haut à droite du panneau droit. Les modifications prennent effet immédiatement pour tous les employés ,  aucune republication n'est nécessaire.

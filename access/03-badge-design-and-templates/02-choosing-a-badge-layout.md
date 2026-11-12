@@ -38,10 +38,10 @@ A structured, formal layout with a full-width primary-color header bar containin
 
 Available in both landscape and portrait arrangements:
 
-- **Landscape** — horizontal photo and details side by side
-- **Portrait** — circular photo centered below the header, details in a floating card
+- **Landscape** ,  horizontal photo and details side by side
+- **Portrait** ,  circular photo centered below the header, details in a floating card
 
-**Best for**: Large enterprises, banks, hospitals, government institutions — anywhere a formal, hierarchical design is expected.
+**Best for**: Large enterprises, banks, hospitals, government institutions ,  anywhere a formal, hierarchical design is expected.
 
 ---
 
@@ -55,14 +55,14 @@ A dark-themed layout with a near-black gradient background. The employee photo i
 
 ### Conference
 
-A versatile layout designed for events and large gatherings. The employee's name is displayed in a very large, bold font — optimized for legibility at a glance across a room. A vertical strip in your primary color runs down the left edge.
+A versatile layout designed for events and large gatherings. The employee's name is displayed in a very large, bold font ,  optimized for legibility at a glance across a room. A vertical strip in your primary color runs down the left edge.
 
 Available in landscape and portrait:
 
-- **Landscape** — photo floats to the right, large name on the left
-- **Portrait** — photo is centered, very large name below it with a bold role pill
+- **Landscape** ,  photo floats to the right, large name on the left
+- **Portrait** ,  photo is centered, very large name below it with a bold role pill
 
-**Best for**: Conferences, trade shows, events, trade fairs — anywhere fast visual identification from a distance is important.
+**Best for**: Conferences, trade shows, events, trade fairs ,  anywhere fast visual identification from a distance is important.
 
 ---
 
@@ -78,7 +78,7 @@ A clean white layout with no heavy decorative elements. The photo and logo are s
 
 A bold, colorful layout with a full-badge gradient flowing from your primary color to your accent color. Decorative pulse orbs add depth. The QR code sits in a glassmorphic container. The employee's name and role are displayed in large white text. Badge ID and Employee ID appear in glassy chips at the bottom.
 
-**Best for**: Creative agencies, media companies, events, hospitality — anywhere visual impact matters more than formality.
+**Best for**: Creative agencies, media companies, events, hospitality ,  anywhere visual impact matters more than formality.
 
 ---
 

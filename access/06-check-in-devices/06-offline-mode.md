@@ -29,7 +29,7 @@ All sync data is stored in an on-device database (IndexedDB), keyed to your orga
 |---|---|
 | Data is less than **10 minutes old** | Used directly; no re-fetch attempted |
 | Data is **10+ minutes old** but within 24 h | App tries to refresh from server; if offline, uses cached data with a "from cache" indicator on the result card |
-| Data is **24+ hours old** | Returns an **Expired** result with denial reason "Cache expired" — the device must reconnect to refresh |
+| Data is **24+ hours old** | Returns an **Expired** result with denial reason "Cache expired" ,  the device must reconnect to refresh |
 
 ---
 
@@ -63,7 +63,7 @@ The app monitors how long it has been since the last successful server connectio
 
 **Offline lock (📡):** Shown when the device exceeds the maximum offline duration (default: **24 hours**). Scanning is disabled until the device reconnects. The screen shows when the device last came online and a **Reconnect** button to retry.
 
-**Revoked lock (🚫):** Shown when the admin has deactivated the device from the admin panel. This lock cannot be dismissed — the operator must sign out. To restore access, an administrator must reactivate the device from the admin panel and re-register it if necessary.
+**Revoked lock (🚫):** Shown when the admin has deactivated the device from the admin panel. This lock cannot be dismissed ,  the operator must sign out. To restore access, an administrator must reactivate the device from the admin panel and re-register it if necessary.
 
 ---
 

@@ -16,9 +16,9 @@ The Essal Check-In App is a dedicated scanning application installed on tablets 
 
 - **Scans QR codes** printed on employee badges or displayed on a guest's phone
 - **Verifies identity and access rights** in real time, including access schedules and zones
-- **Works offline** — data is cached locally so scans work even when internet connectivity drops
+- **Works offline** ,  data is cached locally so scans work even when internet connectivity drops
 - **Logs every scan event** with a timestamp, result, and operator name
-- **Supports multiple scan modes** — camera QR scan, photo capture, or AI face recognition
+- **Supports multiple scan modes** ,  camera QR scan, photo capture, or AI face recognition
 
 ---
 
@@ -41,7 +41,7 @@ Once registered and unlocked, the app has four tabs:
 
 | Tab | Purpose |
 |---|---|
-| **Scan** | Live camera scanner — the main operating screen |
+| **Scan** | Live camera scanner ,  the main operating screen |
 | **Log** | Today's check-in history with result details |
 | **Manual** | Enter a badge or employee ID manually via keyboard or numpad |
 | **Settings** | Configure device name, scan behavior, appearance, and data cache |

@@ -17,7 +17,7 @@ Lorsqu'un badge nécessitant un code PIN est scanné :
 3. Si le code est correct, le système enregistre un événement de scan vérifié et le profil est affiché.
 4. Si le code est erroné, la tentative est journalisée. Après 5 tentatives incorrectes, le code PIN est verrouillé et toute nouvelle tentative est bloquée.
 
-Toutes les tentatives de vérification — réussies ou échouées — sont enregistrées dans le journal d'audit avec les informations sur l'appareil et l'horodatage.
+Toutes les tentatives de vérification ,  réussies ou échouées ,  sont enregistrées dans le journal d'audit avec les informations sur l'appareil et l'horodatage.
 
 ---
 
@@ -36,10 +36,10 @@ Toutes les tentatives de vérification — réussies ou échouées — sont enre
 
 Le visiteur saisissant le code PIN voit quatre cases de chiffres individuelles. L'écran prend en charge :
 
-- **Avance automatique** — le focus passe à la case suivante au fur et à mesure que chaque chiffre est tapé.
-- **Navigation par touche retour** — la suppression d'un chiffre ramène le focus à la case précédente.
-- **Coller** — coller un code à 4 chiffres remplit automatiquement toutes les cases et valide immédiatement.
-- **Touche Entrée** — appuyer sur Entrée après le dernier chiffre valide la saisie.
+- **Avance automatique** ,  le focus passe à la case suivante au fur et à mesure que chaque chiffre est tapé.
+- **Navigation par touche retour** ,  la suppression d'un chiffre ramène le focus à la case précédente.
+- **Coller** ,  coller un code à 4 chiffres remplit automatiquement toutes les cases et valide immédiatement.
+- **Touche Entrée** ,  appuyer sur Entrée après le dernier chiffre valide la saisie.
 
 L'écran utilise la couleur de marque principale de l'organisation.
 

@@ -39,8 +39,8 @@ If your organisation uses custom profile attributes, an additional section appea
 
 Depending on your organisation's settings, profile edits may work in one of two ways:
 
-- **Direct update** — your changes are applied to your employee record immediately and are visible everywhere (badge, directory, etc.).
-- **Business card override** — your changes are stored separately and appear only on your digital business card and public profile, without modifying the master employee record.
+- **Direct update** ,  your changes are applied to your employee record immediately and are visible everywhere (badge, directory, etc.).
+- **Business card override** ,  your changes are stored separately and appear only on your digital business card and public profile, without modifying the master employee record.
 
 Your administrator controls which mode is active. If you are unsure which applies to you, ask your HR or IT team.
 

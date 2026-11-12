@@ -12,7 +12,7 @@ After each scan, the check-in app displays a result card that tells the operator
 
 ## Result Types
 
-### Access Granted — Green
+### Access Granted ,  Green
 
 The person's badge is valid and they are permitted to pass.
 
@@ -24,7 +24,7 @@ This result appears when:
 
 ---
 
-### Access Denied — Red
+### Access Denied ,  Red
 
 The person should not be permitted to pass.
 
@@ -40,19 +40,19 @@ The result card shows the **denial reason** so the operator understands why acce
 
 ---
 
-### Badge Expired — Amber
+### Badge Expired ,  Amber
 
 The badge was valid but is no longer current.
 
 This result appears when:
 - A guest badge's `valid until` time has passed
-- The device's locally cached employee data is more than **24 hours old** and the device cannot reach the server to refresh it — in this case, the denial reason shows "Cache expired" and the operator should check internet connectivity
+- The device's locally cached employee data is more than **24 hours old** and the device cannot reach the server to refresh it ,  in this case, the denial reason shows "Cache expired" and the operator should check internet connectivity
 
 **Feedback:** A denial sound and a triple vibration burst.
 
 ---
 
-### Badge Revoked — Orange
+### Badge Revoked ,  Orange
 
 The badge has been manually cancelled by an administrator.
 
@@ -62,7 +62,7 @@ This result appears when a guest badge has been explicitly revoked from the admi
 
 ---
 
-### Not Found — Gray
+### Not Found ,  Gray
 
 The scanned code does not match any employee or guest in the system.
 

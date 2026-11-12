@@ -20,7 +20,7 @@ Click the **three-dot menu (⋮)** on any ticket row to access:
 |---|---|---|
 | **View Ticket** | Always | Opens a detail panel showing all ticket fields and the current status |
 | **Copy Link** | Always | Copies the public verification URL (`https://idpage.link/ticket/{id}`) to your clipboard |
-| **Revoke** | Active tickets only | Marks the ticket as used — immediately invalidates it. Confirmation required. |
+| **Revoke** | Active tickets only | Marks the ticket as used ,  immediately invalidates it. Confirmation required. |
 | **Delete** | Always | Permanently removes the ticket record from the employee's profile. Confirmation required. |
 
 ---
@@ -73,7 +73,7 @@ To delete multiple tickets at once:
 
 All selected tickets are permanently deleted.
 
-> **Note:** Bulk **Revoke** is not available — to revoke multiple tickets you must do so individually. If you need to invalidate a large number of tickets at once, using Delete may be more practical.
+> **Note:** Bulk **Revoke** is not available ,  to revoke multiple tickets you must do so individually. If you need to invalidate a large number of tickets at once, using Delete may be more practical.
 
 ---
 

@@ -20,7 +20,7 @@ Cet article détaille comment remplir le formulaire de création d'un Badge Visi
 
 ---
 
-## Étape 1 — Détails du Visiteur
+## Étape 1 ,  Détails du Visiteur
 
 Saisissez les informations relatives à la personne (ou aux personnes) que vous invitez.
 
@@ -43,13 +43,13 @@ Chaque visiteur de la liste reçoit son propre lien de badge unique.
 
 ---
 
-## Étape 2 — Détails de la Visite
+## Étape 2 ,  Détails de la Visite
 
 Définissez la période de validité du badge et le motif de la visite.
 
 | Champ               | Par défaut          | Options                                                         |
 | ------------------- | ------------------- | --------------------------------------------------------------- |
-| **Motif**           | —                   | Visite de site, Entretien, Réunion, Livraison, Événement, Autre |
+| **Motif** | , | Visite de site, Entretien, Réunion, Livraison, Événement, Autre |
 | **Valide du**       | Date/heure actuelle | Toute date ultérieure ou présente                               |
 | **Valide jusqu'au** | Dans 24 heures      | Toute date postérieure à "Valide du"                            |
 
@@ -57,7 +57,7 @@ Définissez la période de validité du badge et le motif de la visite.
 
 ---
 
-## Étape 3 — Zones d'Accès Autorisées (Optionnel)
+## Étape 3 ,  Zones d'Accès Autorisées (Optionnel)
 
 Si votre organisation a défini des **zones d'accès**, une liste de badges de zones apparaît ici. Cliquez sur une zone pour l'activer ou la désactiver. Seules les zones sélectionnées seront affichées sur la page de vérification du visiteur.
 
@@ -65,19 +65,19 @@ Cette section est masquée si aucune zone n'a été configurée.
 
 ---
 
-## Étape 4 — Adresse / Localisation (Optionnel)
+## Étape 4 ,  Adresse / Localisation (Optionnel)
 
 Ajoutez une adresse pour aider le visiteur à se rendre au bon endroit. Ceci est particulièrement utile pour les grands campus ou les sites multi-bâtiments.
 
-- **Nom de l'adresse** — un libellé court (ex: "Entrée principale", "Réception Bâtiment B").
-- **Lien Maps** — une URL directe vers Google Maps ou tout autre service de cartographie.
+- **Nom de l'adresse** ,  un libellé court (ex: "Entrée principale", "Réception Bâtiment B").
+- **Lien Maps** ,  une URL directe vers Google Maps ou tout autre service de cartographie.
 - Cliquez sur **Rechercher sur Google Maps** pour ouvrir une recherche Maps dans un nouvel onglet et copier le lien.
 
-Vous pouvez ajouter plusieurs adresses. La **dernière adresse utilisée est mémorisée** d'une session à l'autre — la prochaine fois que vous ouvrirez la fenêtre modale, les champs d'adresse seront pré-remplis.
+Vous pouvez ajouter plusieurs adresses. La **dernière adresse utilisée est mémorisée** d'une session à l'autre ,  la prochaine fois que vous ouvrirez la fenêtre modale, les champs d'adresse seront pré-remplis.
 
 ---
 
-## Étape 5 — Notes (Optionnel)
+## Étape 5 ,  Notes (Optionnel)
 
 Utilisez le champ **Notes** pour toute instruction ou contexte supplémentaire destiné au visiteur (ex: "Veuillez apporter une pièce d'identité avec photo", "Parking disponible au Lot C"). Les notes sont enregistrées dans le dossier du badge mais ne sont pas affichées sur la page de vérification publique.
 
@@ -87,8 +87,8 @@ Utilisez le champ **Notes** pour toute instruction ou contexte supplémentaire d
 
 Une fois tous les champs obligatoires remplis :
 
-- **"Envoyer l'Invitation"** — apparaît lorsque vous avez saisi un visiteur.
-- **"Envoyer N Invitations"** — apparaît lorsque vous avez plusieurs visiteurs dans la liste (N = nombre).
+- **"Envoyer l'Invitation"** ,  apparaît lorsque vous avez saisi un visiteur.
+- **"Envoyer N Invitations"** ,  apparaît lorsque vous avez plusieurs visiteurs dans la liste (N = nombre).
 
 Cliquez sur le bouton pour :
 

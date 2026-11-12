@@ -33,9 +33,9 @@ Le code QR renvoie à votre page de vérification de badge et est toujours à jo
 
 La page d'accueil propose également des raccourcis :
 
-- **Mon Profil** — accédez directement à la page d'édition de votre profil.
-- **Afficher le Code QR** — ouvrez le code QR en plein écran.
-- **Signaler un Problème** — rendez-vous sur la page de signalement de badge manquant.
+- **Mon Profil** ,  accédez directement à la page d'édition de votre profil.
+- **Afficher le Code QR** ,  ouvrez le code QR en plein écran.
+- **Signaler un Problème** ,  rendez-vous sur la page de signalement de badge manquant.
 
 ---
 

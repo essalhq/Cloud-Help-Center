@@ -8,7 +8,7 @@ title: "Configurer le recto du badge"
 
 La section Éléments du panneau gauche vous permet de choisir quelles informations s'affichent sur le recto du badge. Vous pouvez activer ou désactiver chaque champ indépendamment.
 
-![Badge Designer — recto avec éléments actifs](../screenshots/badge-designer.png)
+![Badge Designer ,  recto avec éléments actifs](../screenshots/badge-designer.png)
 
 ---
 
@@ -32,7 +32,7 @@ Chaque champ peut être activé ou désactivé individuellement via son bouton b
 | **ID Employé** | L'identifiant interne de l'employé (ex. : EMP-001) |
 | **ID Badge** | L'identifiant unique du badge, utilisé pour le scan |
 | **Groupe sanguin** | Affiché si renseigné dans la fiche employé |
-| **QR Code** | Renvoie vers `idpage.link/public/{idBadge}` — la page de profil public de l'employé |
+| **QR Code** | Renvoie vers `idpage.link/public/{idBadge}` ,  la page de profil public de l'employé |
 | **Slogan** | Courte phrase définie dans les paramètres de l'organisation |
 | **Logo** | Le logo de l'entreprise (utilise l'image téléchargée dans les paramètres de marque) |
 

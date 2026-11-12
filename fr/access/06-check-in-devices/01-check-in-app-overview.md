@@ -16,9 +16,9 @@ L'application d'enregistrement Essal est une application de scan dédiée instal
 
 - **Scanne les codes QR** imprimés sur les badges d'employés ou affichés sur le téléphone d'un visiteur.
 - **Vérifie l'identité et les droits d'accès** en temps réel, y compris les horaires d'accès et les zones.
-- **Fonctionne hors ligne** — les données sont mises en cache localement afin que les scans fonctionnent même en cas de coupure de la connexion Internet.
+- **Fonctionne hors ligne** ,  les données sont mises en cache localement afin que les scans fonctionnent même en cas de coupure de la connexion Internet.
 - **Enregistre chaque scan** avec un horodatage, un résultat et le nom de l'opérateur.
-- **Prend en charge plusieurs modes de scan** — scan QR par caméra, capture de photo ou reconnaissance faciale par IA.
+- **Prend en charge plusieurs modes de scan** ,  scan QR par caméra, capture de photo ou reconnaissance faciale par IA.
 
 ---
 
@@ -42,7 +42,7 @@ Une fois enregistrée et déverrouillée, l'application dispose de quatre onglet
 
 | Onglet       | Objectif                                                                                           |
 | ------------ | -------------------------------------------------------------------------------------------------- |
-| **Scan**     | Scanner caméra en direct — l'écran d'utilisation principal                                         |
+| **Scan** | Scanner caméra en direct ,  l'écran d'utilisation principal |
 | **Log**      | Historique des enregistrements du jour avec les détails des résultats                              |
 | **Manual**   | Saisie manuelle d'un badge ou d'un ID employé via le clavier physique ou numérique                 |
 | **Settings** | Configuration du nom de l'appareil, du comportement du scan, de l'apparence et du cache de données |

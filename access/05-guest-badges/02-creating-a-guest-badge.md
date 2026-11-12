@@ -20,7 +20,7 @@ This article walks through filling in the Create Guest Badge form and sending th
 
 ---
 
-## Step 1 — Guest Details
+## Step 1 ,  Guest Details
 
 Enter the information for the person (or people) you are inviting.
 
@@ -43,13 +43,13 @@ Each guest in the list receives their own unique badge link.
 
 ---
 
-## Step 2 — Visit Details
+## Step 2 ,  Visit Details
 
 Define when the badge is valid and why the guest is visiting.
 
 | Field | Default | Options |
 |---|---|---|
-| **Purpose** | — | Site Visit, Interview, Meeting, Delivery, Event, Other |
+| **Purpose** | , | Site Visit, Interview, Meeting, Delivery, Event, Other |
 | **Valid From** | Current date/time | Any future or present datetime |
 | **Valid Until** | 24 hours from now | Any datetime after Valid From |
 
@@ -57,7 +57,7 @@ Define when the badge is valid and why the guest is visiting.
 
 ---
 
-## Step 3 — Permitted Access Zones (Optional)
+## Step 3 ,  Permitted Access Zones (Optional)
 
 If your organization has defined **access zones**, a list of zone chips appears here. Click any zone to toggle it on or off. Only the selected zones will be shown on the guest's verification page.
 
@@ -65,19 +65,19 @@ This section is hidden if no zones have been configured.
 
 ---
 
-## Step 4 — Address / Location (Optional)
+## Step 4 ,  Address / Location (Optional)
 
 Add a location entry to help the guest navigate to the right place. This is especially useful for large campuses or multi-building sites.
 
-- **Address Name** — a short label (e.g., "Main Entrance", "Building B Reception")
-- **Maps Link** — a direct URL to Google Maps or any mapping service
+- **Address Name** ,  a short label (e.g., "Main Entrance", "Building B Reception")
+- **Maps Link** ,  a direct URL to Google Maps or any mapping service
 - Click **Search Google Maps** to open a Maps search in a new tab and copy the link
 
-You can add multiple address entries. The **last-used address is remembered** across sessions — the next time you open the modal, the address fields are pre-filled.
+You can add multiple address entries. The **last-used address is remembered** across sessions ,  the next time you open the modal, the address fields are pre-filled.
 
 ---
 
-## Step 5 — Notes (Optional)
+## Step 5 ,  Notes (Optional)
 
 Use the **Notes** field for any additional instructions or context for the guest (e.g., "Please bring a photo ID", "Parking available in Lot C"). Notes are stored in the badge record but are not displayed on the public verification page.
 
@@ -87,8 +87,8 @@ Use the **Notes** field for any additional instructions or context for the guest
 
 Once all required fields are filled:
 
-- **"Send Invite"** — appears when you have entered one guest
-- **"Send N Invites"** — appears when you have multiple guests in the list (N = count)
+- **"Send Invite"** ,  appears when you have entered one guest
+- **"Send N Invites"** ,  appears when you have multiple guests in the list (N = count)
 
 Click the button to:
 1. Create badge records in the database for all guests
@@ -98,4 +98,3 @@ Click the button to:
 ### What Happens if an Email Bounces?
 
 If an email address is invalid and the invite bounces, the badge is still created successfully. The guest row will be highlighted in amber to indicate the bounce. You can still copy the badge link manually and share it another way.
-

@@ -11,11 +11,11 @@ An employee's digital business card can be shared in several ways: via a direct 
 
 Every employee has a public URL based on their badge ID:
 
-```
+```text
 https://{your-company-domain}/{badgeId}
 ```
 
-Copy this link and share it by email, messaging app, or any other channel. When the recipient opens it, they see your business card directly — no login required.
+Copy this link and share it by email, messaging app, or any other channel. When the recipient opens it, they see your business card directly ,  no login required.
 
 You can find your badge ID on the **My Profile** page in the Employee Portal, in the **Badge ID** field.
 
@@ -28,7 +28,7 @@ Your badge's QR code links directly to your business card (or full public profil
 1. Log in to the Employee Portal.
 2. Go to **Home**.
 3. Click **Show QR Code**.
-4. A full-screen QR code appears — let the other person scan it with their phone.
+4. A full-screen QR code appears ,  let the other person scan it with their phone.
 
 **Physical badges** also contain a QR code. Scanning the printed badge with any phone camera opens the public page automatically.
 

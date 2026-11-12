@@ -6,7 +6,7 @@ title: "Choisir une mise en page de badge"
 {/* category: Badge Design & Templates */}
 {/* audience: Admins */}
 
-Essal Access propose 7 mises en page de badge intégrées, chacune conçue pour un style d'organisation ou d'usage différent. La mise en page détermine la structure visuelle globale du badge — la disposition de la photo, du nom, du QR code, et des éléments décoratifs.
+Essal Access propose 7 mises en page de badge intégrées, chacune conçue pour un style d'organisation ou d'usage différent. La mise en page détermine la structure visuelle globale du badge ,  la disposition de la photo, du nom, du QR code, et des éléments décoratifs.
 
 ![Sélection de mise en page dans le Badge Designer](../screenshots/badge-designer.png)
 
@@ -63,9 +63,9 @@ Ardoise sombre avec accents dorés/ambrés et bordure lumineuse sur la photo. Co
 
 Tenez compte de ces facteurs lors de la sélection :
 
-- **Secteur et culture d'entreprise** — Un hôpital aura un aspect différent d'une startup technologique
-- **Utilisation du badge** — Les badges de conférence ont besoin de noms lisibles à distance
-- **Identité visuelle** — Certaines mises en page s'accordent mieux avec des logos spécifiques ou des palettes de couleurs
-- **Impression** — Les mises en page sombres (Tech, Exécutif) consomment plus d'encre
+- **Secteur et culture d'entreprise** ,  Un hôpital aura un aspect différent d'une startup technologique
+- **Utilisation du badge** ,  Les badges de conférence ont besoin de noms lisibles à distance
+- **Identité visuelle** ,  Certaines mises en page s'accordent mieux avec des logos spécifiques ou des palettes de couleurs
+- **Impression** ,  Les mises en page sombres (Tech, Exécutif) consomment plus d'encre
 
 Vous pouvez changer de mise en page à tout moment sans perdre les paramètres de couleurs, de logo ou d'éléments.

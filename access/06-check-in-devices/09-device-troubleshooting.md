@@ -19,7 +19,7 @@ This article covers the most common issues with check-in devices and how to reso
 2. Tap **Reconnect** on the lock screen
 3. If the connection is successful, the app reopens to the scan screen
 
-If the lock screen shows a **🚫 (Revoked)** icon instead of **📡**, the device has been deactivated from the admin panel — see the Revoked section below.
+If the lock screen shows a **🚫 (Revoked)** icon instead of **📡**, the device has been deactivated from the admin panel ,  see the Revoked section below.
 
 ---
 
@@ -44,7 +44,7 @@ If the lock screen shows a **🚫 (Revoked)** icon instead of **📡**, the devi
 **Cause:** Camera permission denied, or another app is using the camera.
 
 **Fix:**
-1. Check that camera permission is granted — go to the device's **browser site settings** and allow camera access for `scan.idpage.link`
+1. Check that camera permission is granted ,  go to the device's **browser site settings** and allow camera access for `scan.idpage.link`
 2. Close any other apps that might be using the camera
 3. Refresh the app (pull to refresh or reopen from home screen)
 4. On iOS, if permission is denied at the system level, go to **Settings → Safari → Camera** and allow access
@@ -60,7 +60,7 @@ If the lock screen shows a **🚫 (Revoked)** icon instead of **📡**, the devi
 - Hold the badge 15–30 cm from the lens and keep it steady
 - Clean the camera lens
 - Try switching to **Manual** mode and entering the badge ID by typing or using the on-screen numpad
-- If the badge QR code is printed, check whether the print quality is too low — see the Printing & Exporting Badges section for guidance
+- If the badge QR code is printed, check whether the print quality is too low ,  see the Printing & Exporting Badges section for guidance
 
 ---
 

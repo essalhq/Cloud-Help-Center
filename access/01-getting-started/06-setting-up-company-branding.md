@@ -6,7 +6,7 @@ title: "Setting Up Your Company Branding"
 {/* category: Getting Started */}
 {/* audience: Admins */}
 
-This article explains how to configure your company's identity in Essal Access — the name, tagline, logo, and brand colors that appear on badges, public profiles, and throughout the admin interface.
+This article explains how to configure your company's identity in Essal Access ,  the name, tagline, logo, and brand colors that appear on badges, public profiles, and throughout the admin interface.
 
 Navigate to **Settings** in the sidebar, then click the **Branding** tab.
 
@@ -18,16 +18,16 @@ Navigate to **Settings** in the sidebar, then click the **Branding** tab.
 
 At the top of the Branding tab you'll find two fields under **Company Info**:
 
-**Company Name** — The name of your organization. This is used on:
+**Company Name** ,  The name of your organization. This is used on:
 
 - All employee badges (in the company name position, if enabled in the badge template)
 - The admin panel sidebar header
 - Public profile pages
 - Email notifications
 
-**Tagline** — An optional short phrase shown on badges below the company name (e.g. _"Securing your workplace"_, _"Building 3 — North Wing"_). Leave it blank if you don't need one.
+**Tagline** ,  An optional short phrase shown on badges below the company name (e.g. _"Securing your workplace"_, _"Building 3 ,  North Wing"_). Leave it blank if you don't need one.
 
-> **Tip**: The Company Name and Tagline fields here are linked to the badge template. Saving a new name or tagline immediately updates what appears on all employee badges — no need to re-open the Badge Designer.
+> **Tip**: The Company Name and Tagline fields here are linked to the badge template. Saving a new name or tagline immediately updates what appears on all employee badges ,  no need to re-open the Badge Designer.
 
 ---
 
@@ -48,7 +48,7 @@ Once uploaded, the logo appears:
 
 To replace the logo, click the upload zone again and select a new file. To remove it entirely, click the **Remove logo** link that appears below the upload zone after a logo is set.
 
-> **Logo not showing on badges?** Open the Badge Designer and check that **Show Logo** is toggled on in the front or back configuration panel. The branding settings upload the logo file — the badge template controls whether and where it appears.
+> **Logo not showing on badges?** Open the Badge Designer and check that **Show Logo** is toggled on in the front or back configuration panel. The branding settings upload the logo file ,  the badge template controls whether and where it appears.
 
 ---
 
@@ -56,15 +56,15 @@ To replace the logo, click the upload zone again and select a new file. To remov
 
 Under **Brand Colors**, you can set two colors:
 
-**Primary Color** — The main accent color used throughout the admin panel, the Employee Portal, and the check-in app. It also becomes the default badge primary color for new badge templates. Click the color swatch to open a color picker, or type a hex code directly (e.g. `#2563eb`).
+**Primary Color** ,  The main accent color used throughout the admin panel, the Employee Portal, and the check-in app. It also becomes the default badge primary color for new badge templates. Click the color swatch to open a color picker, or type a hex code directly (e.g. `#2563eb`).
 
-**Secondary Color** — A lighter complementary color used for backgrounds and highlights in the interface. Usually a lighter tint of the primary color (e.g. `#eff6ff` for a blue primary).
+**Secondary Color** ,  A lighter complementary color used for backgrounds and highlights in the interface. Usually a lighter tint of the primary color (e.g. `#eff6ff` for a blue primary).
 
-Changes to brand colors apply immediately across the interface as soon as you save. Both colors also flow into the default badge template — you can always override them independently in the Badge Designer.
+Changes to brand colors apply immediately across the interface as soon as you save. Both colors also flow into the default badge template ,  you can always override them independently in the Badge Designer.
 
 ---
 
-## BrandFetch — Import Your Brand Automatically
+## BrandFetch ,  Import Your Brand Automatically
 
 If your company has a public website, the **BrandFetch** feature can automatically import your company name, logo, and primary color palette in one step.
 
@@ -73,9 +73,9 @@ If your company has a public website, the **BrandFetch** feature can automatical
 3. Essal Access queries the BrandFetch database and fills in your company name, logo, and brand colors automatically
 4. Review the imported values and click **Save**
 
-BrandFetch works for most companies with an established web presence. If your domain isn't found, you'll see an error — upload your logo and set colors manually in that case.
+BrandFetch works for most companies with an established web presence. If your domain isn't found, you'll see an error ,  upload your logo and set colors manually in that case.
 
-> BrandFetch imports are a starting point — you can freely edit any imported values after the fetch.
+> BrandFetch imports are a starting point ,  you can freely edit any imported values after the fetch.
 
 ---
 

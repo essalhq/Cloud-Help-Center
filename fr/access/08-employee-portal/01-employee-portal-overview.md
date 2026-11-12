@@ -4,7 +4,7 @@ title: "Présentation du Portail Employé"
 {/* category: Employee Portal */}
 
 
-Le Portail Employé est un espace en libre-service où les employés peuvent consulter leur badge, gérer leurs informations personnelles, mettre à jour leurs détails de santé et de sécurité, accéder à leur carte de visite numérique et signaler un badge perdu ou endommagé — le tout sans l'intervention d'un administrateur.
+Le Portail Employé est un espace en libre-service où les employés peuvent consulter leur badge, gérer leurs informations personnelles, mettre à jour leurs détails de santé et de sécurité, accéder à leur carte de visite numérique et signaler un badge perdu ou endommagé ,  le tout sans l'intervention d'un administrateur.
 
 ![Page d'accueil du Portail Employé](../screenshots/portal-home.png)
 

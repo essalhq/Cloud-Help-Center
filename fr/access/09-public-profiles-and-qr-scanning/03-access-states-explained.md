@@ -10,7 +10,7 @@ Lorsqu'un badge est scanné, le résultat affiché au visiteur dépend de l'éta
 
 ## États des Badges d'Employés
 
-### ✅ Actif — Profil Affiché
+### ✅ Actif ,  Profil Affiché
 
 Toutes les vérifications sont concluantes. Le visiteur voit le profil public de l'employé avec les informations configurées dans l'Éditeur de Page Publique.
 
@@ -32,7 +32,7 @@ Le visiteur voit un message **Badge Signalé comme Perdu** avec une icône d'ave
 
 L'employé ou son badge a été temporairement suspendu par un administrateur.
 
-Le visiteur voit un message **Badge Suspendu**. C'est un état temporaire — le badge peut être réactivé.
+Le visiteur voit un message **Badge Suspendu**. C'est un état temporaire ,  le badge peut être réactivé.
 
 ### ✗ Badge Désactivé
 
@@ -66,7 +66,7 @@ Le système est en maintenance. Tous les scans publics sont temporairement bloqu
 
 ### 🛡 Accès Restreint (Scanneurs Authentifiés Uniquement)
 
-Le badge de cet employé est configuré pour nécessiter un scanneur authentifié — ce qui signifie que le scanneur doit être connecté à un compte au sein de la même organisation.
+Le badge de cet employé est configuré pour nécessiter un scanneur authentifié ,  ce qui signifie que le scanneur doit être connecté à un compte au sein de la même organisation.
 
 Un visiteur non authentifié (comme quelqu'un utilisant l'appareil photo d'un téléphone) voit un message **Accès Restreint** et est invité à se connecter.
 
@@ -76,7 +76,7 @@ Cet employé a un calendrier d'accès configuré, et le scan a lieu en dehors de
 
 ### ❓ Badge Invalide
 
-Aucun employé, badge visiteur ou ticket ne correspond à l'identifiant scanné — l'ID du badge n'existe pas dans le système. Le visiteur voit une page **Badge Invalide** sur fond sombre avec une icône X rouge.
+Aucun employé, badge visiteur ou ticket ne correspond à l'identifiant scanné ,  l'ID du badge n'existe pas dans le système. Le visiteur voit une page **Badge Invalide** sur fond sombre avec une icône X rouge.
 
 ---
 
@@ -84,10 +84,10 @@ Aucun employé, badge visiteur ou ticket ne correspond à l'identifiant scanné 
 
 | État           | Ce que le visiteur voit         |
 | -------------- | ------------------------------- |
-| **Actif**      | Coche verte — "Badge Valide"    |
-| **Expiré**     | Horloge ambre — "Badge Expiré"  |
-| **Révoqué**    | X rouge — "Badge Révoqué"       |
-| **Non trouvé** | X rouge — erreur badge invalide |
+| **Actif** | Coche verte ,  "Badge Valide" |
+| **Expiré** | Horloge ambre ,  "Badge Expiré" |
+| **Révoqué** | X rouge ,  "Badge Révoqué" |
+| **Non trouvé** | X rouge ,  erreur badge invalide |
 
 ---
 
@@ -96,6 +96,6 @@ Aucun employé, badge visiteur ou ticket ne correspond à l'identifiant scanné 
 | État                  | Ce que le visiteur voit              |
 | --------------------- | ------------------------------------ |
 | **Actif**             | Coche verte                          |
-| **Expire bientôt**    | Horloge ambre — expire d'ici 3 jours |
+| **Expire bientôt** | Horloge ambre ,  expire d'ici 3 jours |
 | **Expiré**            | Horloge ambre                        |
 | **Utilisé / Révoqué** | X rouge                              |

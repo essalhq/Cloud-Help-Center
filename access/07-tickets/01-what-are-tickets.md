@@ -6,7 +6,7 @@ title: "What Are Tickets?"
 {/* category: Tickets */}
 {/* audience: Admins, Managers */}
 
-Tickets are digital passes you can issue to employees for a specific purpose and time period — such as an access pass, meal voucher, parking permit, or event admission. Each ticket generates a unique QR code link that can be scanned to verify its validity.
+Tickets are digital passes you can issue to employees for a specific purpose and time period ,  such as an access pass, meal voucher, parking permit, or event admission. Each ticket generates a unique QR code link that can be scanned to verify its validity.
 
 ![Tickets list showing issued tickets with type, employee, status, and expiry information](../screenshots/tickets-list.png)
 
@@ -20,7 +20,7 @@ When you issue a ticket to an employee, Essal Access:
 2. Generates a public verification link: `https://idpage.link/ticket/{ticketId}`
 3. The employee (or an operator) can open or share that link to show the ticket's current status
 
-No separate account or app is needed for the recipient — the link opens a public page showing the ticket details.
+No separate account or app is needed for the recipient ,  the link opens a public page showing the ticket details.
 
 ---
 
@@ -47,7 +47,7 @@ You can also create your own custom ticket types with any name and color. See Cr
 |---|---|---|
 | Issued to | **Employees** (existing records) | **Guests** (no employee account needed) |
 | Type system | Fully customizable types | Single type |
-| Bulk issue | Yes — entire department at once | No |
+| Bulk issue | Yes ,  entire department at once | No |
 | Never-expire option | Yes | No |
 | Storage | Attached to the employee's profile | Separate guest record |
 

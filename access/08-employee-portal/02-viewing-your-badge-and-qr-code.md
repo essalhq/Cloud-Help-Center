@@ -26,9 +26,9 @@ The QR code links to your badge verification page and is always up to date.
 
 The home page also provides shortcuts:
 
-- **My Profile** — jump to your profile editing page
-- **Show QR Code** — open the full-screen QR code
-- **Report Issue** — go to the Report Missing Badge page
+- **My Profile** ,  jump to your profile editing page
+- **Show QR Code** ,  open the full-screen QR code
+- **Report Issue** ,  go to the Report Missing Badge page
 
 ## If Your Badge Is Not Showing
 

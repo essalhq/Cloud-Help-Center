@@ -29,7 +29,7 @@ Toutes les données de synchronisation sont stockées dans une base de données 
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Données de moins de **10 minutes**                   | Utilisées directement ; aucune tentative de récupération.                                                                                                        |
 | Données de **plus de 10 minutes** mais moins de 24 h | L'application tente de rafraîchir depuis le serveur ; si hors-ligne, utilise les données en cache avec un indicateur "depuis le cache" sur la carte de résultat. |
-| Données de **plus de 24 heures**                     | Renvoie un résultat **Expiré** avec le motif "Cache expiré" — l'appareil doit se reconnecter pour s'actualiser.                                                  |
+| Données de **plus de 24 heures** | Renvoie un résultat **Expiré** avec le motif "Cache expiré" ,  l'appareil doit se reconnecter pour s'actualiser. |
 
 ---
 
@@ -64,7 +64,7 @@ L'application surveille le temps écoulé depuis la dernière connexion réussie
 
 **Verrouillage hors-ligne (📡) :** S'affiche lorsque l'appareil dépasse la durée maximale hors-ligne (par défaut : **24 heures**). Le scan est désactivé jusqu'à ce que l'appareil se reconnecte. L'écran indique quand l'appareil a été en ligne pour la dernière fois et propose un bouton **Se Reconnecter**.
 
-**Verrouillage révoqué (🚫) :** S'affiche lorsque l'administrateur a désactivé l'appareil depuis le panneau d'administration. Ce verrouillage ne peut pas être ignoré — l'opérateur doit se déconnecter. Pour rétablir l'accès, un administrateur doit réactiver l'appareil depuis le panneau d'administration et le ré-enregistrer si nécessaire.
+**Verrouillage révoqué (🚫) :** S'affiche lorsque l'administrateur a désactivé l'appareil depuis le panneau d'administration. Ce verrouillage ne peut pas être ignoré ,  l'opérateur doit se déconnecter. Pour rétablir l'accès, un administrateur doit réactiver l'appareil depuis le panneau d'administration et le ré-enregistrer si nécessaire.
 
 ---
 

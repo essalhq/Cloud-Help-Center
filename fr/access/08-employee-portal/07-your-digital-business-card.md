@@ -12,7 +12,7 @@ La page **Ma Carte de Visite** vous permet de gérer les liens qui apparaissent 
 
 ## Qu'est-ce qu'une carte de visite numérique
 
-Votre carte de visite numérique est une page partageable qui affiche vos détails professionnels — nom, rôle, département, coordonnées, bio et tous les liens personnalisés que vous ajoutez. Elle peut être partagée via un lien ou être consultée grâce au code QR de votre badge.
+Votre carte de visite numérique est une page partageable qui affiche vos détails professionnels ,  nom, rôle, département, coordonnées, bio et tous les liens personnalisés que vous ajoutez. Elle peut être partagée via un lien ou être consultée grâce au code QR de votre badge.
 
 ---
 
@@ -53,7 +53,7 @@ Votre carte affiche :
 - Le logo de l'entreprise et votre photo de profil.
 - Votre nom complet, votre intitulé de poste et votre département.
 - Des icônes de réseaux sociaux pour tous les liens sociaux que vous avez ajoutés.
-- Le bouton **Enregistrer le Contact** — télécharge une vCard pour que les gens puissent enregistrer vos coordonnées sur leur téléphone.
+- Le bouton **Enregistrer le Contact** ,  télécharge une vCard pour que les gens puissent enregistrer vos coordonnées sur leur téléphone.
 - Les boutons **E-mail** et **Appeler** (si votre e-mail et votre téléphone sont renseignés).
 - Tous les liens personnalisés que vous avez ajoutés.
 - Votre bio.

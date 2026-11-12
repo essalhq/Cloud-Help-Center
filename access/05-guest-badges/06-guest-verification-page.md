@@ -16,11 +16,11 @@ The verification page is designed to give a guard all the information they need 
 
 ### Visual Elements (Top to Bottom)
 
-1. **Organization logo** — pulled from your whitelabel settings
-2. **Status bar** — a full-width colored bar at the top indicating the badge status at a glance
-3. **Status pill** — text label ("Valid Badge", "Expired Badge", or "Revoked Badge")
-4. **Guest name** — displayed as the main heading
-5. **Guest company** — shown below the name (if provided), with a building icon
+1. **Organization logo** ,  pulled from your whitelabel settings
+2. **Status bar** ,  a full-width colored bar at the top indicating the badge status at a glance
+3. **Status pill** ,  text label ("Valid Badge", "Expired Badge", or "Revoked Badge")
+4. **Guest name** ,  displayed as the main heading
+5. **Guest company** ,  shown below the name (if provided), with a building icon
 
 ### Detail Rows
 
@@ -71,7 +71,7 @@ If the badge URL contains a token that doesn't exist (e.g., the badge was delete
 - An X-circle icon with an error message
 - No badge information is shown
 
-Guards should treat this result the same as a **Revoked** badge — access should not be granted.
+Guards should treat this result the same as a **Revoked** badge ,  access should not be granted.
 
 ---
 
@@ -79,7 +79,7 @@ Guards should treat this result the same as a **Revoked** badge — access shoul
 
 The verification page uses your organization's branding from the **Whitelabel Settings**:
 - Company logo
-- Company name (also used in the page's SEO title: *"\{Status\} — \{Guest Name\} — \{Company Name\}"*)
+- Company name (also used in the page's SEO title: *"\{Status\} ,  \{Guest Name\} ,  \{Company Name\}"*)
 
 This ensures the page looks professional and trusted to guests and security staff.
 
@@ -93,4 +93,3 @@ Both guests and security guards open the same URL. The page is designed for both
 - **Guards** can confirm the badge is valid, check the access zones, and verify the guest's name matches their ID
 
 Neither guests nor guards can modify the badge from this page.
-

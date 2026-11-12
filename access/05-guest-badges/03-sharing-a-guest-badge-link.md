@@ -16,14 +16,14 @@ Every guest badge has a unique, permanent link that can be shared with the guest
 
 Every guest badge is accessible at:
 
-```
+```text
 https://idpage.link/guest/{token}
 ```
 
 Where `{token}` is a unique UUID generated at the time of creation. This URL is:
-- **Public** — no login required to open it
-- **Permanent** — the link does not change or expire (the badge status does)
-- **Unique** — each badge has a different token; links cannot be guessed
+- **Public** ,  no login required to open it
+- **Permanent** ,  the link does not change or expire (the badge status does)
+- **Unique** ,  each badge has a different token; links cannot be guessed
 
 ---
 
@@ -47,7 +47,7 @@ If you need to re-share the link after the initial invite (or if the email bounc
 3. Click the **three-dot menu (⋮)** at the end of the row
 4. Select **Copy Link**
 
-The badge URL is copied to your clipboard and a confirmation notification appears. You can then paste it wherever you need — SMS, WhatsApp, Slack, a printed email, etc.
+The badge URL is copied to your clipboard and a confirmation notification appears. You can then paste it wherever you need ,  SMS, WhatsApp, Slack, a printed email, etc.
 
 ---
 
@@ -75,4 +75,3 @@ The top bar of the page is color-coded so the status is visible at a glance:
 - **Blue** → Active / valid
 - **Amber** → Expired
 - **Red** → Revoked
-

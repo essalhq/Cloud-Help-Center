@@ -20,7 +20,7 @@ Cet article traite des problèmes les plus courants rencontrés avec les apparei
 2. Appuyez sur **Se Reconnecter** sur l'écran de verrouillage.
 3. Si la connexion réussit, l'application s'ouvre à nouveau sur l'écran de scan.
 
-Si l'écran de verrouillage affiche une icône **🚫 (Révoqué)** au lieu de **📡**, l'appareil a été désactivé depuis le panneau d'administration — voir la section Révoqué ci-dessous.
+Si l'écran de verrouillage affiche une icône **🚫 (Révoqué)** au lieu de **📡**, l'appareil a été désactivé depuis le panneau d'administration ,  voir la section Révoqué ci-dessous.
 
 ---
 
@@ -48,7 +48,7 @@ Si l'écran de verrouillage affiche une icône **🚫 (Révoqué)** au lieu de *
 
 **Solution :**
 
-1. Vérifiez que la permission caméra est accordée — allez dans les **paramètres du site du navigateur** de l'appareil et autorisez l'accès à la caméra pour `scan.idpage.link`.
+1. Vérifiez que la permission caméra est accordée ,  allez dans les **paramètres du site du navigateur** de l'appareil et autorisez l'accès à la caméra pour `scan.idpage.link`.
 2. Fermez toutes les autres applications susceptibles d'utiliser la caméra.
 3. Actualisez l'application (balayez vers le bas pour rafraîchir ou rouvrez-la depuis l'écran d'accueil).
 4. Sur iOS, si la permission est refusée au niveau du système, allez dans **Réglages → Safari → Appareil photo** et autorisez l'accès.
@@ -65,7 +65,7 @@ Si l'écran de verrouillage affiche une icône **🚫 (Révoqué)** au lieu de *
 - Tenez le badge à 15–30 cm de l'objectif et maintenez-le immobile.
 - Nettoyez l'objectif de la caméra.
 - Essayez de passer en mode **Manuel** et de saisir l'ID du badge au clavier ou via le pavé numérique à l'écran.
-- Si le code QR du badge est imprimé, vérifiez si la qualité d'impression est trop faible — consultez la section Impression et Exportation de Badges pour obtenir des conseils.
+- Si le code QR du badge est imprimé, vérifiez si la qualité d'impression est trop faible ,  consultez la section Impression et Exportation de Badges pour obtenir des conseils.
 
 ---
 

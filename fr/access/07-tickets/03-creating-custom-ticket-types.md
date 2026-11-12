@@ -6,7 +6,7 @@ title: "Créer des Types de Tickets Personnalisés"
 {/* category: Tickets */}
 {/* audience: Admins, Managers */}
 
-Essal Access inclut six types de tickets prédéfinis, mais vous pouvez ajouter les vôtres pour répondre aux besoins spécifiques de votre organisation — chacun avec un nom, une couleur et une description facultative personnalisés.
+Essal Access inclut six types de tickets prédéfinis, mais vous pouvez ajouter les vôtres pour répondre aux besoins spécifiques de votre organisation ,  chacun avec un nom, une couleur et une description facultative personnalisés.
 
 ![Liste des tickets montrant la variété des types de tickets disponibles](../screenshots/tickets-list.png)
 
@@ -49,7 +49,7 @@ Les types suivants sont disponibles d'emblée :
 
 ## Fonctionnement des IDs de Type de Ticket
 
-L'identifiant interne (`id`) du type est automatiquement généré à partir du nom — les espaces sont remplacés par des tirets et tous les caractères sont mis en minuscules (ex : "Accès Salle de Sport" → `accès-salle-de-sport`). Cet ID est stocké sur chaque ticket émis avec ce type.
+L'identifiant interne (`id`) du type est automatiquement généré à partir du nom ,  les espaces sont remplacés par des tirets et tous les caractères sont mis en minuscules (ex : "Accès Salle de Sport" → `accès-salle-de-sport`). Cet ID est stocké sur chaque ticket émis avec ce type.
 
 ---
 
@@ -59,10 +59,10 @@ L'identifiant interne (`id`) du type est automatiquement généré à partir du 
 2. Trouvez le type à supprimer et cliquez sur l'icône de **suppression** (poubelle) à côté.
 3. Confirmez la suppression dans la boîte de dialogue.
 
-> **Note :** La suppression d'un type de ticket n'affecte pas les tickets déjà émis. Les tickets existants conservent leur ID de type, mais le nom et la couleur du type ne seront plus résolus sur la page de vérification — le ticket affichera l'ID brut du type au lieu de son nom. Il est recommandé de révoquer ou de supprimer tous les tickets d'un type avant de supprimer le type lui-même.
+> **Note :** La suppression d'un type de ticket n'affecte pas les tickets déjà émis. Les tickets existants conservent leur ID de type, mais le nom et la couleur du type ne seront plus résolus sur la page de vérification ,  le ticket affichera l'ID brut du type au lieu de son nom. Il est recommandé de révoquer ou de supprimer tous les tickets d'un type avant de supprimer le type lui-même.
 
 ---
 
 ## Où sont stockés les Types de Tickets
 
-Les types de tickets personnalisés sont stockés dans les paramètres de votre organisation et sont accessibles à tous les administrateurs. Les modifications sont appliquées immédiatement — tout administrateur ouvrant la fenêtre de création de ticket verra la liste des types mise à jour.
+Les types de tickets personnalisés sont stockés dans les paramètres de votre organisation et sont accessibles à tous les administrateurs. Les modifications sont appliquées immédiatement ,  tout administrateur ouvrant la fenêtre de création de ticket verra la liste des types mise à jour.

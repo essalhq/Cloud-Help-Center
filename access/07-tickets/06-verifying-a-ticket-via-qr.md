@@ -6,7 +6,7 @@ title: "Verifying a Ticket via QR"
 {/* category: Tickets */}
 {/* audience: Admins, Security, Operators */}
 
-Every ticket has a unique public verification link that can be opened or scanned by anyone — no login required. This is how security personnel or event organizers confirm that a ticket is genuine and currently valid.
+Every ticket has a unique public verification link that can be opened or scanned by anyone ,  no login required. This is how security personnel or event organizers confirm that a ticket is genuine and currently valid.
 
 ---
 
@@ -14,7 +14,7 @@ Every ticket has a unique public verification link that can be opened or scanned
 
 Each ticket is accessible at:
 
-```
+```text
 https://idpage.link/ticket/{ticketId}
 ```
 
@@ -31,7 +31,7 @@ To get the link for a specific ticket:
 3. Click the **three-dot menu (⋮)**
 4. Select **Copy Link**
 
-The link is copied to your clipboard. You can share it via email, SMS, WhatsApp, or print it on a document. The link also contains an embedded QR code when the page is opened — this allows the recipient to present the page on their phone for scanning.
+The link is copied to your clipboard. You can share it via email, SMS, WhatsApp, or print it on a document. The link also contains an embedded QR code when the page is opened ,  this allows the recipient to present the page on their phone for scanning.
 
 ---
 
@@ -60,10 +60,10 @@ The accent stripe at the top of the ticket card and the status badge change colo
 
 | Status | Color | What it means |
 |---|---|---|
-| Valid (Active) | Your org's brand color | Ticket is valid — allow entry or access |
+| Valid (Active) | Your org's brand color | Ticket is valid ,  allow entry or access |
 | Expiring Soon | Amber | Valid now but expires within 3 days |
-| Expired | Amber | Validity window has passed — do not honor |
-| Revoked | Red | Manually cancelled — do not honor |
+| Expired | Amber | Validity window has passed ,  do not honor |
+| Revoked | Red | Manually cancelled ,  do not honor |
 
 ---
 
@@ -83,7 +83,7 @@ A **language selector** at the bottom of the page allows manual switching.
 
 ## Ticket Not Found
 
-If the link is opened with an invalid or deleted ticket ID, the page displays an error card with a red icon and a "Ticket not found" message. This can happen if the ticket was **deleted** from the admin panel. Revoked tickets still have a visible page — they show the Revoked status rather than a not-found error.
+If the link is opened with an invalid or deleted ticket ID, the page displays an error card with a red icon and a "Ticket not found" message. This can happen if the ticket was **deleted** from the admin panel. Revoked tickets still have a visible page ,  they show the Revoked status rather than a not-found error.
 
 ---
 
