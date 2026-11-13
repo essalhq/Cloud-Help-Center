@@ -1,14 +1,14 @@
 ---
-title: "Champs personnalisés — Créer et gérer des attributs"
+title: "Champs personnalisés, Créer et gérer des attributs"
 ---
 
 {/* keywords: champs personnalisés, attributs employé, champs supplémentaires, champ sélection, champ texte, afficher sur badge */}
 {/* category: Employee Management */}
 {/* audience: Admins */}
 
-Les champs personnalisés vous permettent d'étendre les fiches employés avec des données spécifiques à votre organisation ,  numéro de permis de conduire, taille de vêtement, compétences linguistiques, ou tout autre attribut que les champs standards ne couvrent pas.
+Les champs personnalisés vous permettent d'étendre les fiches employés avec des données spécifiques à votre organisation, numéro de permis de conduire, taille de vêtement, compétences linguistiques, ou tout autre attribut que les champs standards ne couvrent pas.
 
-![Paramètres ,  onglet Champs personnalisés](../screenshots/settings-custom-fields.png)
+![Paramètres, onglet Champs personnalisés](../screenshots/settings-custom-fields.png)
 
 ---
 
@@ -72,8 +72,8 @@ Lors de l'importation CSV, vous devez utiliser exactement la valeur de l'option 
 
 ## Où apparaissent les champs personnalisés
 
-- **Fiche employé** (onglet Profil) ,  section dédiée sous les champs standards
-- **Importation CSV** ,  les colonnes dont le nom correspond aux champs personnalisés sont automatiquement mappées
-- **Badge** ,  si l'option "Afficher sur le badge" est activée et que le champ est visible dans le Badge Designer
-- **Profil public** ,  si l'option "Afficher sur le profil public" est activée
-- **Portail Employé** ,  si "Autoriser l'auto-modification" est activé, les employés voient et peuvent modifier leurs valeurs
+- **Fiche employé** (onglet Profil), section dédiée sous les champs standards
+- **Importation CSV**, les colonnes dont le nom correspond aux champs personnalisés sont automatiquement mappées
+- **Badge**, si l'option "Afficher sur le badge" est activée et que le champ est visible dans le Badge Designer
+- **Profil public**, si l'option "Afficher sur le profil public" est activée
+- **Portail Employé**, si "Autoriser l'auto-modification" est activé, les employés voient et peuvent modifier leurs valeurs

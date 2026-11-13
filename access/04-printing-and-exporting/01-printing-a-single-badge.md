@@ -17,7 +17,7 @@ This article explains how to print or download a single employee's badge as a PN
 ### From the Employee List
 
 1. Navigate to **Employees** in the sidebar
-2. Hover over any employee row ,  a row of action icons appears on the right
+2. Hover over any employee row, a row of action icons appears on the right
 3. Click the **Print** icon (printer icon)
 4. You are taken to the Print Center with that employee already selected and the badge preview loaded
 
@@ -30,17 +30,17 @@ This article explains how to print or download a single employee's badge as a PN
 
 ---
 
-## The Print Center ,  Individual Tab
+## The Print Center, Individual Tab
 
 The Individual tab has two panels:
 
-**Left panel ,  Employee selector**
+**Left panel, Employee selector**
 
 - Search box to filter employees by name
 - Scrollable list of all employees with their avatar, name, and department
 - Click any employee to load their badge in the preview
 
-**Right panel ,  Badge preview**
+**Right panel, Badge preview**
 
 - Live rendering of the badge using the current badge template and the selected employee's data
 - Shows Front side by default; if the badge back is enabled, both sides are displayed
@@ -57,7 +57,7 @@ Tips for best results:
 - Set **margins** to **None** or **Minimum** in the print dialog
 - Disable **Print headers and footers** in the browser's settings
 - Select **Background graphics** (or equivalent) so badge colors print correctly
-- Use **Scale: 100%** ,  the badge is pre-sized for accurate proportions
+- Use **Scale: 100%**, the badge is pre-sized for accurate proportions
 
 The browser print dialog uses the badge layout exactly as configured in the Badge Designer. No additional sizing is needed.
 
@@ -80,6 +80,6 @@ The downloaded PNG:
 
 ## After Printing
 
-The printed badge layout uses your active Badge Designer template. If you recently changed the badge design, the print preview reflects those changes immediately ,  no need to refresh.
+The printed badge layout uses your active Badge Designer template. If you recently changed the badge design, the print preview reflects those changes immediately, no need to refresh.
 
 To print badges for all employees at once, see Bulk Printing Multiple Badges.

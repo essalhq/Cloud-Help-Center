@@ -19,7 +19,7 @@ Email invitations are useful when:
 - You want to schedule device setup without being present
 - You are sending instructions to a non-technical operator who needs a clear setup link
 
-Unlike codes generated from the **Generate Code** button (which expire after 15 minutes), email invitation codes do **not expire** ,  they remain valid until used.
+Unlike codes generated from the **Generate Code** button (which expire after 15 minutes), email invitation codes do **not expire**, they remain valid until used.
 
 ---
 
@@ -28,8 +28,8 @@ Unlike codes generated from the **Generate Code** button (which expire after 15 
 1. Navigate to **Check-In Devices** in the admin panel
 2. Click **Send Setup Email**
 3. Fill in the invitation form:
-   - **Email address** (required) ,  the recipient will receive the setup link here
-   - **Recipient name** (optional) ,  personalizes the email greeting
+   - **Email address** (required), the recipient will receive the setup link here
+   - **Recipient name** (optional), personalizes the email greeting
 4. Click **Send**
 
 The system generates a unique registration code and sends an email containing:

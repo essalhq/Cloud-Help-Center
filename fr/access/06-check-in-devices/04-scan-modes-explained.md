@@ -18,7 +18,7 @@ Le **mode Badge** est le mode principal et le plus couramment utilisé. Il activ
 
 - La caméra s'ouvre avec un viseur plein écran.
 - Une fenêtre de scan transparente se trouve au centre de l'écran avec des crochets d'angle et une ligne de balayage animée.
-- Pointez la caméra sur n'importe quel code QR de badge Essal et le scan s'effectue automatiquement ,  aucune pression sur un bouton n'est nécessaire.
+- Pointez la caméra sur n'importe quel code QR de badge Essal et le scan s'effectue automatiquement, aucune pression sur un bouton n'est nécessaire.
 - Les résultats apparaissent immédiatement à l'écran.
 
 **Ce qu'il peut scanner :**
@@ -42,7 +42,7 @@ Le **mode Photo** permet à l'opérateur de prendre une photo du visiteur à l'a
 
 1. La caméra s'ouvre pour la capture.
 2. L'opérateur prend la photo.
-3. Un écran d'aperçu apparaît ,  saisissez éventuellement un ID de référence (ID de badge ou d'employé) et une note.
+3. Un écran d'aperçu apparaît, saisissez éventuellement un ID de référence (ID de badge ou d'employé) et une note.
 4. Appuyez sur **Confirmer** pour enregistrer l'entrée.
 
 **Ce qu'il enregistre :**

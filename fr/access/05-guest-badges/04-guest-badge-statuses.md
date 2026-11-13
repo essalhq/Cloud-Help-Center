@@ -16,9 +16,9 @@ Chaque badge visiteur possède un statut qui détermine si l'accès doit être a
 
 | Statut      | Couleur | Signification                                                        |
 | ----------- | ------- | -------------------------------------------------------------------- |
-| **Actif** | Vert | Le badge est valide ,  l'accès peut être accordé au visiteur |
-| **Expiré** | Ambre | La fenêtre de validité est passée ,  l'accès ne doit pas être accordé |
-| **Révoqué** | Rouge | Annulé manuellement par un administrateur ,  ne pas accorder l'accès |
+| **Actif** | Vert | Le badge est valide, l'accès peut être accordé au visiteur |
+| **Expiré** | Ambre | La fenêtre de validité est passée, l'accès ne doit pas être accordé |
+| **Révoqué** | Rouge | Annulé manuellement par un administrateur, ne pas accorder l'accès |
 
 ---
 
@@ -37,7 +37,7 @@ Un badge actif affiche une pastille de statut **verte** dans la liste d'administ
 
 ## Expiré
 
-Un badge est **Expiré** lorsque son heure "valide jusqu'au" est passée. L'expiration est **automatique** ,  aucune action manuelle n'est requise.
+Un badge est **Expiré** lorsque son heure "valide jusqu'au" est passée. L'expiration est **automatique**, aucune action manuelle n'est requise.
 
 - L'expiration est calculée côté client à chaque chargement de page.
 - L'enregistrement sous-jacent en base de données reste `active` ; seul le statut affiché change.

@@ -18,7 +18,7 @@ Allez dans **Paramètres** → **Éditeur de Page Publique** dans la navigation 
 
 ## Identité Visuelle (Branding)
 
-**Couleur primaire** ,  définit la couleur d'accentuation utilisée pour la bande de couverture en haut du profil et pour les boutons. Cliquez sur l'échantillon de couleur pour ouvrir un sélecteur de couleurs, ou tapez directement une valeur hexadécimale.
+**Couleur primaire**, définit la couleur d'accentuation utilisée pour la bande de couverture en haut du profil et pour les boutons. Cliquez sur l'échantillon de couleur pour ouvrir un sélecteur de couleurs, ou tapez directement une valeur hexadécimale.
 
 ---
 
@@ -39,10 +39,10 @@ Utilisez les interrupteurs (toggles) pour afficher ou masquer chaque section du 
 
 **Section Contact :**
 
-- **Afficher les infos de contact** ,  interrupteur principal pour tous les détails de contact
-- **Afficher l'e-mail** ,  adresse e-mail de l'employé (nécessite l'interrupteur contact activé)
-- **Afficher le téléphone** ,  numéro de téléphone (nécessite l'interrupteur contact activé)
-- **Afficher l'emplacement** ,  ville et adresse
+- **Afficher les infos de contact**, interrupteur principal pour tous les détails de contact
+- **Afficher l'e-mail**, adresse e-mail de l'employé (nécessite l'interrupteur contact activé)
+- **Afficher le téléphone**, numéro de téléphone (nécessite l'interrupteur contact activé)
+- **Afficher l'emplacement**, ville et adresse
 
 > Afficher l'e-mail et le téléphone rend ces données visibles publiquement par quiconque scanne le badge. Utilisez ces réglages avec prudence.
 

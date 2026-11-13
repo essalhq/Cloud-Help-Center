@@ -3,7 +3,7 @@ title: "Employee Portal Overview"
 ---
 {/* category: Employee Portal */}
 
-The Employee Portal is a self-service area where employees can view their badge, manage personal information, update health and safety details, access their digital business card, and report a lost or damaged badge ,  all without needing admin assistance.
+The Employee Portal is a self-service area where employees can view their badge, manage personal information, update health and safety details, access their digital business card, and report a lost or damaged badge, all without needing admin assistance.
 
 ![Employee Portal home page](../screenshots/portal-home.png)
 

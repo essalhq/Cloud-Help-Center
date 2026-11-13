@@ -9,7 +9,7 @@ The **My Business Card** page lets you manage the links that appear on your digi
 
 ## What Is a Digital Business Card
 
-Your digital business card is a shareable page that displays your professional details ,  name, role, department, contact information, bio, and any custom links you add. It can be shared via a link or accessed through your badge's QR code.
+Your digital business card is a shareable page that displays your professional details, name, role, department, contact information, bio, and any custom links you add. It can be shared via a link or accessed through your badge's QR code.
 
 ## Editing Custom Links
 
@@ -46,7 +46,7 @@ Your card displays:
 - Company logo and your profile photo
 - Your full name, job title, and department
 - Social media icons for any social links you have added
-- **Save Contact** button ,  downloads a vCard so people can save your details to their phone
+- **Save Contact** button, downloads a vCard so people can save your details to their phone
 - **Email** and **Call** buttons (if your email and phone are on file)
 - Any custom links you have added
 - Your bio

@@ -25,11 +25,11 @@ Only two fields are required to save an employee record:
 - **First Name**
 - **Last Name**
 
-Everything else is optional ,  you can fill in additional details now or come back later to edit the record.
+Everything else is optional, you can fill in additional details now or come back later to edit the record.
 
 ---
 
-## Profile Tab ,  Field Reference
+## Profile Tab, Field Reference
 
 The Profile tab is divided into two sections: **Personal Information** and **Organizational Details**.
 
@@ -39,22 +39,22 @@ The Profile tab is divided into two sections: **Personal Information** and **Org
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | **First Name**         | Required                                                                                               |
 | **Last Name**          | Required                                                                                               |
-| **Employee ID** | Auto-generated (e.g. `EMP-A3F7K2`). Editable only when creating a new record ,  read-only after saving. |
+| **Employee ID** | Auto-generated (e.g. `EMP-A3F7K2`). Editable only when creating a new record, read-only after saving. |
 | **Email**              | Work email address. Used for portal login and notifications.                                           |
 | **Phone**              | Work or mobile phone number                                                                            |
-| **Date of Birth** | Optional ,  not shown on the badge by default |
-| **Blood Type** | Optional ,  A+, A−, B+, B−, AB+, AB−, O+, O−. Can appear on the badge if enabled in the designer. |
+| **Date of Birth** | Optional, not shown on the badge by default |
+| **Blood Type** | Optional, A+, A−, B+, B−, AB+, AB−, O+, O−. Can appear on the badge if enabled in the designer. |
 | **Address**            | Street address                                                                                         |
 | **City / State / ZIP** | Location fields                                                                                        |
 | **Nationality**        | Optional                                                                                               |
-| **Bio** | Free-text bio ,  shown on public profiles and the Employee Portal if enabled |
+| **Bio** | Free-text bio, shown on public profiles and the Employee Portal if enabled |
 
 ### Organizational Details
 
 | Field          | Notes                                                                                                                                                            |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Job Role**   | The person's title or position (e.g. _Security Officer_, _HR Manager_). Shown on the badge if enabled.                                                           |
-| **Department** | Select from departments defined in Settings. Departments must exist before they can be selected here ,  see Managing Departments. |
+| **Department** | Select from departments defined in Settings. Departments must exist before they can be selected here, see Managing Departments. |
 
 ### Custom Fields
 
@@ -66,11 +66,11 @@ If your admin has defined custom attribute fields (Settings → Custom Fields), 
 
 The profile photo appears on the employee's badge and public profile. Three methods are available:
 
-**Upload from file** ,  Click the photo circle or the **Upload Photo** button. Supported formats: any image file. Maximum size: **2 MB**. The photo is cropped to a circle on the badge.
+**Upload from file**, Click the photo circle or the **Upload Photo** button. Supported formats: any image file. Maximum size: **2 MB**. The photo is cropped to a circle on the badge.
 
-**Capture from webcam** ,  Click **Take Photo** to open the camera. Review the captured image, then click **Accept** to use it or **Retake** to try again.
+**Capture from webcam**, Click **Take Photo** to open the camera. Review the captured image, then click **Accept** to use it or **Retake** to try again.
 
-**No photo** ,  If no photo is uploaded, a placeholder avatar is shown on the badge. You can add a photo later by editing the employee record.
+**No photo**, If no photo is uploaded, a placeholder avatar is shown on the badge. You can add a photo later by editing the employee record.
 
 > **AI photo enhancement** (Claid integration): If your tenant has the Claid photo API configured, the background is automatically removed from uploaded photos.
 
@@ -90,9 +90,9 @@ Once a record is saved, the modal has four tabs:
 
 | Tab                 | What's here                                                                                             |
 | ------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Profile** | All the fields above ,  editable at any time |
+| **Profile** | All the fields above, editable at any time |
 | **Security**        | Badge status, 2FA PIN, access schedule, access zones, authenticated-scanner-only toggle                 |
-| **Badges** | Badge history ,  issue a new badge, view or revoke previous badges |
+| **Badges** | Badge history, issue a new badge, view or revoke previous badges |
 | **Health & Safety** | Emergency contact, allergies, medical conditions, disabilities, safety certifications, PPE requirements |
 
 These tabs are covered in their own articles. For now, the defaults (Active status, no PIN, no schedule restrictions) are appropriate for most new employees.

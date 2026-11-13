@@ -9,7 +9,7 @@ Links on a business card can be added by both administrators (for all employees)
 
 ## Links Added by Administrators
 
-Administrators can add links that appear on every employee's business card via the **Business Card Editor** (Settings → Business Card Editor). These are organization-wide links ,  the same links appear regardless of which employee's card is viewed.
+Administrators can add links that appear on every employee's business card via the **Business Card Editor** (Settings → Business Card Editor). These are organization-wide links, the same links appear regardless of which employee's card is viewed.
 
 See Configuring the Business Card Template for instructions.
 

@@ -10,13 +10,13 @@ The Badge Designer is where you create and customize the visual template used fo
 
 Navigate to **Badge Designer** in the sidebar.
 
-![Badge Designer showing three panels ,  layout controls on the left, live badge preview in the center, and branding controls on the right](../screenshots/badge-designer.png)
+![Badge Designer showing three panels, layout controls on the left, live badge preview in the center, and branding controls on the right](../screenshots/badge-designer.png)
 
 ---
 
 ## How Badge Templates Work
 
-Essal Access uses a **single shared template** ,  one design that automatically applies to every employee record using that employee's individual data. When you change the template (colors, layout, displayed fields), every employee's badge updates immediately.
+Essal Access uses a **single shared template**, one design that automatically applies to every employee record using that employee's individual data. When you change the template (colors, layout, displayed fields), every employee's badge updates immediately.
 
 You do not need to design a badge per employee. Design it once, and all badges inherit it.
 
@@ -26,29 +26,29 @@ You do not need to design a badge per employee. Design it once, and all badges i
 
 The designer has three panels side by side:
 
-### Left Panel ,  Structure & Elements
+### Left Panel, Structure & Elements
 
 Controls the badge's overall shape and which fields are displayed:
 
-- **Templates section** ,  choose from 7 built-in layouts
-- **Elements section** ,  toggle which fields show on the badge front (photo, QR code, name, role, department, etc.)
-- **Back Side section** ,  when the "Back" side is active in the canvas, this panel switches to show the back side controls
+- **Templates section**, choose from 7 built-in layouts
+- **Elements section**, toggle which fields show on the badge front (photo, QR code, name, role, department, etc.)
+- **Back Side section**, when the "Back" side is active in the canvas, this panel switches to show the back side controls
 
-### Center Panel ,  Live Preview Canvas
+### Center Panel, Live Preview Canvas
 
 Shows a real-time rendering of the badge as you configure it:
 
 - Displays the badge at 1.5× scale
 - Shows a subtle background pattern
 - Includes a **Front / Back** segmented control to switch which side you're viewing and editing
-- Includes a **Preview As** employee selector ,  see the badge with real or mock employee data
+- Includes a **Preview As** employee selector, see the badge with real or mock employee data
 
-### Right Panel ,  Branding
+### Right Panel, Branding
 
 Two tabs:
 
-- **Branding** ,  company colors, logo upload, and background image
-- **Photo** ,  AI photo enhancement tools for the selected preview employee
+- **Branding**, company colors, logo upload, and background image
+- **Photo**, AI photo enhancement tools for the selected preview employee
 
 ---
 
@@ -62,7 +62,7 @@ The Badge Designer is a desktop-only feature. On mobile or tablet screens, a not
 
 Changes to the badge template are not saved automatically. When you are happy with your design, click the **Save** button in the top-right of the right panel. A spinner shows while saving. A success notification appears when complete.
 
-> All employee badges update to the new design the moment you save. There is no preview-only or draft mode ,  saving is live.
+> All employee badges update to the new design the moment you save. There is no preview-only or draft mode, saving is live.
 
 ---
 

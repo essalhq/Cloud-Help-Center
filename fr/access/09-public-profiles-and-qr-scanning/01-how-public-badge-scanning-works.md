@@ -4,7 +4,7 @@ title: "Fonctionnement du Scan Public des Badges"
 {/* category: Public Profiles & QR Scanning */}
 
 
-Chaque badge d'employé contient un code QR. Lorsque quelqu'un le scanne, il est dirigé vers une page de vérification publique qui affiche le profil de l'employé ,  aucune connexion n'est requise. Cet article explique l'intégralité du processus, du scan à l'affichage.
+Chaque badge d'employé contient un code QR. Lorsque quelqu'un le scanne, il est dirigé vers une page de vérification publique qui affiche le profil de l'employé, aucune connexion n'est requise. Cet article explique l'intégralité du processus, du scan à l'affichage.
 
 ---
 
@@ -34,14 +34,14 @@ Tout ce processus se déroule automatiquement et ne nécessite aucune action de 
 
 Lorsqu'une URL de badge employé est ouverte, le système effectue les vérifications suivantes dans l'ordre :
 
-1. **Recherche du badge** ,  l'ID du badge est mis en correspondance avec un dossier employé. Si aucune correspondance n'est trouvée, le visiteur voit la page Badge Invalide.
-2. **Vérification du locataire (tenant)** ,  si l'URL se trouve sur un sous-domaine d'entreprise, le badge doit appartenir à cette entreprise. Une non-correspondance affiche la page Badge Invalide.
-3. **Statut bloqué** ,  si le badge ou l'employé est suspendu, perdu, désactivé, expiré ou licencié, le visiteur voit une page Accès Restreint expliquant la raison.
-4. **Paramètre de vérification publique** ,  si l'organisation a désactivé le scan public des badges, le scan est bloqué (ou redirigé vers la carte de visite, si cette option est activée).
-5. **Mode maintenance** ,  si le système est en maintenance, tous les scans publics sont bloqués.
-6. **Scanneurs authentifiés uniquement** ,  si le badge de cet employé nécessite un scanneur connecté, le visiteur doit être connecté à un compte de la même organisation.
-7. **Calendrier d'accès** ,  si l'employé a des horaires restreints, les scans en dehors de ces heures affichent un message "En dehors des heures de travail".
-8. **Code PIN 2FA** ,  si un code PIN est requis pour le badge de cet employé, le visiteur doit saisir le code correct à 4 chiffres avant que le profil ne s'affiche.
+1. **Recherche du badge**, l'ID du badge est mis en correspondance avec un dossier employé. Si aucune correspondance n'est trouvée, le visiteur voit la page Badge Invalide.
+2. **Vérification du locataire (tenant)**, si l'URL se trouve sur un sous-domaine d'entreprise, le badge doit appartenir à cette entreprise. Une non-correspondance affiche la page Badge Invalide.
+3. **Statut bloqué**, si le badge ou l'employé est suspendu, perdu, désactivé, expiré ou licencié, le visiteur voit une page Accès Restreint expliquant la raison.
+4. **Paramètre de vérification publique**, si l'organisation a désactivé le scan public des badges, le scan est bloqué (ou redirigé vers la carte de visite, si cette option est activée).
+5. **Mode maintenance**, si le système est en maintenance, tous les scans publics sont bloqués.
+6. **Scanneurs authentifiés uniquement**, si le badge de cet employé nécessite un scanneur connecté, le visiteur doit être connecté à un compte de la même organisation.
+7. **Calendrier d'accès**, si l'employé a des horaires restreints, les scans en dehors de ces heures affichent un message "En dehors des heures de travail".
+8. **Code PIN 2FA**, si un code PIN est requis pour le badge de cet employé, le visiteur doit saisir le code correct à 4 chiffres avant que le profil ne s'affiche.
 
 Une fois toutes les vérifications passées, le profil public de l'employé s'affiche.
 
@@ -57,4 +57,4 @@ Les **tickets** sont vérifiés à l'adresse `/ticket/{ticketId}`. Le système e
 
 ## Journalisation des Scans
 
-Chaque scan ,  qu'il soit réussi ou non ,  est enregistré automatiquement. Les consultations réussies de badges d'employés sont journalisées avec le type d'appareil, le navigateur et l'adresse IP du scanneur. Les scans bloqués sont enregistrés avec le motif du blocage. Consultez Journalisation des Scans pour plus de détails.
+Chaque scan, qu'il soit réussi ou non, est enregistré automatiquement. Les consultations réussies de badges d'employés sont journalisées avec le type d'appareil, le navigateur et l'adresse IP du scanneur. Les scans bloqués sont enregistrés avec le motif du blocage. Consultez Journalisation des Scans pour plus de détails.

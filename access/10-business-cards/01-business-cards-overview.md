@@ -3,7 +3,7 @@ title: "Business Cards Overview"
 ---
 {/* category: Business Cards */}
 
-Every employee in Essal Access has a digital business card ,  a clean, shareable page showing their professional details and contact information. The business card is designed to be shared like a physical card: via a link, a QR code, or a vCard file that can be saved directly to a phone's contacts.
+Every employee in Essal Access has a digital business card, a clean, shareable page showing their professional details and contact information. The business card is designed to be shared like a physical card: via a link, a QR code, or a vCard file that can be saved directly to a phone's contacts.
 
 ![Business Card Editor](../screenshots/business-card-editor.png)
 
@@ -24,15 +24,15 @@ The business card is the lightweight, privacy-friendly view. The full public pro
 
 A business card shows:
 
-- **Cover strip** ,  your organization's primary color, with optional cover photo and company logo
-- **Profile photo** ,  employee's photo, or initials if no photo is set
+- **Cover strip**, your organization's primary color, with optional cover photo and company logo
+- **Profile photo**, employee's photo, or initials if no photo is set
 - **Name, role, and department**
-- **Social media icons** ,  LinkedIn, Twitter/X, Instagram, Facebook (linked)
-- **Save Contact button** ,  downloads a vCard (.vcf) file for saving to phone contacts
-- **Email and Call buttons** ,  quick-action links (if contact details are shared)
-- **Website and custom links** ,  any additional links configured by the admin or employee
-- **Bio** ,  employee's bio text
-- **Contact section** ,  email and phone with icons
+- **Social media icons**, LinkedIn, Twitter/X, Instagram, Facebook (linked)
+- **Save Contact button**, downloads a vCard (.vcf) file for saving to phone contacts
+- **Email and Call buttons**, quick-action links (if contact details are shared)
+- **Website and custom links**, any additional links configured by the admin or employee
+- **Bio**, employee's bio text
+- **Contact section**, email and phone with icons
 
 ## Who Can Edit the Card
 

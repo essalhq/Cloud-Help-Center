@@ -17,7 +17,7 @@ The **Config** tab in the Print Center controls how badges are laid out on the p
 1. Go to **Print Center** in the sidebar
 2. Click the **Config** tab (third tab, after Individual and Bulk)
 
-Changes take effect immediately ,  the live page preview on the right updates in real-time as you adjust each setting.
+Changes take effect immediately, the live page preview on the right updates in real-time as you adjust each setting.
 
 ---
 
@@ -36,8 +36,8 @@ Choose the paper size that matches what you're printing on. This affects how man
 
 | Option        | Description                                    |
 | ------------- | ---------------------------------------------- |
-| **Portrait** | Tall page (default) ,  fits more rows of badges |
-| **Landscape** | Wide page ,  fits more columns of badges |
+| **Portrait** | Tall page (default), fits more rows of badges |
+| **Landscape** | Wide page, fits more columns of badges |
 
 For CR80-size badge cards (landscape orientation), **Landscape** page orientation typically gives the most efficient layout.
 
@@ -92,7 +92,7 @@ These settings add guide lines to the printed output to assist with cutting.
 
 - Default: **Off**
 - Adds a dashed border around the full perimeter of each badge
-- More prominent than crop marks ,  easier to see for hand-cutting
+- More prominent than crop marks, easier to see for hand-cutting
 - Can be used alongside crop marks or instead of them
 
 > **For professional cutting**: Crop marks only (no cut lines) are the standard for print shop work. Cut lines are better for in-office cutting where the guide line needs to be visible.
@@ -108,7 +108,7 @@ The right side of the Config tab shows a scaled-down preview of the print page w
 - The number of badges per page
 - How all settings interact together
 
-The preview is purely visual ,  it does not use real employee data. Badges show placeholder content.
+The preview is purely visual, it does not use real employee data. Badges show placeholder content.
 
 ---
 

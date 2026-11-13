@@ -8,7 +8,7 @@ title: "Suggestions de thème par IA"
 
 La fonctionnalité Suggestions de thème par IA génère automatiquement un thème de badge complet à partir d'une description en langage naturel. Décrivez le style que vous souhaitez et l'IA configure la mise en page, la police, les couleurs et les éléments en un seul clic.
 
-![Badge Designer ,  section Thème IA dans le panneau droit](../screenshots/badge-designer.png)
+![Badge Designer, section Thème IA dans le panneau droit](../screenshots/badge-designer.png)
 
 ---
 
@@ -45,7 +45,7 @@ Soyez précis dans votre description pour obtenir de meilleurs thèmes :
 | "Moderne" | "Startup technologique, palette sombre avec accents verts, minimaliste" |
 | "Créatif" | "Agence créative, tons violets vibrants, mise en page dégradé, sans serif moderne" |
 
-Itérez avec différentes descriptions si le premier résultat ne correspond pas ,  chaque génération peut produire un résultat différent.
+Itérez avec différentes descriptions si le premier résultat ne correspond pas, chaque génération peut produire un résultat différent.
 
 ---
 
@@ -55,7 +55,7 @@ La génération de thème IA **ne peut pas** :
 
 - Définir ou remplacer votre logo (à faire manuellement dans l'onglet Marque)
 - Configurer le verso du badge
-- Enregistrer automatiquement ,  cliquez toujours sur **Enregistrer** après avoir approuvé un thème généré
+- Enregistrer automatiquement, cliquez toujours sur **Enregistrer** après avoir approuvé un thème généré
 
 ---
 

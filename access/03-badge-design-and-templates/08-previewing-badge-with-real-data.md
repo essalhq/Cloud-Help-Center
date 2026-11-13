@@ -6,7 +6,7 @@ title: "Previewing Your Badge with Real Employee Data"
 {/* category: Badge Design & Templates */}
 {/* audience: Admins */}
 
-The Badge Designer lets you preview exactly how the badge will look for any specific employee ,  including their real name, photo, role, department, and ID. This helps you spot issues like text overflow on long names or missing photos before the design goes live.
+The Badge Designer lets you preview exactly how the badge will look for any specific employee, including their real name, photo, role, department, and ID. This helps you spot issues like text overflow on long names or missing photos before the design goes live.
 
 ![Badge designer canvas showing the PREVIEW AS selector with employee dropdown](../screenshots/badge-designer.png)
 
@@ -19,7 +19,7 @@ At the top of the badge canvas, a toolbar displays **PREVIEW AS** followed by an
 ### How to use it
 
 1. Open the **Badge Designer** from the sidebar
-2. Look at the canvas toolbar at the top ,  you'll see **PREVIEW AS** followed by a name (e.g. "John Doe")
+2. Look at the canvas toolbar at the top, you'll see **PREVIEW AS** followed by a name (e.g. "John Doe")
 3. Click the employee name pill
 4. A dropdown appears with a **search box** and a **scrollable list** of employees
 5. Type to filter by first or last name
@@ -103,4 +103,4 @@ Always do a **test print** for at least one employee before printing a full batc
 
 ## Switching Back to the Mock Employee
 
-To reset the preview to the default "John Doe" mock at any time, click the employee name pill and search for "John" ,  the mock employee appears at the top of the list.
+To reset the preview to the default "John Doe" mock at any time, click the employee name pill and search for "John", the mock employee appears at the top of the list.

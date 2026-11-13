@@ -19,15 +19,15 @@ La suspension désactive temporairement le badge d'un employé sans mettre fin �
 3. Cliquez sur le menu **⋯** sur sa ligne
 4. Sélectionnez **Désactiver**
 
-Le statut de l'employé passe immédiatement à **Suspendu** (badge orange). Toute tentative de scan à un dispositif de contrôle d'accès retourne **Refusé ,  Suspendu**.
+Le statut de l'employé passe immédiatement à **Suspendu** (badge orange). Toute tentative de scan à un dispositif de contrôle d'accès retourne **Refusé, Suspendu**.
 
-> Le profil public de l'employé et la page d'affichage du badge restent accessibles via le QR code ,  seul l'accès physique est bloqué.
+> Le profil public de l'employé et la page d'affichage du badge restent accessibles via le QR code, seul l'accès physique est bloqué.
 
 ---
 
 ## Réactiver un employé suspendu
 
-1. Trouvez l'employé suspendu dans la liste (onglet **Actif** ,  les employés suspendus y restent visibles)
+1. Trouvez l'employé suspendu dans la liste (onglet **Actif**, les employés suspendus y restent visibles)
 2. Cliquez sur le menu **⋯** sur sa ligne
 3. Sélectionnez **Réactiver**
 

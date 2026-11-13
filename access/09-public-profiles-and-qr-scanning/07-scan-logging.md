@@ -11,7 +11,7 @@ Essal Access maintains two separate scan log systems: **Audit Logs** for public 
 
 **Location:** Admin panel → **Audit Logs** (route: `/audit-logs`)
 
-Audit logs record every interaction with a public badge profile ,  whether the scan succeeded, was blocked, or triggered a security alert.
+Audit logs record every interaction with a public badge profile, whether the scan succeeded, was blocked, or triggered a security alert.
 
 ### What Is Recorded
 
@@ -33,7 +33,7 @@ Each audit log entry captures:
 
 | Status | Meaning |
 |---|---|
-| `success` | Profile viewed ,  badge and employee are active |
+| `success` | Profile viewed, badge and employee are active |
 | `denied` | Scan blocked (invalid badge, profile disabled, etc.) |
 | `badge_lost` | Badge was reported lost or stolen |
 | `badge_suspended` | Badge or employee is suspended |
@@ -52,7 +52,7 @@ The IP address is resolved asynchronously in the background after the scan event
 
 **Location:** Admin panel → **Scan Logs** (route: `/scan-logs`)
 
-Scan logs record every scan performed by a registered check-in device ,  such as a tablet running the Essal Check-In App.
+Scan logs record every scan performed by a registered check-in device, such as a tablet running the Essal Check-In App.
 
 ### What Is Recorded
 

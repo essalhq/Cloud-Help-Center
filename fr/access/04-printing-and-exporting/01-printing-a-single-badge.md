@@ -17,7 +17,7 @@ Cet article explique comment imprimer ou télécharger le badge d'un seul employ
 ### Depuis la Liste des Employés
 
 1. Naviguez vers **Employés** dans la barre latérale.
-2. Survolez n'importe quelle ligne d'employé ,  une rangée d'icônes d'action apparaît sur la droite.
+2. Survolez n'importe quelle ligne d'employé, une rangée d'icônes d'action apparaît sur la droite.
 3. Cliquez sur l'icône **Imprimer** (icône d'imprimante).
 4. Vous êtes dirigé vers le Centre d'Impression avec cet employé déjà sélectionné et l'aperçu du badge chargé.
 
@@ -30,17 +30,17 @@ Cet article explique comment imprimer ou télécharger le badge d'un seul employ
 
 ---
 
-## Le Centre d'Impression ,  Onglet Individuel
+## Le Centre d'Impression, Onglet Individuel
 
 L'onglet Individuel comporte deux panneaux :
 
-**Panneau de gauche ,  Sélecteur d'employé**
+**Panneau de gauche, Sélecteur d'employé**
 
 - Boîte de recherche pour filtrer les employés par nom.
 - Liste déroulante de tous les employés avec leur avatar, nom et département.
 - Cliquez sur n'importe quel employé pour charger son badge dans l'aperçu.
 
-**Panneau de droite ,  Aperçu du badge**
+**Panneau de droite, Aperçu du badge**
 
 - Rendu en direct du badge utilisant le modèle de badge actuel et les données de l'employé sélectionné.
 - Affiche le recto par défaut ; si le verso du badge est activé, les deux côtés sont affichés.
@@ -57,7 +57,7 @@ Conseils pour de meilleurs résultats :
 - Réglez les **marges** sur **Aucune** ou **Minimum** dans la boîte de dialogue d'impression.
 - Désactivez les **En-têtes et pieds de page** dans les paramètres du navigateur.
 - Sélectionnez **Graphiques d'arrière-plan** (ou équivalent) pour que les couleurs du badge s'impriment correctement.
-- Utilisez une **Échelle : 100%** ,  le badge est pré-dimensionné pour des proportions précises.
+- Utilisez une **Échelle : 100%**, le badge est pré-dimensionné pour des proportions précises.
 
 La boîte de dialogue d'impression du navigateur utilise la mise en page du badge exactement telle qu'elle a été configurée dans le Badge Designer. Aucun redimensionnement supplémentaire n'est nécessaire.
 
@@ -80,6 +80,6 @@ Le PNG téléchargé :
 
 ## Après l'Impression
 
-La mise en page du badge imprimé utilise votre modèle actif du Badge Designer. Si vous avez récemment modifié le design du badge, l'aperçu avant impression reflète immédiatement ces changements ,  pas besoin de rafraîchir.
+La mise en page du badge imprimé utilise votre modèle actif du Badge Designer. Si vous avez récemment modifié le design du badge, l'aperçu avant impression reflète immédiatement ces changements, pas besoin de rafraîchir.
 
 Pour imprimer les badges de tous les employés en une seule fois, consultez Impression Groupée de Plusieurs Badges.

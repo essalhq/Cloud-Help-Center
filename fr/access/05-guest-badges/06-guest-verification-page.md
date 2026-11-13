@@ -16,11 +16,11 @@ La page de vérification est conçue pour donner à un agent de sécurité toute
 
 ### Éléments Visuels (de haut en bas)
 
-1. **Logo de l'organisation** ,  extrait de vos paramètres whitelabel.
-2. **Barre de statut** ,  une barre de couleur sur toute la largeur en haut indiquant le statut du badge au premier coup d'œil.
-3. **Pastille de statut** ,  libellé texte ("Badge Valide", "Badge Expiré" ou "Badge Révoqué").
-4. **Nom du visiteur** ,  affiché comme titre principal.
-5. **Entreprise du visiteur** ,  affiché sous le nom (si renseigné), avec une icône de bâtiment.
+1. **Logo de l'organisation**, extrait de vos paramètres whitelabel.
+2. **Barre de statut**, une barre de couleur sur toute la largeur en haut indiquant le statut du badge au premier coup d'œil.
+3. **Pastille de statut**, libellé texte ("Badge Valide", "Badge Expiré" ou "Badge Révoqué").
+4. **Nom du visiteur**, affiché comme titre principal.
+5. **Entreprise du visiteur**, affiché sous le nom (si renseigné), avec une icône de bâtiment.
 
 ### Lignes de Détails
 
@@ -71,7 +71,7 @@ Si l'URL du badge contient un jeton qui n'existe pas (ex: le badge a été suppr
 - Une icône X entourée d'un cercle avec un message d'erreur.
 - Aucune information sur le badge n'est affichée.
 
-Les agents doivent traiter ce résultat comme un badge **Révoqué** ,  l'accès ne doit pas être accordé.
+Les agents doivent traiter ce résultat comme un badge **Révoqué**, l'accès ne doit pas être accordé.
 
 ---
 
@@ -80,7 +80,7 @@ Les agents doivent traiter ce résultat comme un badge **Révoqué** ,  l'accès
 La page de vérification utilise l'identité visuelle de votre organisation définie dans les **Paramètres Whitelabel** :
 
 - Logo de l'entreprise.
-- Nom de l'entreprise (également utilisé dans le titre SEO de la page : _"\{Statut\} ,  \{Nom Visiteur\} ,  \{Nom Entreprise\}"_).
+- Nom de l'entreprise (également utilisé dans le titre SEO de la page : _"\{Statut\}, \{Nom Visiteur\}, \{Nom Entreprise\}"_).
 
 Cela garantit que la page paraît professionnelle et digne de confiance pour les visiteurs et le personnel de sécurité.
 

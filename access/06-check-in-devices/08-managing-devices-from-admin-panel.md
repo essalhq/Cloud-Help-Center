@@ -6,7 +6,7 @@ title: "Managing Devices from the Admin Panel"
 {/* category: Check-In Devices */}
 {/* audience: Admins, Managers */}
 
-The **Check-In Devices** section in the admin panel gives you full visibility into all registered devices across your facility ,  and the ability to deactivate or permanently remove them.
+The **Check-In Devices** section in the admin panel gives you full visibility into all registered devices across your facility, and the ability to deactivate or permanently remove them.
 
 ![Check-In Devices list showing registered devices with status indicators and action menus](../screenshots/checkin-devices-list.png)
 
@@ -33,7 +33,7 @@ Click the **three-dot menu (⋮)** on any device row to access:
 
 ### Deactivate
 
-Temporarily prevents the device from scanning. The device receives the deactivation signal on its next heartbeat (within 2 minutes) and is immediately locked with a **Revoked** lock screen. The operator cannot bypass this ,  they must sign out.
+Temporarily prevents the device from scanning. The device receives the deactivation signal on its next heartbeat (within 2 minutes) and is immediately locked with a **Revoked** lock screen. The operator cannot bypass this, they must sign out.
 
 - The device record is retained; no data is lost
 - You can **reactivate** the device at any time
@@ -45,7 +45,7 @@ Re-enables a previously deactivated device. The device will resume scanning norm
 
 ### Revoke
 
-Permanently removes the device from your organization. The device is deleted from the system ,  it cannot be reactivated and must be re-registered from scratch if needed again.
+Permanently removes the device from your organization. The device is deleted from the system, it cannot be reactivated and must be re-registered from scratch if needed again.
 
 - A confirmation dialog is shown before deletion
 - All scan logs from the device remain in your **Scan Logs** history
@@ -57,8 +57,8 @@ Permanently removes the device from your organization. The device is deleted fro
 
 The top of the Check-In Devices page contains the registration tools:
 
-- **Generate Code** ,  creates a 6-character one-time code (valid for 15 minutes) that the operator enters during device setup
-- **Send Setup Email** ,  emails a no-expiry registration code and setup instructions to an operator
+- **Generate Code**, creates a 6-character one-time code (valid for 15 minutes) that the operator enters during device setup
+- **Send Setup Email**, emails a no-expiry registration code and setup instructions to an operator
 
 See the Registering a New Device article for a step-by-step walkthrough.
 
@@ -68,8 +68,8 @@ See the Registering a New Device article for a step-by-step walkthrough.
 
 The `last seen` timestamp tells you whether each device is actively sending heartbeats:
 
-- **"Just now"** or **"Xm ago" (< 5 min)** ,  device is online and operational
-- **"Xm ago" (5+ min)** ,  device may have lost connectivity; check the location
-- **"Xh ago"** or a date ,  device has been offline for an extended period; investigate
+- **"Just now"** or **"Xm ago" (< 5 min)**, device is online and operational
+- **"Xm ago" (5+ min)**, device may have lost connectivity; check the location
+- **"Xh ago"** or a date, device has been offline for an extended period; investigate
 
 A device that has been offline for its configured maximum duration (default 24 hours) will show a lock screen to its operator and require a reconnection before scans can resume.

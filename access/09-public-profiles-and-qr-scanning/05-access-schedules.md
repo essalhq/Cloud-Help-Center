@@ -8,7 +8,7 @@ An access schedule restricts when an employee's badge can be scanned. Scans outs
 
 ## When to Use Access Schedules
 
-Use access schedules for employees whose badge should only validate during working hours ,  for example, contractors with fixed shifts, or temporary staff with limited site access.
+Use access schedules for employees whose badge should only validate during working hours, for example, contractors with fixed shifts, or temporary staff with limited site access.
 
 ## Configuring a Schedule
 
@@ -16,7 +16,7 @@ Use access schedules for employees whose badge should only validate during worki
 2. Find the **Access Schedule** section and enable it.
 3. Set the **Start time** and **End time** (24-hour format).
 4. Choose which days the badge is valid:
-   - **Allowed days** ,  select individual days of the week (Sunday through Saturday)
+   - **Allowed days**, select individual days of the week (Sunday through Saturday)
    - Or use **Weekdays only** to allow Monday through Friday automatically
 5. Save the employee record.
 

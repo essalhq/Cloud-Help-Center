@@ -1,12 +1,12 @@
 ---
-title: "Actions en masse — Sélectionner et gérer plusieurs employés"
+title: "Actions en masse, Sélectionner et gérer plusieurs employés"
 ---
 
 {/* keywords: actions en masse, sélection multiple, approbation en masse, désactivation en masse, export CSV, suppression en masse, cases à cocher */}
 {/* category: Employee Management */}
 {/* audience: Admins, Managers */}
 
-Les actions en masse vous permettent d'effectuer des opérations sur plusieurs employés à la fois ,  approuver des nouveaux arrivants, exporter un groupe filtré, désactiver des équipes entières, et plus encore.
+Les actions en masse vous permettent d'effectuer des opérations sur plusieurs employés à la fois, approuver des nouveaux arrivants, exporter un groupe filtré, désactiver des équipes entières, et plus encore.
 
 ![Liste des employés avec sélection en masse et menu Actions en masse](../screenshots/employees-list-bulk.png)
 
@@ -15,7 +15,7 @@ Les actions en masse vous permettent d'effectuer des opérations sur plusieurs e
 ## Sélectionner des employés
 
 - **Sélectionner individuellement** : Cochez la case à gauche de n'importe quelle ligne
-- **Sélectionner tous sur la page** : Cochez la case dans l'en-tête du tableau ,  sélectionne tous les employés de la page actuelle
+- **Sélectionner tous sur la page** : Cochez la case dans l'en-tête du tableau, sélectionne tous les employés de la page actuelle
 - **Désélectionner tout** : Appuyez sur **Échap** ou décochez la case de l'en-tête
 
 Lorsqu'un ou plusieurs employés sont sélectionnés, le menu déroulant **Actions en masse** apparaît en haut de la liste.

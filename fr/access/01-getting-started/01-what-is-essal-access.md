@@ -6,7 +6,7 @@ title: "Qu'est-ce qu'Essal Access ?"
 {/* category: Getting Started */}
 {/* audience: Admins, Managers */}
 
-Essal Access est une plateforme cloud de gestion de badges d'employés et de contrôle d'accès physique. Elle permet aux organisations de concevoir, d'émettre et de gérer des badges d'identification intelligents pour leurs effectifs ,  et de contrôler qui accède à quoi, grâce à la lecture de QR codes, la reconnaissance faciale ou la vérification manuelle.
+Essal Access est une plateforme cloud de gestion de badges d'employés et de contrôle d'accès physique. Elle permet aux organisations de concevoir, d'émettre et de gérer des badges d'identification intelligents pour leurs effectifs, et de contrôler qui accède à quoi, grâce à la lecture de QR codes, la reconnaissance faciale ou la vérification manuelle.
 
 ![Tableau de bord Essal Access affichant les badges actifs, les alertes de sécurité et l'activité récente](../screenshots/dashboard.png)
 
@@ -29,7 +29,7 @@ Essal Access relie quatre éléments essentiels :
 
 ### Locataires (Tenants)
 
-Votre organisation est un **locataire** ,  un environnement isolé avec ses propres employés, son design de badge, ses paramètres et ses données. Toutes les données sont limitées à votre locataire et ne sont jamais partagées avec d'autres.
+Votre organisation est un **locataire**, un environnement isolé avec ses propres employés, son design de badge, ses paramètres et ses données. Toutes les données sont limitées à votre locataire et ne sont jamais partagées avec d'autres.
 
 ### Employés
 
@@ -45,7 +45,7 @@ Un **badge** est la représentation visuelle de l'identité d'un employé. Votre
 - **Affichés numériquement** dans l'Employee Portal sur n'importe quel appareil
 - **Scannés via QR code** aux points de pointage ou par n'importe quel smartphone
 
-Chaque badge contient un QR code unique qui renvoie au **profil de vérification public** de l'employé ,  une page sécurisée affichant ses informations d'identité, ses autorisations d'accès et son statut actuel en temps réel.
+Chaque badge contient un QR code unique qui renvoie au **profil de vérification public** de l'employé, une page sécurisée affichant ses informations d'identité, ses autorisations d'accès et son statut actuel en temps réel.
 
 ### Dispositifs de pointage
 
@@ -58,7 +58,7 @@ Un **dispositif de pointage** est toute tablette, borne ou ordinateur exécutant
 
 ### Utilisateurs système
 
-Les **utilisateurs système** sont les comptes administrateurs pouvant se connecter au panneau d'administration. Il existe quatre rôles ,  **Admin**, **Manager**, **Sécurité** et **Employé** ,  chacun avec des niveaux d'accès différents. Un utilisateur système peut être lié à un enregistrement d'employé, lui conférant à la fois les droits d'un utilisateur du portail et d'un administrateur.
+Les **utilisateurs système** sont les comptes administrateurs pouvant se connecter au panneau d'administration. Il existe quatre rôles, **Admin**, **Manager**, **Sécurité** et **Employé**, chacun avec des niveaux d'accès différents. Un utilisateur système peut être lié à un enregistrement d'employé, lui conférant à la fois les droits d'un utilisateur du portail et d'un administrateur.
 
 ### Portail employé
 
@@ -78,7 +78,7 @@ Les employés se connectent avec leurs propres identifiants et ne voient que leu
 Un flux de travail typique avec Essal Access ressemble à ceci :
 
 1. L'administrateur conçoit le modèle de badge dans le Badge Designer
-2. L'administrateur ajoute des employés ,  manuellement ou via import CSV
+2. L'administrateur ajoute des employés, manuellement ou via import CSV
 3. Les badges sont automatiquement générés pour chaque employé
 4. Les badges physiques sont imprimés **ou** les employés utilisent des badges numériques dans l'Employee Portal
 5. Les dispositifs de pointage sont enregistrés aux points d'entrée via un code d'appairage
@@ -89,6 +89,6 @@ Un flux de travail typique avec Essal Access ressemble à ceci :
 
 ## Ce qu'Essal Access n'est pas
 
-- **Pas un système de suivi du temps** ,  Essal Access enregistre les scans de badges mais ne calcule pas les heures de présence ni ne s'intègre à la paie
-- **Pas un système RH** ,  les enregistrements d'employés stockent des données de contact et d'accès, pas des contrats, des évaluations de performance ou des congés
-- **Pas un contrôleur de serrures physiques** ,  Essal Access gère la couche d'identité numérique et de vérification ; l'intégration du matériel de contrôle des portes est gérée séparément
+- **Pas un système de suivi du temps**, Essal Access enregistre les scans de badges mais ne calcule pas les heures de présence ni ne s'intègre à la paie
+- **Pas un système RH**, les enregistrements d'employés stockent des données de contact et d'accès, pas des contrats, des évaluations de performance ou des congés
+- **Pas un contrôleur de serrures physiques**, Essal Access gère la couche d'identité numérique et de vérification ; l'intégration du matériel de contrôle des portes est gérée séparément

@@ -6,9 +6,9 @@ title: "Enregistrements de santé et sécurité"
 {/* category: Employee Management */}
 {/* audience: Admins, Managers */}
 
-L'onglet Santé & Sécurité de chaque fiche employé vous permet de stocker des informations médicales et de sécurité sensibles ,  contacts d'urgence, allergies, certifications de sécurité, et plus encore.
+L'onglet Santé & Sécurité de chaque fiche employé vous permet de stocker des informations médicales et de sécurité sensibles, contacts d'urgence, allergies, certifications de sécurité, et plus encore.
 
-![Fiche employé ,  onglet Santé & Sécurité](../screenshots/employee-modal-health.png)
+![Fiche employé, onglet Santé & Sécurité](../screenshots/employee-modal-health.png)
 
 ---
 
@@ -53,7 +53,7 @@ Champ de texte libre pour toute note sur les besoins en accessibilité, adaptati
 
 Ajoutez les types d'EPI requis pour ce poste sous forme de tags. Exemple : `Casque`, `Gilet haute visibilité`, `Bottes de sécurité`.
 
-> Seuls les Admins et Managers peuvent modifier les exigences EPI ,  les employés ne peuvent pas auto-modifier cette section.
+> Seuls les Admins et Managers peuvent modifier les exigences EPI, les employés ne peuvent pas auto-modifier cette section.
 
 ---
 
@@ -70,8 +70,8 @@ Ajoutez les certifications individuelles avec les détails suivants :
 
 Le système surveille automatiquement les dates d'expiration :
 
-- **Expire bientôt** (ambre) ,  Expiration dans les 30 prochains jours
-- **Expiré** (rouge) ,  La date d'expiration est dépassée
+- **Expire bientôt** (ambre), Expiration dans les 30 prochains jours
+- **Expiré** (rouge), La date d'expiration est dépassée
 
 Ces alertes sont visibles dans la fiche employé et peuvent apparaître dans les tableaux de bord selon votre configuration.
 
@@ -84,6 +84,6 @@ Ces alertes sont visibles dans la fiche employé et peuvent apparaître dans les
 | Admin | Accès complet en lecture et écriture |
 | Manager | Accès en lecture et écriture pour les employés de son équipe |
 | Sécurité | Dépend de la configuration de l'Éditeur de page publique |
-| Employé | Peut auto-modifier : contact d'urgence, allergies, conditions médicales, handicaps/notes ,  PAS les EPI ni les certifications |
+| Employé | Peut auto-modifier : contact d'urgence, allergies, conditions médicales, handicaps/notes, PAS les EPI ni les certifications |
 
 > Les données de santé et sécurité ne sont jamais affichées sur le badge ou la page de profil public, quelle que soit la configuration.

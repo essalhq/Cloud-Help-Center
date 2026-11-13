@@ -6,7 +6,7 @@ title: "Vérifier un Ticket via QR"
 {/* category: Tickets */}
 {/* audience: Admins, Security, Operators */}
 
-Chaque ticket possède un lien de vérification public unique qui peut être ouvert ou scanné par n'importe qui ,  aucune connexion n'est requise. C'est ainsi que le personnel de sécurité ou les organisateurs d'événements confirment qu'un ticket est authentique et actuellement valide.
+Chaque ticket possède un lien de vérification public unique qui peut être ouvert ou scanné par n'importe qui, aucune connexion n'est requise. C'est ainsi que le personnel de sécurité ou les organisateurs d'événements confirment qu'un ticket est authentique et actuellement valide.
 
 ---
 
@@ -31,7 +31,7 @@ Pour obtenir le lien d'un ticket spécifique :
 3. Cliquez sur le **menu à trois points (⋮)**.
 4. Sélectionnez **Copier le Lien**.
 
-Le lien est copié dans votre presse-papiers. Vous pouvez le partager par e-mail, SMS, WhatsApp ou l'imprimer sur un document. Le lien contient également un code QR intégré lorsque la page est ouverte ,  cela permet au destinataire de présenter la page sur son téléphone pour le scan.
+Le lien est copié dans votre presse-papiers. Vous pouvez le partager par e-mail, SMS, WhatsApp ou l'imprimer sur un document. Le lien contient également un code QR intégré lorsque la page est ouverte, cela permet au destinataire de présenter la page sur son téléphone pour le scan.
 
 ---
 
@@ -60,10 +60,10 @@ La bande de couleur en haut de la carte du ticket et le badge de statut changent
 
 | Statut         | Couleur                 | Signification                                        |
 | -------------- | ----------------------- | ---------------------------------------------------- |
-| Valide (Actif) | Couleur de votre marque | Le ticket est valide ,  autoriser l'entrée ou l'accès |
+| Valide (Actif) | Couleur de votre marque | Le ticket est valide, autoriser l'entrée ou l'accès |
 | Expire Bientôt | Ambre                   | Valide actuellement mais expire dans les 3 jours     |
-| Expiré | Ambre | La fenêtre de validité est passée ,  ne pas accepter |
-| Révoqué | Rouge | Annulé manuellement ,  ne pas accepter |
+| Expiré | Ambre | La fenêtre de validité est passée, ne pas accepter |
+| Révoqué | Rouge | Annulé manuellement, ne pas accepter |
 
 ---
 
@@ -83,7 +83,7 @@ Un **sélecteur de langue** au bas de la page permet un changement manuel.
 
 ## Ticket Non Trouvé
 
-Si le lien est ouvert avec un ID de ticket invalide ou supprimé, la page affiche une carte d'erreur avec une icône rouge et un message "Ticket non trouvé". Cela peut se produire si le ticket a été **supprimé** du panneau d'administration. Les tickets révoqués ont toujours une page visible ,  ils affichent le statut Révoqué plutôt qu'une erreur de type "non trouvé".
+Si le lien est ouvert avec un ID de ticket invalide ou supprimé, la page affiche une carte d'erreur avec une icône rouge et un message "Ticket non trouvé". Cela peut se produire si le ticket a été **supprimé** du panneau d'administration. Les tickets révoqués ont toujours une page visible, ils affichent le statut Révoqué plutôt qu'une erreur de type "non trouvé".
 
 ---
 

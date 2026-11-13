@@ -8,7 +8,7 @@ title: "Configurer le verso du badge"
 
 Le verso du badge est facultatif. Lorsqu'il est activé, il s'imprime dans le Centre d'impression aux côtés du recto et peut afficher des informations supplémentaires telles que des coordonnées, un logo, un QR code ou un texte légal.
 
-![Badge Designer ,  verso](../screenshots/badge-designer-back.png)
+![Badge Designer, verso](../screenshots/badge-designer-back.png)
 
 ---
 
@@ -29,7 +29,7 @@ Une fois le verso activé, vous pouvez activer ou désactiver les éléments sui
 | **Lignes d'accentuation** | Bandes décoratines dans la couleur d'accentuation |
 | **Logo** | Le logo de l'entreprise (même image que sur le recto) |
 | **Slogan** | Courte phrase de marque ou description de l'organisation |
-| **QR Code** | Même QR que le recto ,  renvoie vers la page de profil public de l'employé |
+| **QR Code** | Même QR que le recto, renvoie vers la page de profil public de l'employé |
 | **Informations de contact** | Champ de texte libre (ex. : adresse, téléphone du siège, e-mail RH) |
 
 ---
@@ -53,7 +53,7 @@ Par défaut, le fond du verso utilise votre **Couleur d'accentuation**. Vous pou
 Téléchargez une image de fond distincte pour le verso.
 
 - Taille maximale : 2 Mo
-- Distincte de l'image de fond du recto ,  chaque face a sa propre image
+- Distincte de l'image de fond du recto, chaque face a sa propre image
 
 ---
 

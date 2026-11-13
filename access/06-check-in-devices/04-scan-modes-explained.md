@@ -17,7 +17,7 @@ The check-in app supports three scan modes. You can switch between them using th
 **How it works:**
 - The camera opens with a full-screen viewfinder
 - A transparent scanning window sits in the center of the screen with corner brackets and an animated scan line
-- Point the camera at any Essal badge QR code and the scan happens automatically ,  no button press needed
+- Point the camera at any Essal badge QR code and the scan happens automatically, no button press needed
 - Results appear immediately on screen
 
 **What it can scan:**
@@ -39,7 +39,7 @@ The check-in app supports three scan modes. You can switch between them using th
 **How it works:**
 1. Camera opens for capture
 2. Operator takes the photo
-3. Preview screen appears ,  optionally enter a reference ID (badge or employee ID) and a note
+3. Preview screen appears, optionally enter a reference ID (badge or employee ID) and a note
 4. Tap **Confirm** to record the entry
 
 **What it records:**

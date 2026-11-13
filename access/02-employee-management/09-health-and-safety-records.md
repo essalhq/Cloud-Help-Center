@@ -90,8 +90,8 @@ Each certification record contains:
 
 **Expiry alerts** are shown automatically:
 
-- **Expiring Soon** (amber) ,  expiry is within 30 days
-- **Expired** (red) ,  expiry date has passed
+- **Expiring Soon** (amber), expiry is within 30 days
+- **Expired** (red), expiry date has passed
 
 To remove a certification, click the trash icon on its card.
 
@@ -101,9 +101,9 @@ To remove a certification, click the trash icon on its card.
 
 Health & Safety data is visible to:
 
-- **Admins** ,  full access to view and edit all fields
-- **Managers** ,  full access to view and edit all fields
-- **Security users** ,  can view the employee record but Health & Safety data visibility depends on your Public Page Editor configuration
+- **Admins**, full access to view and edit all fields
+- **Managers**, full access to view and edit all fields
+- **Security users**, can view the employee record but Health & Safety data visibility depends on your Public Page Editor configuration
 
 The **PPE Requirements** and **Safety Certifications** sections are intended for admin use and are not shown to employees through the self-edit portal.
 
@@ -113,10 +113,10 @@ The **PPE Requirements** and **Safety Certifications** sections are intended for
 
 Employees can update some of their own health and safety information through the Employee Portal if your organization has configured this:
 
-- **Emergency Contact** ,  employees can update their own emergency contact
-- **Allergies** ,  employees can add/remove their own allergies
-- **Medical Conditions** ,  employees can add/remove their own medical conditions
-- **Disabilities / Notes** ,  employees can update their own notes
+- **Emergency Contact**, employees can update their own emergency contact
+- **Allergies**, employees can add/remove their own allergies
+- **Medical Conditions**, employees can add/remove their own medical conditions
+- **Disabilities / Notes**, employees can update their own notes
 
 **PPE Requirements** and **Safety Certifications** are admin-only and cannot be edited by employees.
 
@@ -128,8 +128,8 @@ For how to enable employee self-edit, see the Security Policy settings in Settin
 
 Some health & safety data can be displayed on the employee's public QR code profile page. This is configured in the **Public Page Editor**:
 
-- **Emergency contact** ,  can be shown (useful for on-site first responders)
-- **Allergies** ,  can be shown
-- **Medical conditions** ,  can be shown
+- **Emergency contact**, can be shown (useful for on-site first responders)
+- **Allergies**, can be shown
+- **Medical conditions**, can be shown
 
 If sensitive health data should remain private, ensure these sections are disabled in the Public Page Editor.

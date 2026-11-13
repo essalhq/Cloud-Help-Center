@@ -6,7 +6,7 @@ title: "First-Time Setup Checklist"
 {/* category: Getting Started */}
 {/* audience: Admins */}
 
-This checklist walks you through every step needed to go from a new Essal Access tenant to a fully operational system ,  with employees, badges, and a working check-in device. Each step links to the full guide for that topic.
+This checklist walks you through every step needed to go from a new Essal Access tenant to a fully operational system, with employees, badges, and a working check-in device. Each step links to the full guide for that topic.
 
 ---
 
@@ -16,7 +16,7 @@ You will need:
 
 - Your Essal Access admin credentials (you should have received these by email)
 - Your company logo file (PNG or SVG recommended, transparent background)
-- A list of employees to add ,  either typed manually or as a CSV export from your HR system
+- A list of employees to add, either typed manually or as a CSV export from your HR system
 - At least one device to use as a check-in point (Android tablet, iPad, or desktop browser)
 
 Total estimated time: **30–60 minutes** for a small team (under 50 employees).
@@ -35,11 +35,11 @@ Total estimated time: **30–60 minutes** for a small team (under 50 employees).
 | 6    | Register a check-in device         | Check-In Devices        |
 | 7    | Do a test scan                     | Check-in app            |
 
-Work through the steps in order ,  later steps build on earlier ones (for example, departments must exist before you can assign employees to them).
+Work through the steps in order, later steps build on earlier ones (for example, departments must exist before you can assign employees to them).
 
 ---
 
-## Step 1 ,  Set Your Company Name and Branding
+## Step 1, Set Your Company Name and Branding
 
 Navigate to **Settings** (sidebar → Settings) and open the **General** tab.
 
@@ -47,9 +47,9 @@ Navigate to **Settings** (sidebar → Settings) and open the **General** tab.
 
 Set the following:
 
-- **Company name** ,  appears on badges, public profiles, and the employee portal
-- **Company logo** ,  upload your logo file, or use **BrandFetch** to auto-import it by entering your company website URL
-- **Primary brand color** ,  used as the default accent color in badge templates and the check-in app
+- **Company name**, appears on badges, public profiles, and the employee portal
+- **Company logo**, upload your logo file, or use **BrandFetch** to auto-import it by entering your company website URL
+- **Primary brand color**, used as the default accent color in badge templates and the check-in app
 
 Save your changes before moving on.
 
@@ -59,7 +59,7 @@ Save your changes before moving on.
 
 ---
 
-## Step 2 ,  Create Your Departments
+## Step 2, Create Your Departments
 
 Departments group employees for filtering, reporting, and badge display. You need at least one department before adding employees.
 
@@ -68,8 +68,8 @@ Navigate to **Settings → Departments** (or **Employees → Departments** depen
 For each department, set:
 
 - **Name** (e.g. _Engineering_, _Operations_, _Front Desk_)
-- **Color code** ,  used to visually distinguish departments in the employee list and on badges
-- **Parent department** (optional) ,  for nested structures like _Engineering > Backend_
+- **Color code**, used to visually distinguish departments in the employee list and on badges
+- **Parent department** (optional), for nested structures like _Engineering > Backend_
 
 You can always add more departments later. A good starting point is your org chart's top-level divisions.
 
@@ -77,7 +77,7 @@ You can always add more departments later. A good starting point is your org cha
 
 ---
 
-## Step 3 ,  Create Your Access Zones
+## Step 3, Create Your Access Zones
 
 Access zones define the physical areas of your facility (or logical groups) that employees are authorized to enter. When a badge is scanned, the result depends on whether the employee is assigned to the device's zone.
 
@@ -86,17 +86,17 @@ Navigate to **Settings → Access Zones** and create at least one zone for each 
 For each zone, set:
 
 - **Zone name** (e.g. _Main Entrance_, _Server Room_, _Warehouse_)
-- **Description** (optional) ,  for internal reference
+- **Description** (optional), for internal reference
 
 If your facility has only one entry point, a single zone named _Main Entrance_ is enough to get started.
 
-**Full guide**: Access Zones ,  Restricting Where an Employee Can Go
+**Full guide**: Access Zones, Restricting Where an Employee Can Go
 
 ---
 
-## Step 4 ,  Design Your Badge Template
+## Step 4, Design Your Badge Template
 
-Essal Access uses one shared badge template ,  one design applied automatically to every employee record using their individual data.
+Essal Access uses one shared badge template, one design applied automatically to every employee record using their individual data.
 
 Navigate to **Badge Designer** (sidebar → Badge Designer).
 
@@ -104,11 +104,11 @@ Navigate to **Badge Designer** (sidebar → Badge Designer).
 
 For a first-time setup, work through these in order:
 
-1. **Choose a layout** ,  select from the 7 built-in layouts (Modern, Corporate, Tech, Conference, Minimal, Gradient, Executive)
-2. **Set orientation** ,  Portrait (CR80 vertical card) or Landscape
-3. **Configure colors and fonts** ,  primary color, accent color, font family
-4. **Front of badge** ,  choose what to display: employee photo, QR code, name, role, department, Employee ID, Badge ID, company logo, etc.
-5. **Badge back** (optional) ,  enable the back side for contact info, legal text, or additional branding
+1. **Choose a layout**, select from the 7 built-in layouts (Modern, Corporate, Tech, Conference, Minimal, Gradient, Executive)
+2. **Set orientation**, Portrait (CR80 vertical card) or Landscape
+3. **Configure colors and fonts**, primary color, accent color, font family
+4. **Front of badge**, choose what to display: employee photo, QR code, name, role, department, Employee ID, Badge ID, company logo, etc.
+5. **Badge back** (optional), enable the back side for contact info, legal text, or additional branding
 
 Use the **Preview** selector to see the badge rendered with real employee data before saving.
 
@@ -118,7 +118,7 @@ Your badge design is saved automatically. All employee badges update immediately
 
 ---
 
-## Step 5 ,  Add Your Employees
+## Step 5, Add Your Employees
 
 With departments and your badge template ready, you can now add your workforce.
 
@@ -146,7 +146,7 @@ Best for teams of 10 or more. A well-prepared spreadsheet takes under 5 minutes 
 
 ---
 
-## Step 6 ,  Register a Check-In Device
+## Step 6, Register a Check-In Device
 
 A check-in device is any tablet, kiosk, or browser running the Essal Access check-in app. You pair it to your tenant using a one-time registration code.
 
@@ -156,13 +156,13 @@ A check-in device is any tablet, kiosk, or browser running the Essal Access chec
 
 2. Click **Add Device** (or **Generate Code**)
 3. Give the device a name (e.g. _Main Entrance Tablet_) and assign it to the access zone you created in Step 3
-4. A **6-character registration code** is displayed ,  it is valid for 15 minutes
+4. A **6-character registration code** is displayed, it is valid for 15 minutes
 
 ### On the device
 
 1. Open [https://scan.access.essal.cloud](https://scan.access.essal.cloud) in the browser on the device
 2. Enter the 6-character code when prompted
-3. The device is registered and ready to use ,  it will appear as **Active** in your Check-In Devices list
+3. The device is registered and ready to use, it will appear as **Active** in your Check-In Devices list
 
 > **Tip**: Use the **Send via Email** option if the device is at a remote location and you cannot enter the code directly.
 
@@ -170,12 +170,12 @@ A check-in device is any tablet, kiosk, or browser running the Essal Access chec
 
 ---
 
-## Step 7 ,  Do a Test Scan
+## Step 7, Do a Test Scan
 
 With at least one employee added and a device registered, run a quick end-to-end test before going live.
 
 1. Open the employee portal link provided by your administrator and sign in with your employee account.
-2. The portal shows the employee's badge with a QR code ,  tap the QR code to display it full-screen
+2. The portal shows the employee's badge with a QR code, tap the QR code to display it full-screen
 3. On the check-in device, point the camera at the QR code
 4. The device should show a **green Granted screen** with the employee's name, photo, and department
 

@@ -6,7 +6,7 @@ title: "Statut et Validité des Tickets"
 {/* category: Tickets */}
 {/* audience: Admins, Managers, Security */}
 
-Chaque ticket possède un statut qui reflète sa validité actuelle. Les statuts sont calculés automatiquement à partir de la date d'expiration du ticket et de son état enregistré ,  aucune mise à jour manuelle n'est requise.
+Chaque ticket possède un statut qui reflète sa validité actuelle. Les statuts sont calculés automatiquement à partir de la date d'expiration du ticket et de son état enregistré, aucune mise à jour manuelle n'est requise.
 
 ![Liste des tickets montrant des tickets avec différents statuts incluant actif, expire bientôt et expiré](../screenshots/tickets-list.png)
 
@@ -18,7 +18,7 @@ Chaque ticket possède un statut qui reflète sa validité actuelle. Les statuts
 | ------------------ | ------- | --------------------------------------------------------------- |
 | **Actif**          | Vert    | Le ticket est valide et se trouve dans sa fenêtre de validité   |
 | **Expire Bientôt** | Ambre   | Le ticket est valide mais expire dans les 3 prochains jours     |
-| **Expiré** | Gris | La fenêtre de validité est passée ,  le ticket n'est plus valide |
+| **Expiré** | Gris | La fenêtre de validité est passée, le ticket n'est plus valide |
 | **Révoqué**        | Rouge   | Le ticket a été annulé manuellement par un administrateur       |
 
 ---
@@ -44,13 +44,13 @@ La page de vérification affiche un badge de statut ambre pour les tickets expir
 
 ## Expiré
 
-Un ticket est **Expiré** lorsque sa date "valide jusqu'au" est passée. L'expiration est automatique ,  aucune action de l'administrateur n'est requise.
+Un ticket est **Expiré** lorsque sa date "valide jusqu'au" est passée. L'expiration est automatique, aucune action de l'administrateur n'est requise.
 
 - La ligne du ticket dans la liste d'administration est affichée avec une opacité réduite et un fond gris.
 - La page de vérification affiche un badge **Expiré** en ambre.
 - Les tickets expirés ne peuvent pas être révoqués (l'action Révoquer est masquée pour eux).
 
-> **Note :** L'expiration est calculée côté client au moment de l'affichage. L'enregistrement du ticket conserve le statut `status: "active"` dans la base de données ,  seul le statut affiché change en "Expiré".
+> **Note :** L'expiration est calculée côté client au moment de l'affichage. L'enregistrement du ticket conserve le statut `status: "active"` dans la base de données, seul le statut affiché change en "Expiré".
 
 ---
 
@@ -82,7 +82,7 @@ Sur la page de vérification, le champ de validité affiche le texte **"N'expire
 
 Dans la liste des **Tickets**, utilisez la barre d'onglets de statut au-dessus du tableau pour filtrer :
 
-- **Tous** ,  affiche tous les tickets quel que soit leur statut.
-- **Actifs** ,  uniquement les tickets actuellement valides (inclut "Expire bientôt").
-- **Expire bientôt** ,  tickets qui expirent dans les 3 jours.
-- **Expirés** ,  tickets dont la fenêtre de validité est passée.
+- **Tous**, affiche tous les tickets quel que soit leur statut.
+- **Actifs**, uniquement les tickets actuellement valides (inclut "Expire bientôt").
+- **Expire bientôt**, tickets qui expirent dans les 3 jours.
+- **Expirés**, tickets dont la fenêtre de validité est passée.

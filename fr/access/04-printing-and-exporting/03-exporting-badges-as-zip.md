@@ -6,7 +6,7 @@ title: "Exportation de Badges en PNG/ZIP"
 {/* category: Printing & Exporting Badges */}
 {/* audience: Admins, Managers */}
 
-Essal Access peut exporter les images de badges sous forme de fichiers PNG haute résolution ,  soit individuellement, soit sous forme d'archive ZIP pour plusieurs employés. Cela est utile pour envoyer des badges à une imprimerie, les importer dans un autre système ou les archiver.
+Essal Access peut exporter les images de badges sous forme de fichiers PNG haute résolution, soit individuellement, soit sous forme d'archive ZIP pour plusieurs employés. Cela est utile pour envoyer des badges à une imprimerie, les importer dans un autre système ou les archiver.
 
 ![Onglet d'impression groupée montrant le bouton Télécharger le ZIP avec la sélection d'employés](../screenshots/print-bulk.png)
 
@@ -17,7 +17,7 @@ Essal Access peut exporter les images de badges sous forme de fichiers PNG haute
 1. Allez dans l'onglet **Centre d'Impression → Individuel**.
 2. Sélectionnez un employé dans le panneau de gauche.
 3. Cliquez sur **Télécharger en PNG**.
-4. Le badge est généré en haute résolution ,  un indicateur de chargement s'affiche pendant le traitement (2 à 5 secondes).
+4. Le badge est généré en haute résolution, un indicateur de chargement s'affiche pendant le traitement (2 à 5 secondes).
 5. Le fichier se télécharge automatiquement dans le dossier de téléchargement par défaut de votre navigateur.
 
 **Détails du fichier :**
@@ -33,7 +33,7 @@ Essal Access peut exporter les images de badges sous forme de fichiers PNG haute
 1. Allez dans l'onglet **Centre d'Impression → Groupé**.
 2. Sélectionnez les employés que vous souhaitez exporter (utilisez la recherche et le filtre par département pour affiner la liste).
 3. Cliquez sur **Télécharger ZIP (N)** où N est le nombre d'employés sélectionnés.
-4. Une boîte de dialogue de **Vérification de Sécurité** apparaît ,  cliquez sur **Autoriser**.
+4. Une boîte de dialogue de **Vérification de Sécurité** apparaît, cliquez sur **Autoriser**.
 5. Un indicateur de progression apparaît sur le bouton : `{fait}/{total}` au fur et à mesure que chaque badge est généré.
 6. Une fois terminé, un seul fichier ZIP est téléchargé automatiquement.
 
@@ -74,7 +74,7 @@ Si une photo ne parvient pas à se charger pendant l'exportation, le badge sera 
 
 | Scénario                                                        | Méthode recommandée                                                        |
 | --------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Envoi de badges à une imprimerie commerciale | Exportation ZIP groupée ,  envoyez le ZIP avec les fichiers PNG individuels |
+| Envoi de badges à une imprimerie commerciale | Exportation ZIP groupée, envoyez le ZIP avec les fichiers PNG individuels |
 | Création de cartes d'identité numériques pour un import système | Exportation ZIP groupée                                                    |
 | Impression interne sur une imprimante de bureau                 | Impression via navigateur (Individuelle ou Groupée)                        |
 | Archivage du badge d'un employé spécifique                      | Téléchargement PNG individuel                                              |

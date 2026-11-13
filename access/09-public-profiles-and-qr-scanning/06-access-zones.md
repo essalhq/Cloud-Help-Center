@@ -3,16 +3,16 @@ title: "Access Zones"
 ---
 {/* category: Public Profiles & QR Scanning */}
 
-Access zones are named areas within your facility ,  such as "Lobby", "Server Room", or "Floor 2". You can assign zones to employees and guest badges to indicate which areas they are authorized to enter. Zones are visible on the public profile when the **Access Level** field is enabled.
+Access zones are named areas within your facility, such as "Lobby", "Server Room", or "Floor 2". You can assign zones to employees and guest badges to indicate which areas they are authorized to enter. Zones are visible on the public profile when the **Access Level** field is enabled.
 
 ## Creating Access Zones
 
 Zones are defined at the organization level in **Settings → Access Zones** (or **Settings → Departments & Zones**, depending on your version).
 
 For each zone, you can set:
-- **Name** ,  the label used throughout the system (e.g. "Restricted Lab")
-- **Description** ,  optional notes about the zone
-- **Color** ,  a color used when displaying the zone as a badge/chip in the UI
+- **Name**, the label used throughout the system (e.g. "Restricted Lab")
+- **Description**, optional notes about the zone
+- **Color**, a color used when displaying the zone as a badge/chip in the UI
 
 ## Assigning Zones to an Employee
 
@@ -33,4 +33,4 @@ When creating a guest badge, you can specify which access zones the guest is per
 
 ## How Zones Relate to Check-In Devices
 
-Check-in devices are associated with a physical **location** (configured when the device is registered). Zones and device locations are separate concepts ,  zones define what an employee is authorized for, while device location records where a scan happened. Combined, they provide a full picture in the scan logs of who was scanned where and whether they were authorized.
+Check-in devices are associated with a physical **location** (configured when the device is registered). Zones and device locations are separate concepts, zones define what an employee is authorized for, while device location records where a scan happened. Combined, they provide a full picture in the scan logs of who was scanned where and whether they were authorized.

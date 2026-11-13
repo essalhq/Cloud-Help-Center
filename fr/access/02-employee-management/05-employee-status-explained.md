@@ -26,11 +26,11 @@ Le badge de l'employé est valide. Les scans aux dispositifs de contrôle d'acc�
 
 ### Suspendu
 
-Le badge de l'employé est temporairement désactivé. Les scans sur tous les dispositifs affichent un résultat **Refusé ,  Suspendu**. Le QR code du badge fonctionne toujours pour afficher le profil public, mais l'accès est bloqué.
+Le badge de l'employé est temporairement désactivé. Les scans sur tous les dispositifs affichent un résultat **Refusé, Suspendu**. Le QR code du badge fonctionne toujours pour afficher le profil public, mais l'accès est bloqué.
 
 - Affiché sous forme d'un badge **orange** dans la liste des employés
 - L'employé apparaît dans l'onglet **Actif** (toujours visible aux côtés des employés actifs)
-- La suspension est réversible ,  utilisez **Réactiver** depuis le menu d'actions de la ligne pour restaurer le statut Actif
+- La suspension est réversible, utilisez **Réactiver** depuis le menu d'actions de la ligne pour restaurer le statut Actif
 
 Utilisez la suspension lorsqu'un employé est en congé prolongé, pendant une enquête, ou lorsque l'accès doit être temporairement suspendu sans mettre fin définitivement à l'emploi.
 
@@ -38,13 +38,13 @@ Utilisez la suspension lorsqu'un employé est en congé prolongé, pendant une e
 
 ### Perdu / Volé
 
-Le badge de l'employé a été signalé comme perdu ou volé. Les scans affichent un résultat **Refusé ,  Badge Perdu**. Le badge est immédiatement désactivé lorsque ce statut est défini.
+Le badge de l'employé a été signalé comme perdu ou volé. Les scans affichent un résultat **Refusé, Badge Perdu**. Le badge est immédiatement désactivé lorsque ce statut est défini.
 
 - Affiché sous forme d'un badge **rouge** dans la liste des employés
 - L'employé apparaît dans l'onglet **Actif**
 - Pour rétablir l'accès, utilisez **Réémettre le badge** (génère un nouvel ID de badge) ou **Retrouvé** (réactive sans nouvel ID) depuis le menu d'actions de la ligne
 
-> **Perdu vs Suspendu** : Suspendu signifie que l'accès est suspendu à la discrétion d'un administrateur. Perdu signifie que la carte badge physique est compromise ,  un nouveau badge doit être émis.
+> **Perdu vs Suspendu** : Suspendu signifie que l'accès est suspendu à la discrétion d'un administrateur. Perdu signifie que la carte badge physique est compromise, un nouveau badge doit être émis.
 
 ---
 
@@ -53,7 +53,7 @@ Le badge de l'employé a été signalé comme perdu ou volé. Les scans affichen
 La fiche employé a été créée mais pas encore approuvée. Le badge n'est pas actif et les scans seront refusés.
 
 - Affiché sous forme d'un badge **bleu** dans la liste des employés
-- L'employé apparaît **uniquement** dans l'onglet **Requiert une approbation** ,  il est masqué de l'onglet Actif principal
+- L'employé apparaît **uniquement** dans l'onglet **Requiert une approbation**, il est masqué de l'onglet Actif principal
 - Pour activer, utilisez **Approuver** depuis le menu d'actions de la ligne, ou utilisez **Approbation en masse** pour approuver plusieurs employés simultanément
 
 Le statut En attente n'est utilisé que lorsque le bouton **Requiert une approbation pour émettre le badge** est activé dans l'onglet Sécurité de l'employé, ou lorsqu'une nouvelle fiche est créée avec ce paramètre activé.
@@ -64,11 +64,11 @@ Le statut En attente n'est utilisé que lorsque le bouton **Requiert une approba
 
 ### Résilié
 
-L'employé a quitté l'organisation. Son badge est définitivement révoqué. Les scans affichent un résultat **Refusé ,  Résilié**.
+L'employé a quitté l'organisation. Son badge est définitivement révoqué. Les scans affichent un résultat **Refusé, Résilié**.
 
 - Affiché sous forme d'un badge **gris** dans la liste des employés
-- L'employé apparaît **uniquement** dans l'onglet **Archivé** ,  il est retiré de la vue Active
-- La résiliation peut être annulée ,  utilisez **Réactiver** depuis le menu de la ligne dans l'onglet Archivé si nécessaire
+- L'employé apparaît **uniquement** dans l'onglet **Archivé**, il est retiré de la vue Active
+- La résiliation peut être annulée, utilisez **Réactiver** depuis le menu de la ligne dans l'onglet Archivé si nécessaire
 - Les données de l'employé sont conservées après la résiliation à des fins d'audit et de reporting
 
 Utilisez la résiliation (pas la suppression) lorsqu'un employé part afin que son historique de badge, ses journaux de scan et ses données soient préservés.
@@ -89,7 +89,7 @@ Utilisez la résiliation (pas la suppression) lorsqu'un employé part afin que s
 
 ## Comment modifier le statut d'un employé
 
-Les changements de statut s'effectuent depuis les **actions de ligne de la liste d'employés** ,  pas depuis l'intérieur de la fiche.
+Les changements de statut s'effectuent depuis les **actions de ligne de la liste d'employés**, pas depuis l'intérieur de la fiche.
 
 1. Trouvez l'employé dans la liste
 2. Cliquez sur le menu d'actions **⋯** sur sa ligne
@@ -105,7 +105,7 @@ Les changements de statut s'effectuent depuis les **actions de ligne de la liste
 | **Réémettre le badge** | Perdu → Actif (nouvel ID de badge) |
 | **Retrouvé** | Perdu → Actif (même ID de badge) |
 
-> Le statut peut également être modifié depuis le menu déroulant **Statut** dans l'onglet **Sécurité** de la fiche employé ,  mais uniquement entre Actif, Suspendu et Perdu. Les statuts En attente et Résilié ne peuvent être définis que via les actions de la liste.
+> Le statut peut également être modifié depuis le menu déroulant **Statut** dans l'onglet **Sécurité** de la fiche employé, mais uniquement entre Actif, Suspendu et Perdu. Les statuts En attente et Résilié ne peuvent être définis que via les actions de la liste.
 
 ---
 
@@ -119,4 +119,4 @@ Lorsque le statut change, l'effet sur le Portail Employé est immédiat :
 | Suspendu | L'employé peut se connecter mais le badge apparaît comme suspendu |
 | Perdu | L'employé peut se connecter mais le badge apparaît comme perdu |
 | En attente | L'employé peut se connecter mais aucun badge actif n'est affiché |
-| Résilié | Le compte employé est également généralement suspendu ,  contactez votre administrateur |
+| Résilié | Le compte employé est également généralement suspendu, contactez votre administrateur |

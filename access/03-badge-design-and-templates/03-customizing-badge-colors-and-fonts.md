@@ -33,7 +33,7 @@ To change it:
 
 The badge preview updates in real time as you pick.
 
-> **Tip**: Import your exact brand colors automatically using BrandFetch ,  see Using BrandFetch to Import Your Logo and Brand Colors.
+> **Tip**: Import your exact brand colors automatically using BrandFetch, see Using BrandFetch to Import Your Logo and Brand Colors.
 
 ---
 
@@ -42,7 +42,7 @@ The badge preview updates in real time as you pick.
 **Accent Color** is the secondary color used for:
 
 - Footer stripe (Corporate layout)
-- Second gradient stop (Gradient layout ,  the badge flows from primary to accent to primary)
+- Second gradient stop (Gradient layout, the badge flows from primary to accent to primary)
 - Badge back default background color (when no custom background is set)
 
 The accent color is typically a complementary or contrasting color to the primary. A common pairing is a deep blue primary with a purple accent.
@@ -54,7 +54,7 @@ The accent color is typically a complementary or contrasting color to the primar
 The **Logo** section lets you upload your company logo image.
 
 1. Click **Upload Logo** (or the logo preview area)
-2. Select any image file ,  PNG, SVG, JPG, or WEBP
+2. Select any image file, PNG, SVG, JPG, or WEBP
 3. The logo appears on the badge in the logo position defined by the layout
 
 When no logo is uploaded, the badge displays your **Company Name** as text in the primary color, optionally with a colored dot circle.
@@ -85,11 +85,11 @@ Three font families are available for badge text:
 
 | Option                   | Style                       | Best for                                               |
 | ------------------------ | --------------------------- | ------------------------------------------------------ |
-| **Sans-serif** (default) | Clean, modern | Most organizations ,  excellent legibility |
+| **Sans-serif** (default) | Clean, modern | Most organizations, excellent legibility |
 | **Serif**                | Traditional, editorial      | Law firms, financial institutions, conservative brands |
 | **Monospace**            | Technical, coding aesthetic | Tech companies, developer teams                        |
 
-The font applies to all text on the badge ,  name, role, department, and all field labels.
+The font applies to all text on the badge, name, role, department, and all field labels.
 
 > **Note**: The font selector is applied automatically by the AI Theme Generator when available. The default font for new templates is Sans-serif.
 

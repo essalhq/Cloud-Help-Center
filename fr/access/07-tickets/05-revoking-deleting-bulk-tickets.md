@@ -20,7 +20,7 @@ Cliquez sur le **menu à trois points (⋮)** sur n'importe quelle ligne de tick
 | ------------------ | ------------------------- | -------------------------------------------------------------------------------------------------- |
 | **Voir le Ticket** | Toujours                  | Ouvre un panneau de détails affichant tous les champs du ticket et son statut actuel               |
 | **Copier le Lien** | Toujours                  | Copie l'URL de vérification publique (`https://idpage.link/ticket/{id}`) dans votre presse-papiers |
-| **Révoquer** | Tickets actifs uniquement | Marque le ticket comme étant utilisé ,  l'invalide immédiatement. Confirmation requise. |
+| **Révoquer** | Tickets actifs uniquement | Marque le ticket comme étant utilisé, l'invalide immédiatement. Confirmation requise. |
 | **Supprimer**      | Toujours                  | Supprime définitivement l'enregistrement du ticket du profil de l'employé. Confirmation requise.   |
 
 ---
@@ -73,7 +73,7 @@ Pour supprimer plusieurs tickets à la fois :
 
 Tous les tickets sélectionnés sont définitivement supprimés.
 
-> **Note :** La **Révocation** groupée n'est pas disponible ,  pour révoquer plusieurs tickets, vous devez le faire individuellement. Si vous devez invalider un grand nombre de tickets à la fois, l'utilisation de la Suppression peut être plus pratique.
+> **Note :** La **Révocation** groupée n'est pas disponible, pour révoquer plusieurs tickets, vous devez le faire individuellement. Si vous devez invalider un grand nombre de tickets à la fois, l'utilisation de la Suppression peut être plus pratique.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Managing Guest Badges — Revoking & Deleting"
+title: "Managing Guest Badges, Revoking & Deleting"
 ---
 
 {/* keywords: revoke guest badge, delete guest badge, bulk revoke, bulk delete, manage visitor passes, cancel badge */}
@@ -64,15 +64,15 @@ Both actions show a confirmation dialog before proceeding. Press **Escape** to c
 
 Use the status filter (above the table) to narrow the list to a specific status:
 
-- **All** ,  shows every badge
-- **Active** ,  currently valid badges
-- **Expired** ,  past their validity window
-- **Revoked** ,  manually cancelled badges
+- **All**, shows every badge
+- **Active**, currently valid badges
+- **Expired**, past their validity window
+- **Revoked**, manually cancelled badges
 
 Filtering is useful when you want to:
-- **Bulk-delete old expired badges** ,  filter by Expired, select all, delete
-- **Find and revoke a specific active badge** ,  filter by Active, search by name
-- **Audit who was on site** ,  filter by date range or status
+- **Bulk-delete old expired badges**, filter by Expired, select all, delete
+- **Find and revoke a specific active badge**, filter by Active, search by name
+- **Audit who was on site**, filter by date range or status
 
 ---
 

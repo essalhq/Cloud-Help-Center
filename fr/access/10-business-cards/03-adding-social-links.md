@@ -12,7 +12,7 @@ Les liens sur une carte de visite peuvent être ajoutés par les administrateurs
 
 ## Liens Ajoutés par les Administrateurs
 
-Les administrateurs peuvent ajouter des liens qui apparaîtront sur la carte de visite de chaque employé via l'**Éditeur de Carte de Visite** (Paramètres → Éditeur de Carte de Visite). Il s'agit de liens à l'échelle de l'organisation ,  les mêmes liens apparaissent quel que soit l'employé dont on consulte la carte.
+Les administrateurs peuvent ajouter des liens qui apparaîtront sur la carte de visite de chaque employé via l'**Éditeur de Carte de Visite** (Paramètres → Éditeur de Carte de Visite). Il s'agit de liens à l'échelle de l'organisation, les mêmes liens apparaissent quel que soit l'employé dont on consulte la carte.
 
 Consultez Configurer le Modèle de Carte de Visite pour les instructions.
 

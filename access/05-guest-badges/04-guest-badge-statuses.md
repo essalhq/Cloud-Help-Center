@@ -16,9 +16,9 @@ Each guest badge has a status that determines whether access should be granted. 
 
 | Status | Color | Meaning |
 |---|---|---|
-| **Active** | Green | Badge is valid ,  the guest may be granted access |
-| **Expired** | Amber | Validity window has passed ,  should not grant access |
-| **Revoked** | Red | Manually cancelled by an admin ,  do not grant access |
+| **Active** | Green | Badge is valid, the guest may be granted access |
+| **Expired** | Amber | Validity window has passed, should not grant access |
+| **Revoked** | Red | Manually cancelled by an admin, do not grant access |
 
 ---
 
@@ -36,7 +36,7 @@ An active badge shows a **green** status pill in the admin list and a **blue** t
 
 ## Expired
 
-A badge is **Expired** when its `valid until` time has passed. Expiry is **automatic** ,  no manual action is needed.
+A badge is **Expired** when its `valid until` time has passed. Expiry is **automatic**, no manual action is needed.
 
 - The expiry is calculated client-side on each page load
 - The underlying database record remains as `active`; only the displayed status changes

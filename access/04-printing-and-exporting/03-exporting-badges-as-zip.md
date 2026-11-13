@@ -6,7 +6,7 @@ title: "Exporting Badges as PNG/ZIP"
 {/* category: Printing & Exporting Badges */}
 {/* audience: Admins, Managers */}
 
-Essal Access can export badge images as high-resolution PNG files ,  either one at a time or as a ZIP archive for multiple employees. This is useful when sending badges to a print shop, importing into another system, or archiving.
+Essal Access can export badge images as high-resolution PNG files, either one at a time or as a ZIP archive for multiple employees. This is useful when sending badges to a print shop, importing into another system, or archiving.
 
 ![Bulk print tab showing Download ZIP button with employee selection](../screenshots/print-bulk.png)
 
@@ -17,7 +17,7 @@ Essal Access can export badge images as high-resolution PNG files ,  either one 
 1. Go to **Print Center → Individual** tab
 2. Select an employee from the left panel
 3. Click **Download PNG**
-4. The badge renders at high resolution ,  a spinner shows while processing (2–5 seconds)
+4. The badge renders at high resolution, a spinner shows while processing (2–5 seconds)
 5. The file downloads automatically to your browser's default download folder
 
 **File details:**
@@ -33,7 +33,7 @@ Essal Access can export badge images as high-resolution PNG files ,  either one 
 1. Go to **Print Center → Bulk** tab
 2. Select the employees you want to export (use search and department filter to narrow the list)
 3. Click **Download ZIP (N)** where N is the number of selected employees
-4. A **Security Verification** dialog appears ,  click **Authorize**
+4. A **Security Verification** dialog appears, click **Authorize**
 5. A progress indicator appears on the button: `{done}/{total}` as each badge is rendered
 6. When complete, a single ZIP file downloads automatically
 
@@ -74,7 +74,7 @@ If a photo fails to load during export, the badge will render without the photo 
 
 | Scenario                                      | Recommended method                                       |
 | --------------------------------------------- | -------------------------------------------------------- |
-| Sending badges to a commercial print shop | Bulk ZIP export ,  send the ZIP with individual PNG files |
+| Sending badges to a commercial print shop | Bulk ZIP export, send the ZIP with individual PNG files |
 | Creating digital ID cards for a system import | Bulk ZIP export                                          |
 | Printing in-house on a printer                | Browser print (Individual or Bulk Print)                 |
 | Archiving a specific employee's badge         | Individual PNG download                                  |

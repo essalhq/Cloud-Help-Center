@@ -21,13 +21,13 @@ Accédez aux **Utilisateurs système** dans la barre latérale (ou **Paramètres
 
    | Champ           | Remarques                                                                                             |
    | --------------- | ----------------------------------------------------------------------------------------------------- |
-   | **Nom complet** | Le nom de la personne ,  affiché dans le panneau d'administration et dans les notifications par e-mail |
-   | **E-mail** | Son adresse e-mail professionnelle ,  c'est son nom d'utilisateur de connexion |
+   | **Nom complet** | Le nom de la personne, affiché dans le panneau d'administration et dans les notifications par e-mail |
+   | **E-mail** | Son adresse e-mail professionnelle, c'est son nom d'utilisateur de connexion |
    | **Rôle**        | Choisir Admin, Manager ou Sécurité (voir ci-dessous)                                                  |
 
 3. Cliquez sur **Créer un utilisateur**
 
-Essal Access crée le compte et envoie un **e-mail avec un lien magique** à l'adresse que vous avez saisie. Le nouvel utilisateur clique sur le lien pour se connecter pour la première fois ,  aucune configuration de mot de passe n'est requise sauf s'il choisit d'en définir un plus tard.
+Essal Access crée le compte et envoie un **e-mail avec un lien magique** à l'adresse que vous avez saisie. Le nouvel utilisateur clique sur le lien pour se connecter pour la première fois, aucune configuration de mot de passe n'est requise sauf s'il choisit d'en définir un plus tard.
 
 > **Le rôle Employé n'est pas disponible ici** : Le rôle Employé est attribué automatiquement lorsque vous liez un utilisateur système à un enregistrement d'employé. Vous ne pouvez pas le sélectionner dans le formulaire Ajouter un utilisateur. Pour donner à un employé l'accès au portail, créez d'abord son enregistrement d'employé et liez-y un compte de portail.
 
@@ -37,9 +37,9 @@ Essal Access crée le compte et envoie un **e-mail avec un lien magique** à l'a
 
 | Rôle         | À qui l'attribuer                                                                                                     |
 | ------------ | --------------------------------------------------------------------------------------------------------------------- |
-| **Admin** | Responsables informatiques, propriétaires du système ,  accès complet incluant la gestion des utilisateurs |
-| **Manager** | Personnel RH, gestionnaires de bureau ,  peut gérer les employés et les badges, ne peut pas gérer les utilisateurs |
-| **Sécurité** | Agents de sécurité, réceptionnistes ,  peut voir les employés, les badges visiteurs et les journaux de scan uniquement |
+| **Admin** | Responsables informatiques, propriétaires du système, accès complet incluant la gestion des utilisateurs |
+| **Manager** | Personnel RH, gestionnaires de bureau, peut gérer les employés et les badges, ne peut pas gérer les utilisateurs |
+| **Sécurité** | Agents de sécurité, réceptionnistes, peut voir les employés, les badges visiteurs et les journaux de scan uniquement |
 
 Pour une description détaillée de ce que chaque rôle peut et ne peut pas faire, consultez Comprendre les rôles utilisateurs.
 
@@ -55,7 +55,7 @@ Lorsque vous créez un compte utilisateur, Essal Access envoie automatiquement u
 - Un lien de connexion (lien magique) pour accéder au panneau d'administration
 - L'URL du panneau d'administration (`access.essal.cloud`)
 
-Les liens magiques expirent après **10 minutes**. Si le nouvel utilisateur manque le lien, il peut en demander un nouveau depuis la page de connexion en saisissant son e-mail et en cliquant sur **Continuer** ,  un nouveau lien magique sera envoyé immédiatement.
+Les liens magiques expirent après **10 minutes**. Si le nouvel utilisateur manque le lien, il peut en demander un nouveau depuis la page de connexion en saisissant son e-mail et en cliquant sur **Continuer**, un nouveau lien magique sera envoyé immédiatement.
 
 ---
 
@@ -97,7 +97,7 @@ La suppression retire définitivement le compte et l'accès de connexion de l'ut
 2. Cliquez sur l'**icône de corbeille** dans sa ligne
 3. Confirmez la suppression dans l'invite
 
-Utilisez la suppression pour les anciens employés ou les comptes créés par erreur. Pour une suppression temporaire, préférez la **suspension** ,  elle conserve l'historique du compte intact et est réversible.
+Utilisez la suppression pour les anciens employés ou les comptes créés par erreur. Pour une suppression temporaire, préférez la **suspension**, elle conserve l'historique du compte intact et est réversible.
 
 > Seuls les admins peuvent supprimer des utilisateurs. Vous ne pouvez pas supprimer votre propre compte.
 

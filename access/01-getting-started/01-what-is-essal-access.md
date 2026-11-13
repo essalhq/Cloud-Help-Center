@@ -6,7 +6,7 @@ title: "What is Essal Access?"
 {/* category: Getting Started */}
 {/* audience: Admins, Managers */}
 
-Essal Access is a cloud-based employee badge management and physical access control platform. It lets organizations design, issue, and manage smart ID badges for their workforce ,  and control who gets in where, using QR code scanning, facial recognition, or manual verification.
+Essal Access is a cloud-based employee badge management and physical access control platform. It lets organizations design, issue, and manage smart ID badges for their workforce, and control who gets in where, using QR code scanning, facial recognition, or manual verification.
 
 ![Essal Access dashboard showing active badges, security alerts, and recent activity](../screenshots/dashboard.png)
 
@@ -29,7 +29,7 @@ At its core, Essal Access connects four things:
 
 ### Tenants
 
-Your organization is a **tenant** ,  an isolated environment with its own employees, badge design, settings, and data. All data is scoped to your tenant and never shared with others.
+Your organization is a **tenant**, an isolated environment with its own employees, badge design, settings, and data. All data is scoped to your tenant and never shared with others.
 
 ### Employees
 
@@ -45,7 +45,7 @@ A **badge** is the visual representation of an employee's identity. Your organiz
 - **Displayed digitally** in the Employee Portal on any device
 - **Scanned via QR code** at check-in points or by any smartphone
 
-Each badge contains a unique QR code that links to the employee's **public verification profile** ,  a secure page that shows their identity information, access clearance, and current status in real time.
+Each badge contains a unique QR code that links to the employee's **public verification profile**, a secure page that shows their identity information, access clearance, and current status in real time.
 
 ### Check-in devices
 
@@ -58,7 +58,7 @@ A **check-in device** is any tablet, kiosk, or computer running the Essal Access
 
 ### System users
 
-**System users** are the admin accounts that can log into the admin panel. There are four roles ,  **Admin**, **Manager**, **Security**, and **Employee** ,  each with different levels of access. A system user can be linked to an employee record, making them both a portal user and an admin user.
+**System users** are the admin accounts that can log into the admin panel. There are four roles, **Admin**, **Manager**, **Security**, and **Employee**, each with different levels of access. A system user can be linked to an employee record, making them both a portal user and an admin user.
 
 ### Employee portal
 
@@ -78,7 +78,7 @@ Employees log in with their own credentials and only see their own data.
 A typical Essal Access workflow looks like this:
 
 1. Admin designs the badge template in the Badge Designer
-2. Admin adds employees ,  manually or via CSV import
+2. Admin adds employees, manually or via CSV import
 3. Badges are automatically generated for each employee
 4. Physical badges are printed **or** employees use digital badges in the Employee Portal
 5. Check-in devices are registered at entry points using a pairing code
@@ -89,6 +89,6 @@ A typical Essal Access workflow looks like this:
 
 ## What Essal Access is not
 
-- **Not a time-tracking system** ,  Essal Access logs badge scans but does not calculate attendance hours or integrate with payroll
-- **Not an HR system** ,  employee records store contact and access data, not contracts, performance reviews, or leave
-- **Not a physical lock controller** ,  Essal Access manages the digital identity and verification layer; physical door hardware integration is handled separately
+- **Not a time-tracking system**, Essal Access logs badge scans but does not calculate attendance hours or integrate with payroll
+- **Not an HR system**, employee records store contact and access data, not contracts, performance reviews, or leave
+- **Not a physical lock controller**, Essal Access manages the digital identity and verification layer; physical door hardware integration is handled separately

@@ -18,15 +18,15 @@ Navigate to [https://access.essal.cloud](https://access.essal.cloud) in any mode
 
 Essal Access supports two ways to sign in:
 
-### Option 1 ,  Magic link (default)
+### Option 1, Magic link (default)
 
 1. Enter your email address and click **Continue**
 2. Check your inbox for a sign-in email from Essal Access
-3. Click the link in the email ,  you are signed in immediately, no password needed
+3. Click the link in the email, you are signed in immediately, no password needed
 
 Magic links expire after 10 minutes. If the link has expired, return to the login page and request a new one.
 
-### Option 2 ,  Password login
+### Option 2, Password login
 
 1. Enter your email address
 2. Click **Login with password (Admins)** below the email field to reveal the password input
@@ -38,7 +38,7 @@ Magic links expire after 10 minutes. If the link has expired, return to the logi
 
 ## The Admin Dashboard
 
-After signing in, you land on the **Dashboard** ,  the home screen of the admin panel.
+After signing in, you land on the **Dashboard**, the home screen of the admin panel.
 
 ![Admin dashboard showing metric cards, quick actions, and recent activity feed](../screenshots/dashboard.png)
 
@@ -51,7 +51,7 @@ The bar across the top of the page shows:
 | Element                           | What it tells you                                               |
 | --------------------------------- | --------------------------------------------------------------- |
 | **Welcome greeting**              | Your name and the current date                                  |
-| **All Systems Operational** badge | Links to `status.essal.cloud` ,  green means no active incidents |
+| **All Systems Operational** badge | Links to `status.essal.cloud`, green means no active incidents |
 
 ### 2. Metric cards
 

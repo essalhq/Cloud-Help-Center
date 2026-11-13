@@ -14,7 +14,7 @@ Essal Access maintient deux systèmes de journaux de scan distincts : les **Jour
 
 **Emplacement :** Panneau d'administration → **Audit Logs** (route : `/audit-logs`)
 
-Les journaux d'audit enregistrent chaque interaction avec un profil de badge public ,  que le scan ait réussi, ait été bloqué ou ait déclenché une alerte de sécurité.
+Les journaux d'audit enregistrent chaque interaction avec un profil de badge public, que le scan ait réussi, ait été bloqué ou ait déclenché une alerte de sécurité.
 
 ### Ce qui est enregistré
 
@@ -36,7 +36,7 @@ Chaque entrée du journal d'audit capture :
 
 | Statut             | Signification                                                             |
 | ------------------ | ------------------------------------------------------------------------- |
-| `success` | Profil consulté ,  le badge et l'employé sont actifs |
+| `success` | Profil consulté, le badge et l'employé sont actifs |
 | `denied`           | Scan bloqué (badge invalide, profil désactivé, etc.)                      |
 | `badge_lost`       | Le badge a été signalé comme perdu ou volé                                |
 | `badge_suspended`  | Le badge ou l'employé est suspendu                                        |
@@ -55,7 +55,7 @@ L'adresse IP est résolue de manière asynchrone en arrière-plan après la cré
 
 **Emplacement :** Panneau d'administration → **Scan Logs** (route : `/scan-logs`)
 
-Les journaux de scan enregistrent chaque scan effectué par un terminal d'enregistrement enregistré ,  tel qu'une tablette exécutant l'application d'enregistrement Essal.
+Les journaux de scan enregistrent chaque scan effectué par un terminal d'enregistrement enregistré, tel qu'une tablette exécutant l'application d'enregistrement Essal.
 
 ### Ce qui est enregistré
 

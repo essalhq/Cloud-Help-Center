@@ -6,7 +6,7 @@ title: "Impression Groupée de Plusieurs Badges"
 {/* category: Printing & Exporting Badges */}
 {/* audience: Admins, Managers */}
 
-L'onglet Groupé du Centre d'Impression vous permet de sélectionner n'importe quel nombre d'employés et d'imprimer tous leurs badges en une seule tâche d'impression ,  disposés en grille sur une ou plusieurs pages.
+L'onglet Groupé du Centre d'Impression vous permet de sélectionner n'importe quel nombre d'employés et d'imprimer tous leurs badges en une seule tâche d'impression, disposés en grille sur une ou plusieurs pages.
 
 ![Onglet d'impression groupée montrant la liste de contrôle des employés, les filtres de recherche et l'aperçu de la grille de badges](../screenshots/print-bulk.png)
 
@@ -24,8 +24,8 @@ L'onglet Groupé du Centre d'Impression vous permet de sélectionner n'importe q
 
 **Recherchez et filtrez** la liste des employés à l'aide de :
 
-- **Boîte de recherche** ,  filtrez par prénom ou nom.
-- **Menu déroulant Département** ,  affichez uniquement les employés d'un département spécifique.
+- **Boîte de recherche**, filtrez par prénom ou nom.
+- **Menu déroulant Département**, affichez uniquement les employés d'un département spécifique.
 
 **Commandes de sélection :**
 
@@ -54,7 +54,7 @@ Pour ajuster le nombre de badges par page, allez dans l'onglet **Configuration**
 
 Cliquez sur **Téléchargement Sécurisé** (ou **Tout Imprimer**) pour imprimer les planches de badges :
 
-1. Une boîte de dialogue de **Vérification de Sécurité** apparaît ,  cliquez sur **Autoriser** pour confirmer.
+1. Une boîte de dialogue de **Vérification de Sécurité** apparaît, cliquez sur **Autoriser** pour confirmer.
 2. La boîte de dialogue d'impression de votre navigateur s'ouvre.
 3. Tous les badges des employés sélectionnés sont rendus sur autant de pages que nécessaire.
 
@@ -63,7 +63,7 @@ Cliquez sur **Téléchargement Sécurisé** (ou **Tout Imprimer**) pour imprimer
 - Réglez les marges sur **Aucune** dans la boîte de dialogue du navigateur.
 - Désactivez les en-têtes et pieds de page.
 - Activez les **Graphiques d'arrière-plan** pour que les couleurs du badge s'affichent correctement.
-- Utilisez une **échelle de 100%** ,  la mise en page est pré-calculée.
+- Utilisez une **échelle de 100%**, la mise en page est pré-calculée.
 
 ---
 
@@ -77,7 +77,7 @@ Les badges sont imprimés dans l'ordre où ils apparaissent dans la liste des em
 
 Si vous avez besoin de fichiers PNG individuels plutôt que d'imprimer directement, cliquez sur **Télécharger le ZIP** à la place :
 
-- Une confirmation de sécurité apparaît ,  cliquez sur **Autoriser**.
+- Une confirmation de sécurité apparaît, cliquez sur **Autoriser**.
 - Un indicateur de progression affiche `{fait}/{total}` pendant le rendu des badges.
 - Un seul fichier `.zip` est téléchargé une fois terminé, contenant un PNG par employé sélectionné.
 

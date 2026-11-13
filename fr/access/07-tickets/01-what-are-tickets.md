@@ -6,7 +6,7 @@ title: "Que Sont les Tickets ?"
 {/* category: Tickets */}
 {/* audience: Admins, Managers */}
 
-Les tickets sont des laissez-passer numériques que vous pouvez émettre pour les membres de votre personnel pour un usage et une période spécifiques ,  comme un laissez-passer d'accès, un bon de repas, un permis de stationnement ou une entrée à un événement. Chaque ticket génère un lien unique avec un code QR qui peut être scanné pour vérifier sa validité.
+Les tickets sont des laissez-passer numériques que vous pouvez émettre pour les membres de votre personnel pour un usage et une période spécifiques, comme un laissez-passer d'accès, un bon de repas, un permis de stationnement ou une entrée à un événement. Chaque ticket génère un lien unique avec un code QR qui peut être scanné pour vérifier sa validité.
 
 ![Liste des tickets montrant les tickets émis avec le type, l'employé, le statut et les informations d'expiration](../screenshots/tickets-list.png)
 
@@ -20,7 +20,7 @@ Lorsque vous émettez un ticket pour un employé, Essal Access :
 2. Génère un lien de vérification public : `https://idpage.link/ticket/{ticketId}`.
 3. L'employé (ou un opérateur) peut ouvrir ou partager ce lien pour afficher le statut actuel du ticket.
 
-Aucun compte ou application supplémentaire n'est nécessaire pour le destinataire ,  le lien ouvre une page publique affichant les détails du ticket.
+Aucun compte ou application supplémentaire n'est nécessaire pour le destinataire, le lien ouvre une page publique affichant les détails du ticket.
 
 ---
 
@@ -47,7 +47,7 @@ Vous pouvez également créer vos propres types de tickets personnalisés avec n
 | ------------------------ | ---------------------------------------- | ------------------------------------------- |
 | Émis à                   | **Employés** (enregistrements existants) | **Visiteurs** (aucun compte employé requis) |
 | Système de types         | Types entièrement personnalisables       | Type unique                                 |
-| Émission groupée | Oui ,  tout un département à la fois | Non |
+| Émission groupée | Oui, tout un département à la fois | Non |
 | Option "N'expire jamais" | Oui                                      | Non                                         |
 | Stockage                 | Rattaché au profil de l'employé          | Enregistrement visiteur séparé              |
 

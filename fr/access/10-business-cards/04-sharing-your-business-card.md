@@ -18,7 +18,7 @@ Chaque employé possède une URL publique basée sur son ID de badge :
 https://{domaine-de-votre-entreprise}/{badgeId}
 ```
 
-Copiez ce lien et partagez-le par e-mail, application de messagerie ou tout autre canal. Lorsque le destinataire l'ouvre, il voit directement votre carte de visite ,  aucune connexion n'est requise.
+Copiez ce lien et partagez-le par e-mail, application de messagerie ou tout autre canal. Lorsque le destinataire l'ouvre, il voit directement votre carte de visite, aucune connexion n'est requise.
 
 Vous pouvez trouver votre ID de badge sur la page **Mon Profil** dans le Portail Employé, dans le champ **ID Badge**.
 
@@ -33,7 +33,7 @@ Le code QR de votre badge renvoie directement à votre carte de visite (ou à vo
 1. Connectez-vous au Portail Employé.
 2. Allez sur **Accueil**.
 3. Cliquez sur **Afficher le Code QR**.
-4. Un code QR plein écran s'affiche ,  laissez l'autre personne le scanner avec son téléphone.
+4. Un code QR plein écran s'affiche, laissez l'autre personne le scanner avec son téléphone.
 
 Les **badges physiques** contiennent également un code QR. Scanner le badge imprimé avec n'importe quel appareil photo de téléphone ouvre automatiquement la page publique.
 

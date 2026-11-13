@@ -6,7 +6,7 @@ title: "Modifier un enregistrement d'employé"
 {/* category: Employee Management */}
 {/* audience: Admins, Managers */}
 
-Cet article explique comment ouvrir l'enregistrement d'un employé et naviguer dans les quatre onglets disponibles dans la modale d'employé ,  Profil, Sécurité, Badges et Santé & Sécurité.
+Cet article explique comment ouvrir l'enregistrement d'un employé et naviguer dans les quatre onglets disponibles dans la modale d'employé, Profil, Sécurité, Badges et Santé & Sécurité.
 
 ---
 
@@ -16,7 +16,7 @@ Accédez aux **Employés** dans la barre latérale pour ouvrir la liste des empl
 
 ![Liste des employés avec le bouton Modifier visible dans chaque ligne](../screenshots/employees-list.png)
 
-Cliquez sur le bouton **Modifier** (bleu, libellé "Modifier") sur n'importe quelle ligne pour ouvrir la modale d'employé. Vous pouvez également cliquer sur le **nom** de l'employé ,  cela ouvre la même modale sur l'onglet Profil.
+Cliquez sur le bouton **Modifier** (bleu, libellé "Modifier") sur n'importe quelle ligne pour ouvrir la modale d'employé. Vous pouvez également cliquer sur le **nom** de l'employé, cela ouvre la même modale sur l'onglet Profil.
 
 L'en-tête de la modale affiche :
 
@@ -38,7 +38,7 @@ La modale comporte quatre onglets en haut. Cliquez sur un onglet pour basculer, 
 | -------------------- | --------- | -------------------------------------------------------------------------------- |
 | **Profil**           | `Ctrl+1`  | Informations personnelles, détails organisationnels, photo, champs personnalisés |
 | **Sécurité**         | `Ctrl+2`  | Statut du badge, zones d'accès, PIN 2FA, planning d'accès, contrôles avancés     |
-| **Badges** | `Ctrl+3` | Historique complet des badges ,  émettre, révoquer ou réactiver des badges |
+| **Badges** | `Ctrl+3` | Historique complet des badges, émettre, révoquer ou réactiver des badges |
 | **Santé & Sécurité** | `Ctrl+4`  | Contact d'urgence, allergies, conditions médicales, certifications de sécurité   |
 
 ---
@@ -49,7 +49,7 @@ L'onglet Profil contient toutes les informations de base de l'employé. Consulte
 
 Points clés lors de la modification :
 
-- **L'identifiant employé** est en lecture seule après le premier enregistrement ,  il ne peut pas être modifié
+- **L'identifiant employé** est en lecture seule après le premier enregistrement, il ne peut pas être modifié
 - **Le département** doit déjà exister dans Paramètres → Départements avant d'être sélectionnable
 - **Les champs personnalisés** apparaissent en bas du formulaire si votre admin en a défini dans Paramètres → Champs personnalisés
 
@@ -77,7 +77,7 @@ Le menu déroulant **Statut** propose trois options que vous pouvez définir dir
 
 Les zones d'accès définissent les zones physiques auxquelles cet employé peut accéder. Lorsqu'un dispositif de pointage est assigné à une zone, il n'accordera l'entrée qu'aux employés affectés à cette zone.
 
-- Les **zones actuelles** apparaissent comme des étiquettes supprimables ,  cliquez sur × pour en supprimer une
+- Les **zones actuelles** apparaissent comme des étiquettes supprimables, cliquez sur × pour en supprimer une
 - Utilisez le **menu déroulant de zone** pour ajouter des zones supplémentaires
 - Si aucune zone n'est assignée, l'employé peut être scanné à n'importe quel dispositif
 - Cliquez sur **Gérer les zones d'accès** pour ouvrir la page des paramètres de zone
@@ -132,8 +132,8 @@ Cliquez sur **Émettre un nouveau badge** pour générer un badge avec un identi
 
 ### Révoquer et réactiver
 
-- **Révoquer** (affiché sur les badges actifs) ,  marque le badge comme `Perdu` et le désactive
-- **Réactiver** (affiché sur les badges inactifs/perdus) ,  restaure le badge en `Actif`
+- **Révoquer** (affiché sur les badges actifs), marque le badge comme `Perdu` et le désactive
+- **Réactiver** (affiché sur les badges inactifs/perdus), restaure le badge en `Actif`
 
 ---
 
@@ -146,8 +146,8 @@ L'onglet Santé & Sécurité stocke les données sensibles des employés pour la
 | Section                               | Champs                                                                         |
 | ------------------------------------- | ------------------------------------------------------------------------------ |
 | **Contact d'urgence**                 | Nom, Téléphone, Relation                                                       |
-| **Allergies** | Liste d'étiquettes ,  saisissez et appuyez sur Entrée ou cliquez sur Ajouter |
-| **Conditions médicales** | Liste d'étiquettes ,  même interaction |
+| **Allergies** | Liste d'étiquettes, saisissez et appuyez sur Entrée ou cliquez sur Ajouter |
+| **Conditions médicales** | Liste d'étiquettes, même interaction |
 | **Handicaps / Notes supplémentaires** | Champ de texte libre                                                           |
 | **Équipements de protection (EPI)**   | Liste d'étiquettes pour les équipements requis                                 |
 | **Certifications de sécurité**        | Liste de certifications avec nom, numéro, date d'émission et date d'expiration |

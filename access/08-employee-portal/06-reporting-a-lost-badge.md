@@ -12,9 +12,9 @@ If your badge has been lost, stolen, or damaged, report it immediately through t
 1. Click **Report Missing Badge** in the sidebar.
 2. Your current **Badge ID** is shown at the top (read-only).
 3. Select the reason from the dropdown:
-   - **Lost** ,  you cannot locate your badge
-   - **Stolen** ,  your badge was taken without your consent
-   - **Damaged** ,  your badge is physically damaged and unusable
+   - **Lost**, you cannot locate your badge
+   - **Stolen**, your badge was taken without your consent
+   - **Damaged**, your badge is physically damaged and unusable
 4. Optionally, add any relevant notes in the **Notes** field.
 5. Click **Submit**.
 
@@ -27,7 +27,7 @@ If your badge has been lost, stolen, or damaged, report it immediately through t
 
 ## After Reporting
 
-Once you submit the report, the page shows a confirmation message. You cannot reverse the report yourself ,  contact your HR or IT administrator to have a new badge assigned or to resolve the report if it was submitted in error.
+Once you submit the report, the page shows a confirmation message. You cannot reverse the report yourself, contact your HR or IT administrator to have a new badge assigned or to resolve the report if it was submitted in error.
 
 ## If the Form Does Not Appear
 

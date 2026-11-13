@@ -17,7 +17,7 @@ L'onglet **Configuration** du Centre d'Impression contrôle la disposition des b
 1. Allez dans le **Centre d'Impression** dans la barre latérale.
 2. Cliquez sur l'onglet **Configuration** (troisième onglet, après Individuel et Groupé).
 
-Les modifications prennent effet immédiatement ,  l'aperçu de la page en direct sur la droite se met à jour en temps réel à mesure que vous ajustez chaque paramètre.
+Les modifications prennent effet immédiatement, l'aperçu de la page en direct sur la droite se met à jour en temps réel à mesure que vous ajustez chaque paramètre.
 
 ---
 
@@ -36,8 +36,8 @@ Choisissez le format de papier qui correspond à celui sur lequel vous imprimez.
 
 | Option       | Description                                               |
 | ------------ | --------------------------------------------------------- |
-| **Portrait** | Page haute (par défaut) ,  permet plus de lignes de badges |
-| **Paysage** | Page large ,  permet plus de colonnes de badges |
+| **Portrait** | Page haute (par défaut), permet plus de lignes de badges |
+| **Paysage** | Page large, permet plus de colonnes de badges |
 
 Pour les badges au format CR80 (orientation paysage), l'orientation de la page en **Paysage** offre généralement la disposition la plus efficace.
 
@@ -92,7 +92,7 @@ Ces paramètres ajoutent des lignes de guidage à la sortie imprimée pour aider
 
 - Par défaut : **Désactivé**.
 - Ajoute une bordure pointillée tout autour du périmètre de chaque badge.
-- Plus visibles que les repères de coupe ,  plus faciles à voir pour une découpe à la main.
+- Plus visibles que les repères de coupe, plus faciles à voir pour une découpe à la main.
 - Peuvent être utilisées en complément des repères de coupe ou à leur place.
 
 > **Pour une découpe professionnelle** : Les repères de coupe seuls (sans lignes de découpe) sont la norme pour les travaux d'imprimerie. Les lignes de découpe sont préférables pour une découpe au bureau où le trait de guidage doit être bien visible.
@@ -108,7 +108,7 @@ Le côté droit de l'onglet Configuration affiche un aperçu réduit de la page 
 - Le nombre de badges par page.
 - L'interaction de tous les paramètres entre eux.
 
-L'aperçu est purement visuel ,  il n'utilise pas les données réelles des employés. Les badges affichent un contenu fictif.
+L'aperçu est purement visuel, il n'utilise pas les données réelles des employés. Les badges affichent un contenu fictif.
 
 ---
 

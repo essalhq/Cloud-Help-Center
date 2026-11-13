@@ -22,9 +22,9 @@ https://idpage.link/guest/{token}
 
 Où `{token}` est un UUID unique généré au moment de la création. Cette URL est :
 
-- **Publique** ,  aucune connexion n'est requise pour l'ouvrir.
-- **Permanente** ,  le lien ne change pas et n'expire pas (le statut du badge, oui).
-- **Unique** ,  chaque badge a un jeton (token) différent ; les liens ne peuvent pas être devinés.
+- **Publique**, aucune connexion n'est requise pour l'ouvrir.
+- **Permanente**, le lien ne change pas et n'expire pas (le statut du badge, oui).
+- **Unique**, chaque badge a un jeton (token) différent ; les liens ne peuvent pas être devinés.
 
 ---
 
@@ -49,7 +49,7 @@ Si vous devez partager à nouveau le lien après l'invitation initiale (ou si l'
 3. Cliquez sur le **menu à trois points (⋮)** à la fin de la ligne.
 4. Sélectionnez **Copier le Lien**.
 
-L'URL du badge est copiée dans votre presse-papiers et une notification de confirmation apparaît. Vous pouvez ensuite la coller où vous le souhaitez ,  SMS, WhatsApp, Slack, e-mail imprimé, etc.
+L'URL du badge est copiée dans votre presse-papiers et une notification de confirmation apparaît. Vous pouvez ensuite la coller où vous le souhaitez, SMS, WhatsApp, Slack, e-mail imprimé, etc.
 
 ---
 

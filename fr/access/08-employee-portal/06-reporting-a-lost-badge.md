@@ -15,9 +15,9 @@ Si votre badge a été perdu, volé ou endommagé, signalez-le immédiatement vi
 1. Cliquez sur **Signaler un Badge Manquant** dans la barre latérale.
 2. Votre **ID Badge** actuel est affiché en haut (lecture seule).
 3. Sélectionnez le motif dans la liste déroulante :
-   - **Perdu** ,  vous ne parvenez pas à localiser votre badge.
-   - **Volé** ,  votre badge a été pris sans votre consentement.
-   - **Endommagé** ,  votre badge est physiquement abîmé et inutilisable.
+   - **Perdu**, vous ne parvenez pas à localiser votre badge.
+   - **Volé**, votre badge a été pris sans votre consentement.
+   - **Endommagé**, votre badge est physiquement abîmé et inutilisable.
 4. Facultativement, ajoutez toute note pertinente dans le champ **Notes**.
 5. Cliquez sur **Soumettre**.
 
@@ -34,7 +34,7 @@ Si votre badge a été perdu, volé ou endommagé, signalez-le immédiatement vi
 
 ## Après le signalement
 
-Une fois le rapport soumis, la page affiche un message de confirmation. Vous ne pouvez pas annuler le rapport vous-même ,  contactez votre responsable RH ou votre administrateur informatique pour qu'un nouveau badge vous soit attribué ou pour résoudre le rapport s'il a été soumis par erreur.
+Une fois le rapport soumis, la page affiche un message de confirmation. Vous ne pouvez pas annuler le rapport vous-même, contactez votre responsable RH ou votre administrateur informatique pour qu'un nouveau badge vous soit attribué ou pour résoudre le rapport s'il a été soumis par erreur.
 
 ---
 

@@ -10,7 +10,7 @@ Un calendrier d'accès restreint les moments où le badge d'un employé peut êt
 
 ## Quand utiliser les calendriers d'accès
 
-Utilisez les calendriers d'accès pour les employés dont le badge ne doit être validé que pendant les heures de travail ,  par exemple, les prestataires ayant des horaires fixes ou le personnel temporaire ayant un accès limité au site.
+Utilisez les calendriers d'accès pour les employés dont le badge ne doit être validé que pendant les heures de travail, par exemple, les prestataires ayant des horaires fixes ou le personnel temporaire ayant un accès limité au site.
 
 ---
 
@@ -20,7 +20,7 @@ Utilisez les calendriers d'accès pour les employés dont le badge ne doit être
 2. Trouvez la section **Calendrier d'Accès** et activez-la.
 3. Définissez l'**Heure de début** et l'**Heure de fin** (format 24h).
 4. Choisissez les jours où le badge est valide :
-   - **Jours autorisés** ,  sélectionnez les jours individuels de la semaine (du dimanche au samedi)
+   - **Jours autorisés**, sélectionnez les jours individuels de la semaine (du dimanche au samedi)
    - Ou utilisez **Jours de semaine uniquement** pour autoriser automatiquement du lundi au vendredi
 5. Enregistrez le dossier de l'employé.
 

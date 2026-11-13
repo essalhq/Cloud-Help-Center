@@ -6,7 +6,7 @@ title: "Understanding User Roles"
 {/* category: Getting Started */}
 {/* audience: Admins */}
 
-Essal Access has four system user roles ,  **Admin**, **Manager**, **Security**, and **Employee**. Each role controls which pages a user can visit and which actions they can take inside the admin panel. This article explains what each role can do and how to decide which role to assign.
+Essal Access has four system user roles, **Admin**, **Manager**, **Security**, and **Employee**. Each role controls which pages a user can visit and which actions they can take inside the admin panel. This article explains what each role can do and how to decide which role to assign.
 
 ![System users list showing roles with color-coded badges](../screenshots/system-users.png)
 
@@ -40,23 +40,23 @@ Essal Access has four system user roles ,  **Admin**, **Manager**, **Security**,
 
 ## Admin
 
-**Full access.** Admins can do everything in the system ,  there are no restrictions on any page or action.
+**Full access.** Admins can do everything in the system, there are no restrictions on any page or action.
 
 Only Admins can:
 
 - **Delete employee records** permanently
-- **Invite, suspend, and delete other system users** ,  including other Admins
+- **Invite, suspend, and delete other system users**, including other Admins
 - **View raw user-agent strings** in the Audit Log detail panel
 
 Assign the Admin role to IT managers, HR administrators, or whoever is responsible for managing the Essal Access system itself. Keep the number of Admin accounts small.
 
-> An Admin cannot modify their own account from the System Users panel ,  this is a safety guard to prevent accidental self-lockout. To change your own password or profile, use the profile menu in the top-right corner.
+> An Admin cannot modify their own account from the System Users panel, this is a safety guard to prevent accidental self-lockout. To change your own password or profile, use the profile menu in the top-right corner.
 
 ---
 
 ## Manager
 
-**Broad access, no destructive actions.** Managers can access almost everything ,  employees, badges, settings, tickets, guest badges, audit logs ,  but they cannot delete employees or manage other system user accounts.
+**Broad access, no destructive actions.** Managers can access almost everything, employees, badges, settings, tickets, guest badges, audit logs, but they cannot delete employees or manage other system user accounts.
 
 Use the Manager role for:
 
@@ -70,15 +70,15 @@ The key difference from Admin: a Manager sees the full admin panel but the **del
 
 ## Security
 
-**Read-only, operational access.** Security guards and reception staff need to verify badges and review recent scan activity ,  they do not need to manage employee data or configure the system.
+**Read-only, operational access.** Security guards and reception staff need to verify badges and review recent scan activity, they do not need to manage employee data or configure the system.
 
 Security users can access:
 
-- **Dashboard** ,  live overview of recent scan activity and alerts
-- **Employees** ,  view the list and search for an employee (read-only; no add, edit, or delete)
-- **Guest Badges** ,  view and verify guest badge status
-- **Scan Logs** ,  review the full history of badge scans
-- **Audit Logs** ,  review system activity
+- **Dashboard**, live overview of recent scan activity and alerts
+- **Employees**, view the list and search for an employee (read-only; no add, edit, or delete)
+- **Guest Badges**, view and verify guest badge status
+- **Scan Logs**, review the full history of badge scans
+- **Audit Logs**, review system activity
 
 Security users **cannot** access: Badge Designer, Print Center, Tickets, Settings, System Users, Public Page Editor, or Business Card Editor.
 
@@ -88,7 +88,7 @@ Use this role for frontline security staff, receptionists, and gate operators.
 
 ## Employee
 
-**Portal-only access.** Employee-role users do not see the admin panel at all. When they sign in, they are redirected to the **Employee Portal** ,  a separate interface where they can:
+**Portal-only access.** Employee-role users do not see the admin panel at all. When they sign in, they are redirected to the **Employee Portal**, a separate interface where they can:
 
 - View and display their own badge and QR code
 - View their profile, role, department, and employment details
@@ -96,7 +96,7 @@ Use this role for frontline security staff, receptionists, and gate operators.
 - Report a lost or stolen badge
 - View their digital business card
 
-The Employee role is typically assigned automatically when a system user account is linked to an employee record. It is not commonly set manually ,  most staff who need administrative access should get Manager or Security instead.
+The Employee role is typically assigned automatically when a system user account is linked to an employee record. It is not commonly set manually, most staff who need administrative access should get Manager or Security instead.
 
 **Full guide**: Employee Portal Overview
 
@@ -116,7 +116,7 @@ To link an account, open **System Users**, find or create the user, and select t
 
 ---
 
-## Decision Guide ,  Which Role to Assign?
+## Decision Guide, Which Role to Assign?
 
 | Scenario                                            | Recommended role                    |
 | --------------------------------------------------- | ----------------------------------- |
