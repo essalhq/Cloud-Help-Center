@@ -1,0 +1,19 @@
+---
+title: "Troubleshoot Mail delivery and access"
+description: "Check identity access, provider state, and message errors before retrying."
+---
+
+Narrow a Mail problem to mailbox access, sending, receiving, or display before changing settings. Keep the workspace, identity, and approximate message time available for support.
+
+| Problem | First checks |
+| --- | --- |
+| Mailbox is missing | Correct workspace, assigned identity, and the user’s access to that identity. |
+| Cannot send | Sender identity, provider connection, recipient address, and displayed send error. Check Sent before retrying. |
+| Message is not received | Correct mailbox and folder, search, filters or rules, and provider status. Ask an administrator about synchronization errors. |
+| Domain is not verified | DNS record name, type, and value against the records requested by the app. |
+| Attachment fails | Composer’s accepted file requirements, connection, and upload error. |
+| Signature differs | Identity selected in the composer and its saved signature settings. |
+
+Ask the workspace administrator to investigate provider credentials or domain records. Do not disconnect a working provider as a first troubleshooting step; other users may depend on it.
+
+When contacting [support](/introduction/contact), provide the error and the affected identity without passwords, API keys, authorization links, or full confidential message content. Use [service status](/introduction/status) if several people are affected.
