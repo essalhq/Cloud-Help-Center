@@ -91,18 +91,6 @@
                                                        "href":  "/project/getting-started"
                                                   },
                                                   {
-                                                    "label": "Office",
-                                                    "href": "/office/getting-started"
-                                                  },
-                                                  {
-                                                    "label": "Mail",
-                                                    "href": "/mail/getting-started"
-                                                  },
-                                                  {
-                                                    "label": "Roadmaps",
-                                                    "href": "/roadmaps/getting-started"
-                                                  },
-                                                   {
                                                        "label":  "Guard",
                                                        "href":  "/guard/getting-started"
                                                   }
@@ -364,50 +352,6 @@
                                                                          ]
                                                           },
                                                           {
-                                                            "tab": "Office",
-                                                            "groups": [
-                                                              {
-                                                                "group": "Getting Started",
-                                                                "pages": [
-                                                                  "office/getting-started",
-                                                                  "office/documents-and-folders",
-                                                                  "office/sharing-and-permissions",
-                                                                  "office/import-and-export",
-                                                                  "office/trash-and-recovery"
-                                                                ]
-                                                              }
-                                                            ]
-                                                          },
-                                                          {
-                                                            "tab": "Mail",
-                                                            "groups": [
-                                                              {
-                                                                "group": "Guides",
-                                                                "pages": [
-                                                                  "mail/getting-started",
-                                                                  "mail/messages-and-attachments",
-                                                                  "mail/providers-and-identities",
-                                                                  "mail/rules-and-signatures",
-                                                                  "mail/troubleshooting"
-                                                                ]
-                                                              }
-                                                            ]
-                                                          },
-                                                          {
-                                                            "tab": "Roadmaps",
-                                                            "groups": [
-                                                              {
-                                                                "group": "Guides",
-                                                                "pages": [
-                                                                  "roadmaps/getting-started",
-                                                                  "roadmaps/feedback-and-votes",
-                                                                  "roadmaps/roadmaps-and-updates",
-                                                                  "roadmaps/support-and-profile"
-                                                                ]
-                                                              }
-                                                            ]
-                                                          },
-                                                          {
                                                               "tab":  "Guard",
                                                               "groups":  [
                                                                              {
@@ -622,50 +566,6 @@
                                                                                            ]
                                                                              }
                                                                          ]
-                                                          },
-                                                          {
-                                                            "tab": "Office",
-                                                            "groups": [
-                                                              {
-                                                                "group": "Guide de Démarrage",
-                                                                "pages": [
-                                                                  "fr/office/getting-started",
-                                                                  "fr/office/documents-and-folders",
-                                                                  "fr/office/sharing-and-permissions",
-                                                                  "fr/office/import-and-export",
-                                                                  "fr/office/trash-and-recovery"
-                                                                ]
-                                                              }
-                                                            ]
-                                                          },
-                                                          {
-                                                            "tab": "Mail",
-                                                            "groups": [
-                                                              {
-                                                                "group": "Guides",
-                                                                "pages": [
-                                                                  "fr/mail/getting-started",
-                                                                  "fr/mail/messages-and-attachments",
-                                                                  "fr/mail/providers-and-identities",
-                                                                  "fr/mail/rules-and-signatures",
-                                                                  "fr/mail/troubleshooting"
-                                                                ]
-                                                              }
-                                                            ]
-                                                          },
-                                                          {
-                                                            "tab": "Roadmaps",
-                                                            "groups": [
-                                                              {
-                                                                "group": "Guides",
-                                                                "pages": [
-                                                                  "fr/roadmaps/getting-started",
-                                                                  "fr/roadmaps/feedback-and-votes",
-                                                                  "fr/roadmaps/roadmaps-and-updates",
-                                                                  "fr/roadmaps/support-and-profile"
-                                                                ]
-                                                              }
-                                                            ]
                                                           },
                                                           {
                                                               "tab":  "Guard",
@@ -1418,6 +1318,146 @@
                     },
                     {
                       "source": "/fr/sales/getting-started",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/office/getting-started",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/office/documents-and-folders",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/office/sharing-and-permissions",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/office/import-and-export",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/office/trash-and-recovery",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/mail/getting-started",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/mail/messages-and-attachments",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/mail/providers-and-identities",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/mail/rules-and-signatures",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/mail/troubleshooting",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/roadmaps/getting-started",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/roadmaps/feedback-and-votes",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/roadmaps/roadmaps-and-updates",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/roadmaps/support-and-profile",
+                      "destination": "/",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/office/getting-started",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/office/documents-and-folders",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/office/sharing-and-permissions",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/office/import-and-export",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/office/trash-and-recovery",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/mail/getting-started",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/mail/messages-and-attachments",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/mail/providers-and-identities",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/mail/rules-and-signatures",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/mail/troubleshooting",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/roadmaps/getting-started",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/roadmaps/feedback-and-votes",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/roadmaps/roadmaps-and-updates",
+                      "destination": "/fr/index",
+                      "permanent": true
+                    },
+                    {
+                      "source": "/fr/roadmaps/support-and-profile",
                       "destination": "/fr/index",
                       "permanent": true
                     }
