@@ -134,7 +134,7 @@
                                                    },
                                                    {
                                                        "label":  "Legal Center",
-                                                       "href":  "https://legal.essal.cloud/"
+                                                       "href":  "https://legal.essal.it.com/"
                                                    },
                                                    {
                                                        "label":  "Verify credentials",
@@ -176,12 +176,16 @@
                                      "items":  [
                                                    {
                                                        "label":  "Privacy",
-                                                       "href":  "https://legal.essal.cloud/privacy"
+                                                       "href":  "https://legal.essal.it.com/privacy"
                                                    },
                                                    {
                                                        "label":  "Terms of use",
-                                                       "href":  "https://legal.essal.cloud/terms"
-                                                   },
+                                                       "href":  "https://legal.essal.it.com/terms"
+                                                  },
+                                                  {
+                                                    "label": "Refunds",
+                                                    "href": "https://legal.essal.it.com/refunds"
+                                                  },
                                                    {
                                                        "label":  "Leave Feedback",
                                                        "href":  "https://review.essal.cloud/"
