@@ -5,116 +5,122 @@ hideFooterPagination: true
 mode: "frame"
 ---
 
-<h1 className="sr-only">How can we help?</h1>
+<div className="flex min-w-0 flex-col gap-10 sm:gap-12">
+  <div className="flex min-w-0 flex-col gap-4">
+    <h1 className="sr-only">How can we help?</h1>
 
-<img
-  src="/images/help-center-blueprint.png"
-  alt="Find guides, quick answers, and support for your Essal Work apps. Blueprint illustration of connected modules."
-  width="2172"
-  height="724"
-  fetchPriority="high"
-  loading="eager"
-  className="aspect-[3/1] h-auto w-full rounded-2xl object-contain"
-/>
+    <img src="/images/help-center-blueprint.png" alt="Find guides, quick answers, and support for your Essal Work apps. Blueprint illustration of connected modules." width="2172" height="724" fetchPriority="high" loading="eager" className="block aspect-[3/1] h-auto w-full rounded-2xl object-contain" />
 
-Search for a task or an error message using the search bar above, or choose a topic below.
+    Search for a task or an error message using the search bar above, or choose a topic below.
+  </div>
 
-## What do you need help with?
+  <section className="flex min-w-0 flex-col gap-5" aria-labelledby="what-do-you-need-help-with">
+    <h2 id="what-do-you-need-help-with" className="m-0 text-2xl font-semibold tracking-tight">What do you need help with?</h2>
 
-<Columns cols={3}>
-  <Card title="Sign in to your account" icon="key" href="/getting-started/sign-in" arrow>
-    Recover access, use an invitation, or resolve a sign-in problem.
-  </Card>
+    <Columns cols={3} className="my-0">
+      <Card title="Sign in to your account" icon="key" href="/getting-started/sign-in" arrow>
+        Recover access, use an invitation, or resolve a sign-in problem.
+      </Card>
 
-  <Card title="Set up your organization" icon="rocket" href="/getting-started/organization-setup" arrow>
-    Get your workspace ready and complete your first task.
-  </Card>
+      <Card title="Set up your organization" icon="rocket" href="/getting-started/organization-setup" arrow>
+        Get your workspace ready and complete your first task.
+      </Card>
 
-  <Card title="Members and permissions" icon="users-gear" href="/account/members-and-permissions" arrow>
-    Invite colleagues and understand who can access what.
-  </Card>
+      <Card title="Members and permissions" icon="users-gear" href="/account/members-and-permissions" arrow>
+        Invite colleagues and understand who can access what.
+      </Card>
 
-  <Card title="Billing and refunds" icon="credit-card" href="/billing/manage-purchases" arrow>
-    Find invoices, manage a subscription, or request a refund.
-  </Card>
+      <Card title="Billing and refunds" icon="credit-card" href="/billing/manage-purchases" arrow>
+        Find invoices, manage a subscription, or request a refund.
+      </Card>
 
-  <Card title="Fix a problem" icon="wrench" href="/troubleshooting/common-problems" arrow>
-    Check missing features, saving, uploads, and connectivity.
-  </Card>
+      <Card title="Fix a problem" icon="wrench" href="/troubleshooting/common-problems" arrow>
+        Check missing features, saving, uploads, and connectivity.
+      </Card>
 
-  <Card title="Privacy and your data" icon="user-shield" href="/privacy/manage-data" arrow>
-    Find the right contact for data access and deletion requests.
-  </Card>
-</Columns>
+      <Card title="Privacy and your data" icon="user-shield" href="/privacy/manage-data" arrow>
+        Find the right contact for data access and deletion requests.
+      </Card>
+    </Columns>
+  </section>
 
-## Explore your product
+  <section className="flex min-w-0 flex-col gap-5" aria-labelledby="explore-your-product">
+    <h2 id="explore-your-product" className="m-0 text-2xl font-semibold tracking-tight">Explore your product</h2>
 
-Start with the app you use. Each guide covers its own workflows, settings, and permissions.
+    Start with the app you use. Each guide covers its own workflows, settings, and permissions.
 
-<Columns cols={2}>
-  <Card title="Essal Access" color="#0066FF" icon="id-card" href="/access/getting-started/what-is-essal-access" cta="Explore Access" arrow>
-    Manage employees, design badges, welcome visitors, and use check-in devices.
-  </Card>
+    <Columns cols={2} className="my-0">
+      <Card title="Essal Access" color="#0066FF" icon="id-card" href="/access/getting-started/what-is-essal-access" cta="Explore Access" arrow>
+        Manage employees, design badges, welcome visitors, and use check-in devices.
+      </Card>
 
-  <Card title="Essal Talent" color="#7C3AED" icon="users" href="/talent/getting-started" cta="Explore Talent" arrow>
-    Prepare jobs, review applications, and coordinate your hiring team.
-  </Card>
+      <Card title="Essal Talent" color="#7C3AED" icon="users" href="/talent/getting-started" cta="Explore Talent" arrow>
+        Prepare jobs, review applications, and coordinate your hiring team.
+      </Card>
 
-  <Card title="Essal Project" color="#0891B2" icon="list-check" href="/project/getting-started" cta="Explore Project" arrow>
-    Organize projects and tasks, collaborate, and keep track of your work.
-  </Card>
+      <Card title="Essal Project" color="#0891B2" icon="list-check" href="/project/getting-started" cta="Explore Project" arrow>
+        Organize projects and tasks, collaborate, and keep track of your work.
+      </Card>
 
-  <Card title="Essal Guard" color="#16A34A" icon="shield-halved" href="/guard/getting-started" cta="Explore Guard" arrow>
-    Find security-awareness guidance and the right route to report a concern.
-  </Card>
-</Columns>
+      <Card title="Essal Guard" color="#16A34A" icon="shield-halved" href="/guard/getting-started" cta="Explore Guard" arrow>
+        Find security-awareness guidance and the right route to report a concern.
+      </Card>
+    </Columns>
+  </section>
 
-## Useful guides to start with
+  <section className="flex min-w-0 flex-col gap-5" aria-labelledby="useful-guides-to-start-with">
+    <h2 id="useful-guides-to-start-with" className="m-0 text-2xl font-semibold tracking-tight">Useful guides to start with</h2>
 
-<Columns cols={2}>
-  <Card title="Add your first employee" icon="user-plus" horizontal href="/access/employee-management/adding-a-new-employee">
-    Create an employee record in Access.
-  </Card>
+    <Columns cols={2} className="my-0">
+      <Card title="Add your first employee" icon="user-plus" horizontal href="/access/employee-management/adding-a-new-employee">
+        Create an employee record in Access.
+      </Card>
 
-  <Card title="Understand a scan result" icon="qrcode" horizontal href="/access/check-in-devices/understanding-scan-results">
-    Find out why a badge scan was granted or denied.
-  </Card>
+      <Card title="Understand a scan result" icon="qrcode" horizontal href="/access/check-in-devices/understanding-scan-results">
+        Find out why a badge scan was granted or denied.
+      </Card>
 
-  <Card title="Prepare a job posting" icon="briefcase" horizontal href="/talent/jobs-and-career-page">
-    Review the job and application form before publishing.
-  </Card>
+      <Card title="Prepare a job posting" icon="briefcase" horizontal href="/talent/jobs-and-career-page">
+        Review the job and application form before publishing.
+      </Card>
 
-  <Card title="Create a project and task" icon="clipboard-check" horizontal href="/project/projects-and-tasks">
-    Assign responsibility and follow progress.
-  </Card>
-</Columns>
+      <Card title="Create a project and task" icon="clipboard-check" horizontal href="/project/projects-and-tasks">
+        Assign responsibility and follow progress.
+      </Card>
+    </Columns>
+  </section>
 
-## Quick answers
+  <section className="flex min-w-0 flex-col gap-5" aria-labelledby="quick-answers">
+    <h2 id="quick-answers" className="m-0 text-2xl font-semibold tracking-tight">Quick answers</h2>
 
-<AccordionGroup>
-  <Accordion title="Why can’t I see a page or button?" icon="lock">
-    Confirm the app and organization you are using, then check your role and the resource’s permissions. Ask your organization’s administrator for the specific access you need. See [members and permissions](/account/members-and-permissions).
-  </Accordion>
+    <AccordionGroup className="my-0">
+      <Accordion title="Why can’t I see a page or button?" icon="lock">
+        Confirm the app and organization you are using, then check your role and the resource’s permissions. Ask your organization’s administrator for the specific access you need. See [members and permissions](/account/members-and-permissions).
+      </Accordion>
 
-  <Accordion title="Where can I find an invoice or cancel a subscription?" icon="receipt">
-    Start with your purchase receipt. For Paddle purchases, use the links in the receipt or [paddle.net](https://paddle.net). For direct Essal purchases, follow [billing help](/billing/manage-purchases). Deleting an app account does not automatically cancel a subscription.
-  </Accordion>
+      <Accordion title="Where can I find an invoice or cancel a subscription?" icon="receipt">
+        Start with your purchase receipt. For Paddle purchases, use the links in the receipt or [paddle.net](https://paddle.net). For direct Essal purchases, follow [billing help](/billing/manage-purchases). Deleting an app account does not automatically cancel a subscription.
+      </Accordion>
 
-  <Accordion title="Who should I contact about a workplace record?" icon="address-book">
-    Your employer or the organization responsible for an employee or applicant record is usually the right first contact. Use [privacy and data help](/privacy/manage-data) to identify the route for your request.
-  </Accordion>
-</AccordionGroup>
+      <Accordion title="Who should I contact about a workplace record?" icon="address-book">
+        Your employer or the organization responsible for an employee or applicant record is usually the right first contact. Use [privacy and data help](/privacy/manage-data) to identify the route for your request.
+      </Accordion>
+    </AccordionGroup>
+  </section>
 
-## Still need a hand?
+  <section className="flex min-w-0 flex-col gap-5" aria-labelledby="still-need-a-hand">
+    <h2 id="still-need-a-hand" className="m-0 text-2xl font-semibold tracking-tight">Still need a hand?</h2>
 
-<Columns cols={2}>
-  <Card title="Contact support" icon="life-ring" href="/introduction/contact" cta="Get in touch" arrow>
-    Tell us which app you use, what you tried, and the error you saw. We’ll help route your question.
-  </Card>
+    <Columns cols={2} className="my-0">
+      <Card title="Contact support" icon="life-ring" href="/introduction/contact" cta="Get in touch" arrow>
+        Tell us which app you use, what you tried, and the error you saw. We’ll help route your question.
+      </Card>
 
-  <Card title="Check service status" icon="signal" href="https://status.essal.cloud" cta="View status" arrow>
-    Read published incidents and service updates when several people are affected.
-  </Card>
-</Columns>
+      <Card title="Check service status" icon="signal" href="https://status.essal.cloud" cta="View status" arrow>
+        Read published incidents and service updates when several people are affected.
+      </Card>
+    </Columns>
 
-Looking for policies? Visit the [Essal Legal Center](https://legal.essal.it.com) for terms, privacy, refunds, and other agreements.
+    Looking for policies? Visit the [Essal Legal Center](https://legal.essal.it.com) for terms, privacy, refunds, and other agreements.
+  </section>
+</div>
